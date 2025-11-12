@@ -11,12 +11,20 @@ async function demo() {
 
   console.log('Australia translation structure:')
   console.log('Country translation:', australiaData.get('translation'))
-  console.log('Provinces:', Array.from(australiaData.keys()).filter(k => k !== 'translation'))
+  console.log(
+    'Provinces:',
+    Array.from(australiaData.keys()).filter(k => k !== 'translation')
+  )
 
   // 显示一个省份的翻译
   const queensland = australiaData.get('Queensland')
   console.log('Queensland translation:', queensland.get('translation'))
-  console.log('Queensland cities (first 5):', Array.from(queensland.keys()).filter(k => k !== 'translation').slice(0, 5))
+  console.log(
+    'Queensland cities (first 5):',
+    Array.from(queensland.keys())
+      .filter(k => k !== 'translation')
+      .slice(0, 5)
+  )
 
   // 模拟使用完毕，清理内存
   console.log('\nCleaning up memory...')

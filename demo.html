@@ -1,159 +1,166 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JS Locations ZH Demo</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .container {
-            margin: 20px 0;
-        }
-        select, button {
-            padding: 8px;
-            margin: 5px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        .loading {
-            color: #666;
-        }
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .container {
+        margin: 20px 0;
+      }
+      select,
+      button {
+        padding: 8px;
+        margin: 5px;
+      }
+      pre {
+        background: #f4f4f4;
+        padding: 10px;
+        border-radius: 4px;
+        overflow-x: auto;
+      }
+      .loading {
+        color: #666;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <h1>JS Locations ZH 动态加载 Demo</h1>
     <p>选择一个国家，动态加载其地理数据（省份和城市列表）。</p>
 
     <div class="container">
-        <label for="countrySelect">选择国家：</label>
-        <select id="countrySelect"></select>
-        <button id="loadBtn">加载数据</button>
+      <label for="countrySelect">选择国家：</label>
+      <select id="countrySelect"></select>
+      <button id="loadBtn">加载数据</button>
     </div>
 
     <div class="container">
-        <h3>加载结果：</h3>
-        <div id="result" class="loading">等待选择国家...</div>
+      <h3>加载结果：</h3>
+      <div id="result" class="loading">等待选择国家...</div>
     </div>
 
     <div class="container">
-        <h3>内存使用情况：</h3>
-        <div id="memory">初始内存: <span id="initialMemory">-</span> MB</div>
-        <div id="memoryChange">内存变化: <span id="memoryDiff">0</span> MB</div>
+      <h3>内存使用情况：</h3>
+      <div id="memory">初始内存: <span id="initialMemory">-</span> MB</div>
+      <div id="memoryChange">内存变化: <span id="memoryDiff">0</span> MB</div>
     </div>
 
     <script type="module">
-        import { getCountryData, getAllCountries } from './dist/index.es.js.mjs'
+      import { getCountryData, getAllCountries } from './dist/index.es.js.mjs'
 
-        const countrySelect = document.getElementById('countrySelect')
-        const loadBtn = document.getElementById('loadBtn')
-        const resultDiv = document.getElementById('result')
-        const memoryDiv = document.getElementById('memory')
-        const memoryChangeDiv = document.getElementById('memoryChange')
-        const initialMemorySpan = document.getElementById('initialMemory')
-        const memoryDiffSpan = document.getElementById('memoryDiff')
+      const countrySelect = document.getElementById('countrySelect')
+      const loadBtn = document.getElementById('loadBtn')
+      const resultDiv = document.getElementById('result')
+      const memoryDiv = document.getElementById('memory')
+      const memoryChangeDiv = document.getElementById('memoryChange')
+      const initialMemorySpan = document.getElementById('initialMemory')
+      const memoryDiffSpan = document.getElementById('memoryDiff')
 
-        let currentData = null
-        let initialMemory = 0
-        let lastMemory = 0
+      let currentData = null
+      let initialMemory = 0
+      let lastMemory = 0
 
-        // 初始化内存监控
-        if (performance.memory) {
-            initialMemory = performance.memory.usedJSHeapSize / 1024 / 1024
-            initialMemorySpan.textContent = initialMemory.toFixed(2)
-            lastMemory = initialMemory
+      // 初始化内存监控
+      if (performance.memory) {
+        initialMemory = performance.memory.usedJSHeapSize / 1024 / 1024
+        initialMemorySpan.textContent = initialMemory.toFixed(2)
+        lastMemory = initialMemory
+      }
+
+      function updateMemoryDisplay() {
+        if (!performance.memory) {
+          memoryDiv.textContent = '浏览器不支持内存监控'
+          return
         }
 
-        function updateMemoryDisplay() {
-            if (!performance.memory) {
-                memoryDiv.textContent = '浏览器不支持内存监控'
-                return
+        const currentMemory = performance.memory.usedJSHeapSize / 1024 / 1024
+        const diff = currentMemory - lastMemory
+        memoryDiffSpan.textContent = (diff >= 0 ? '+' : '') + diff.toFixed(2)
+        memoryDiffSpan.style.color =
+          diff > 0 ? 'red' : diff < 0 ? 'green' : 'black'
+        lastMemory = currentMemory
+      }
+
+      // 填充国家选择器
+      const countries = getAllCountries()
+      countries.forEach(country => {
+        const option = document.createElement('option')
+        option.value = country
+        option.textContent = country
+        countrySelect.appendChild(option)
+      })
+
+      // 加载按钮事件
+      loadBtn.addEventListener('click', async () => {
+        const selectedCountry = countrySelect.value
+        if (!selectedCountry) return
+
+        resultDiv.textContent = '正在加载翻译数据...'
+        resultDiv.className = 'loading'
+
+        try {
+          // 清理之前的内存
+          if (currentData) {
+            currentData = null
+            // 强制垃圾回收（如果可用）
+            if (window.gc) {
+              window.gc()
             }
+            updateMemoryDisplay()
+            memoryDiv.textContent = `已清理上一个国家的内存 (变化: ${memoryDiffSpan.textContent} MB)`
+          }
 
-            const currentMemory = performance.memory.usedJSHeapSize / 1024 / 1024
-            const diff = currentMemory - lastMemory
-            memoryDiffSpan.textContent = (diff >= 0 ? '+' : '') + diff.toFixed(2)
-            memoryDiffSpan.style.color = diff > 0 ? 'red' : diff < 0 ? 'green' : 'black'
-            lastMemory = currentMemory
+          // 动态加载国家翻译数据
+          const module = await getCountryData(selectedCountry)
+          currentData = module.default
+
+          updateMemoryDisplay()
+          const loadMemoryChange = memoryDiffSpan.textContent
+
+          // 显示结果
+          const countryTranslation = currentData.get('translation')
+          const provinces = Array.from(currentData.keys()).filter(
+            k => k !== 'translation'
+          )
+
+          let result = `<strong>${selectedCountry}</strong> 的翻译对照：<br>`
+          result += `国家翻译：${countryTranslation || '（未设置）'}<br>`
+          result += `省份数量：${provinces.length}<br><br>`
+
+          provinces.forEach(province => {
+            const provinceMap = currentData.get(province)
+            const provinceTranslation = provinceMap.get('translation')
+            const cities = Array.from(provinceMap.keys()).filter(
+              k => k !== 'translation'
+            )
+            result += `<strong>${province}</strong> (${
+              provinceTranslation || '（未设置）'
+            }): `
+            result += cities.slice(0, 3).join(', ')
+            if (cities.length > 3) result += '...'
+            result += '<br>'
+          })
+
+          resultDiv.innerHTML = result
+          resultDiv.className = ''
+
+          memoryDiv.textContent = `已加载 ${selectedCountry} 的翻译数据 (内存变化: ${loadMemoryChange} MB)`
+        } catch (error) {
+          resultDiv.textContent = `加载失败：${error.message}`
+          resultDiv.className = ''
         }
+      })
 
-        // 填充国家选择器
-        const countries = getAllCountries()
-        countries.forEach(country => {
-            const option = document.createElement('option')
-            option.value = country
-            option.textContent = country
-            countrySelect.appendChild(option)
-        })
-
-        // 加载按钮事件
-        loadBtn.addEventListener('click', async () => {
-            const selectedCountry = countrySelect.value
-            if (!selectedCountry) return
-
-            resultDiv.textContent = '正在加载翻译数据...'
-            resultDiv.className = 'loading'
-
-            try {
-                // 清理之前的内存
-                if (currentData) {
-                    currentData = null
-                    // 强制垃圾回收（如果可用）
-                    if (window.gc) {
-                        window.gc()
-                    }
-                    updateMemoryDisplay()
-                    memoryDiv.textContent = `已清理上一个国家的内存 (变化: ${memoryDiffSpan.textContent} MB)`
-                }
-
-                // 动态加载国家翻译数据
-                const module = await getCountryData(selectedCountry)
-                currentData = module.default
-
-                updateMemoryDisplay()
-                const loadMemoryChange = memoryDiffSpan.textContent
-
-                // 显示结果
-                const countryTranslation = currentData.get('translation')
-                const provinces = Array.from(currentData.keys()).filter(k => k !== 'translation')
-
-                let result = `<strong>${selectedCountry}</strong> 的翻译对照：<br>`
-                result += `国家翻译：${countryTranslation || '（未设置）'}<br>`
-                result += `省份数量：${provinces.length}<br><br>`
-
-                provinces.forEach(province => {
-                    const provinceMap = currentData.get(province)
-                    const provinceTranslation = provinceMap.get('translation')
-                    const cities = Array.from(provinceMap.keys()).filter(k => k !== 'translation')
-                    result += `<strong>${province}</strong> (${provinceTranslation || '（未设置）'}): `
-                    result += cities.slice(0, 3).join(', ')
-                    if (cities.length > 3) result += '...'
-                    result += '<br>'
-                })
-
-                resultDiv.innerHTML = result
-                resultDiv.className = ''
-
-                memoryDiv.textContent = `已加载 ${selectedCountry} 的翻译数据 (内存变化: ${loadMemoryChange} MB)`
-
-            } catch (error) {
-                resultDiv.textContent = `加载失败：${error.message}`
-                resultDiv.className = ''
-            }
-        })
-
-        // 初始选择第一个国家
-        if (countries.length > 1) {
-            countrySelect.value = countries[1] // 跳过 '-'
-        }
+      // 初始选择第一个国家
+      if (countries.length > 1) {
+        countrySelect.value = countries[1] // 跳过 '-'
+      }
     </script>
-</body>
+  </body>
 </html>
