@@ -1,0 +1,12 @@
+{
+  "name": "ip-location-processor",
+  "version": "1.0.0",
+  "description": "Process IP2Location CSV to generate hierarchical JSON",
+  "main": "process_ip.js",
+  "scripts": {
+    "start": "node process_ip.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
