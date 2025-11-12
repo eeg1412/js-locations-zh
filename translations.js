@@ -103214,12 +103214,12 @@ const translations = new Map([
   [
     'Macao',
     new Map([
-      ['translation', ''],
+      ['translation', '澳门特别行政区'],
       [
         'Macao',
         new Map([
-          ['translation', ''],
-          ['Macau', '']
+          ['translation', '澳门特别行政区'],
+          ['Macau', '澳门']
         ])
       ]
     ])
