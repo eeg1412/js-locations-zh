@@ -1,1 +1,0 @@
-const t=/* @__PURE__ */new Map([["translation",""],["Eastern District",/* @__PURE__ */new Map([["translation",""],["Pago Pago",""]])],["Western District",/* @__PURE__ */new Map([["translation",""],["Leone",""]])]]);export{t as default};

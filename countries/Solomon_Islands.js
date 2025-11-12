@@ -1,1 +1,0 @@
-export default new Map([["translation", ""], ["Guadalcanal", new Map([["translation", ""], ["Honiara", ""]])], ["Choiseul", new Map([["translation", ""], ["Sarelata", ""]])], ["Malaita", new Map([["translation", ""], ["Auki", ""]])], ["Makira-Ulawa", new Map([["translation", ""], ["Kirakira", ""]])]]);

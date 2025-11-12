@@ -1,1 +1,0 @@
-export default new Map([["translation", ""], ["Brunei-Muara", new Map([["translation", ""], ["Bandar Seri Begawan", ""], ["Peramu", ""]])], ["Belait", new Map([["translation", ""], ["Kuala Belait", ""]])], ["Tutong", new Map([["translation", ""], ["Kampong Kuala Tutong", ""], ["Tutong", ""]])], ["Temburong", new Map([["translation", ""], ["Bangar", ""]])]]);

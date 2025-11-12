@@ -1,1 +1,0 @@
-export default new Map([["translation", ""], ["Banjul", new Map([["translation", ""], ["Bakau", ""], ["Banjul", ""]])], ["Western", new Map([["translation", ""], ["Abuko", ""], ["Brikama", ""], ["Gunjur", ""], ["Somita", ""], ["Sukuta", ""]])], ["North Bank", new Map([["translation", ""], ["Farafenni", ""]])], ["Central River", new Map([["translation", ""], ["Kuntaur", ""]])]]);

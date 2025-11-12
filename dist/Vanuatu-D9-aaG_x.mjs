@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation",""],["Shefa",/* @__PURE__ */new Map([["translation",""],["Port-Vila",""]])],["Sanma",/* @__PURE__ */new Map([["translation",""],["Luganville",""]])]]);export{a as default};

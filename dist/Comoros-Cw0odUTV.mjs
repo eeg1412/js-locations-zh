@@ -1,1 +1,0 @@
-const n=/* @__PURE__ */new Map([["translation",""],["Grande Comore",/* @__PURE__ */new Map([["translation",""],["Mavingouni",""],["Moroni",""],["Ntsoudjini",""],["Oussivo",""],["Selea",""],["Tsidje",""]])],["Moheli",/* @__PURE__ */new Map([["translation",""],["Fomboni",""]])]]);export{n as default};

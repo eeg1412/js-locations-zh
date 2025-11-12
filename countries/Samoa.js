@@ -1,1 +1,0 @@
-export default new Map([["translation", ""], ["Tuamasaga", new Map([["translation", ""], ["Apia", ""]])], ["Fa'asaleleaga", new Map([["translation", ""], ["Faleata", ""], ["Vaimauga", ""]])], ["Atua", new Map([["translation", ""], ["Lotofaga", ""]])]]);

@@ -1,1 +1,0 @@
-export default new Map([["translation", ""], ["Bangui", new Map([["translation", ""], ["Bangui", ""]])], ["Bamingui-Bangoran", new Map([["translation", ""], ["Ndele", ""]])], ["Haut-Mbomou", new Map([["translation", ""], ["Obo", ""]])], ["Haute-Kotto", new Map([["translation", ""], ["Bria", ""]])]]);

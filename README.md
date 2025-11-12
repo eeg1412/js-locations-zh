@@ -114,28 +114,32 @@ const translations = new Map([
 ])
 ```
 
-## 使用 translations.js
+## 使用方法
 
-`translations.js` 文件导出了一个 Map 对象，您可以在代码中使用它来进行地理位置的中文翻译查询。
+本项目提供两种使用方式：直接引用文件和通过 npm 包安装。
 
-### 基本用法
+### 方式一：直接引用 translations.js 文件
+
+如果您直接克隆或下载了项目文件，可以直接引用 `translations.js` 文件进行翻译查询。
+
+#### 基本用法
 
 ```javascript
 const translations = require('./translations.js')
 
 // 查询国家翻译
-const chinaMap = translations.get('China')
-const chinaTranslation = chinaMap.get('translation') // 获取"中国"的翻译
+const countryMap = translations.get('China')
+const countryTranslation = countryMap.get('translation') // 获取"中国"的翻译
 
 // 查询省份翻译
-const beijingMap = chinaMap.get('Beijing')
-const beijingTranslation = beijingMap.get('translation') // 获取"北京市"的翻译
+const provinceMap = countryMap.get('Beijing')
+const provinceTranslation = provinceMap.get('translation') // 获取"北京市"的翻译
 
 // 查询城市翻译
-const cityTranslation = beijingMap.get('Beijing') // 获取"北京"的翻译
+const cityTranslation = provinceMap.get('Beijing') // 获取"北京"的翻译
 ```
 
-### 完整示例
+#### 完整示例
 
 ```javascript
 const translations = require('./translations.js')
@@ -145,12 +149,13 @@ function getLocationTranslation(country, province, city) {
   if (!countryMap) return { country: '', province: '', city: '' }
 
   const provinceMap = countryMap.get(province)
-  if (!provinceMap)
+  if (!provinceMap) {
     return {
       country: countryMap.get('translation') || '',
       province: '',
       city: ''
     }
+  }
 
   return {
     country: countryMap.get('translation') || '',
@@ -164,11 +169,68 @@ const result = getLocationTranslation('Australia', 'Queensland', 'Brisbane')
 console.log(result) // { country: '澳大利亚', province: '昆士兰州', city: '布里斯班' }
 ```
 
+### 方式二：通过 npm 包使用
+
+安装包后，可以使用提供的函数进行动态加载，避免一次性加载所有翻译数据。
+
+```bash
+npm install js-locations-zh
+```
+
+#### 基本用法
+
+```javascript
+import { getCountryData, getAllCountries } from 'js-locations-zh'
+
+// 获取所有国家列表
+const countries = getAllCountries()
+
+// 动态加载特定国家的翻译数据
+const countryData = await getCountryData('China')
+const translations = countryData.default
+
+// 查询翻译
+const countryTranslation = translations.get('translation') // 国家翻译
+const provinceMap = translations.get('Beijing')
+const provinceTranslation = provinceMap.get('translation') // 省份翻译
+const cityTranslation = provinceMap.get('Beijing') // 城市翻译
+```
+
+#### HTML 中的使用示例
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>地理位置翻译示例</title>
+  </head>
+  <body>
+    <script type="module">
+      import { getCountryData, getAllCountries } from 'js-locations-zh'
+
+      // 获取国家列表
+      const countries = getAllCountries()
+      console.log('可用国家:', countries)
+
+      // 加载中国数据
+      const chinaData = await getCountryData('China')
+      const translations = chinaData.default
+
+      // 查询北京的翻译
+      const beijingMap = translations.get('Beijing')
+      const beijingTranslation = beijingMap.get('translation')
+      console.log('北京市翻译:', beijingTranslation)
+    </script>
+  </body>
+</html>
+```
+
 ### 注意事项
 
 - 如果翻译字段为空字符串，表示该位置的中文翻译尚未填充
 - Map 结构支持高效的查找操作
 - 建议在使用前检查翻译是否存在（非空字符串）
+- npm 方式支持动态加载，适合需要按需加载的场景
 
 ## 待完善功能
 
