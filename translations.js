@@ -5198,187 +5198,187 @@ const translations = new Map([
       [
         'Sukhothai',
         new Map([
-          ['translation', ''],
-          ['Ban Na', ''],
-          ['Khiri Mat', ''],
-          ['Kong Krailat', ''],
-          ['Sawankhalok', ''],
-          ['Si Nakhon', ''],
-          ['Si Samrong', ''],
-          ['Si Satchanalai', ''],
-          ['Sukhothai', ''],
-          ['Thung Saliam', '']
+          ['translation', '素可泰府'],
+          ['Ban Na', '班那'],
+          ['Khiri Mat', '奇里玛'],
+          ['Kong Krailat', '孔格莱拉'],
+          ['Sawankhalok', '沙万卡洛'],
+          ['Si Nakhon', '四那空'],
+          ['Si Samrong', '四三荣'],
+          ['Si Satchanalai', '西萨差那莱'],
+          ['Sukhothai', '素可泰'],
+          ['Thung Saliam', '董萨连']
         ])
       ],
       [
         'Uttaradit',
         new Map([
-          ['translation', ''],
-          ['Ban Khok', ''],
-          ['Fak Tha', ''],
-          ['Phichai', ''],
-          ['Tha Pla', ''],
-          ['Thong Saen Khan', ''],
-          ['Tron', ''],
-          ['Uttaradit', '']
+          ['translation', '程逸府'],
+          ['Ban Khok', '班科'],
+          ['Fak Tha', '法塔'],
+          ['Phichai', '披猜'],
+          ['Tha Pla', '他帕拉'],
+          ['Thong Saen Khan', '通盛坎'],
+          ['Tron', '东'],
+          ['Uttaradit', '程逸']
         ])
       ],
       [
         'Chanthaburi',
         new Map([
-          ['translation', ''],
-          ['Chanthaburi', ''],
-          ['Kaeng Hang Maeo', ''],
-          ['Khao Khitchakut', ''],
-          ['Khlung', ''],
-          ['Makham', ''],
-          ['Na Yai Am', ''],
-          ['Pong Nam Ron', ''],
-          ['Soi Dao', ''],
-          ['Tha Mai', '']
+          ['translation', '尖竹汶府'],
+          ['Chanthaburi', '尖竹汶'],
+          ['Kaeng Hang Maeo', '盖杭猫'],
+          ['Khao Khitchakut', '考吉差古'],
+          ['Khlung', '克隆'],
+          ['Makham', '玛坎'],
+          ['Na Yai Am', '那亚安'],
+          ['Pong Nam Ron', '蓬南荣'],
+          ['Soi Dao', '索道'],
+          ['Tha Mai', '他迈']
         ])
       ],
       [
         'Rayong',
         new Map([
-          ['translation', ''],
-          ['Ban Chang', ''],
-          ['Klaeng', ''],
-          ['Nikhom Phattana', ''],
-          ['Pluak Daeng', ''],
-          ['Rayong', ''],
-          ['Wang Chan', '']
+          ['translation', '罗勇府'],
+          ['Ban Chang', '班昌'],
+          ['Klaeng', '格朗'],
+          ['Nikhom Phattana', '尼空帕他那'],
+          ['Pluak Daeng', '普拉登'],
+          ['Rayong', '罗勇'],
+          ['Wang Chan', '旺詹']
         ])
       ],
       [
         'Yasothon',
         new Map([
-          ['translation', ''],
-          ['Kham Khuean Kaeo', ''],
-          ['Kut Chum', ''],
-          ['Loeng Nok Tha', ''],
-          ['Maha Chana Chai', ''],
-          ['Pa Tio', ''],
-          ['Sai Mun', ''],
-          ['Thai Charoen', ''],
-          ['Yasothon', '']
+          ['translation', '益梭通府'],
+          ['Kham Khuean Kaeo', '坎宽盖'],
+          ['Kut Chum', '古春'],
+          ['Loeng Nok Tha', '朗诺塔'],
+          ['Maha Chana Chai', '玛哈差那猜'],
+          ['Pa Tio', '帕条'],
+          ['Sai Mun', '赛门'],
+          ['Thai Charoen', '泰猜伦'],
+          ['Yasothon', '益梭通']
         ])
       ],
       [
         'Prachuap Khiri Khan',
         new Map([
-          ['translation', ''],
-          ['Bang Saphan', ''],
-          ['Bang Saphan Noi', ''],
-          ['Hua Hin', ''],
-          ['Kui Buri', ''],
-          ['Prachuap Khiri Khan', ''],
-          ['Pran Buri', ''],
-          ['Sam Roi Yot', ''],
-          ['Thap Sakae', '']
+          ['translation', '巴蜀府'],
+          ['Bang Saphan', '邦沙潘'],
+          ['Bang Saphan Noi', '邦沙潘艾'],
+          ['Hua Hin', '华欣'],
+          ['Kui Buri', '归武里'],
+          ['Prachuap Khiri Khan', '巴蜀'],
+          ['Pran Buri', '巴蓝武里'],
+          ['Sam Roi Yot', '三百峰'],
+          ['Thap Sakae', '塔萨盖']
         ])
       ],
       [
         'Phetchaburi',
         new Map([
-          ['translation', ''],
-          ['Ban Laem', ''],
-          ['Ban Lat', ''],
-          ['Cha-am', ''],
-          ['Kaeng Krachan', ''],
-          ['Khao Yoi', ''],
-          ['Nong Ya Plong', ''],
-          ['Phetchaburi', ''],
-          ['Tha Yang', '']
+          ['translation', '碧武里府'],
+          ['Ban Laem', '班连'],
+          ['Ban Lat', '班拉'],
+          ['Cha-am', '差安'],
+          ['Kaeng Krachan', '盖格拉詹'],
+          ['Khao Yoi', '考约'],
+          ['Nong Ya Plong', '农亚坡隆'],
+          ['Phetchaburi', '碧武里'],
+          ['Tha Yang', '他扬']
         ])
       ],
       [
         'Samut Sakhon',
         new Map([
-          ['translation', ''],
-          ['Ban Phaeo', ''],
-          ['Krathum Baen', ''],
-          ['Samut Sakhon', '']
+          ['translation', '龙仔厝府'],
+          ['Ban Phaeo', '班帕欧'],
+          ['Krathum Baen', '格鲁本'],
+          ['Samut Sakhon', '龙仔厝']
         ])
       ],
       [
         'Chachoengsao',
         new Map([
-          ['translation', ''],
-          ['Ban Pho', ''],
-          ['Bang Khla', ''],
-          ['Bang Pakong', ''],
-          ['Chachoengsao', ''],
-          ['Khlong Khuean', ''],
-          ['Phanom Sarakham', ''],
-          ['Plaeng Yao', ''],
-          ['Ratchasan', ''],
-          ['Sanam Chai Khet', ''],
-          ['Tha Takiap', '']
+          ['translation', '北柳府'],
+          ['Ban Pho', '班波'],
+          ['Bang Khla', '邦克拉'],
+          ['Bang Pakong', '邦巴功'],
+          ['Chachoengsao', '北柳'],
+          ['Khlong Khuean', '空宽'],
+          ['Phanom Sarakham', '帕农萨拉堪'],
+          ['Plaeng Yao', '普朗药'],
+          ['Ratchasan', '拉差三'],
+          ['Sanam Chai Khet', '萨南猜盖'],
+          ['Tha Takiap', '他达岬']
         ])
       ],
       [
         'Sa Kaeo',
         new Map([
-          ['translation', ''],
-          ['Aranyaprathet', ''],
-          ['Khlong Hat', ''],
-          ['Sa Kaeo', ''],
-          ['Wang Nam Yen', ''],
-          ['Wang Sombun', ''],
-          ['Watthana Nakhon', '']
+          ['translation', '沙缴府'],
+          ['Aranyaprathet', '亚兰帕达'],
+          ['Khlong Hat', '空哈'],
+          ['Sa Kaeo', '沙缴'],
+          ['Wang Nam Yen', '旺南燕'],
+          ['Wang Sombun', '旺松奔'],
+          ['Watthana Nakhon', '瓦他那那空']
         ])
       ],
       [
         'Prachin Buri',
         new Map([
-          ['translation', ''],
-          ['Ban Sang', ''],
-          ['Kabin Buri', ''],
-          ['Na Di', ''],
-          ['Prachin Buri', ''],
-          ['Si Maha Phot', ''],
-          ['Si Mahosot', '']
+          ['translation', '巴真府'],
+          ['Ban Sang', '班桑'],
+          ['Kabin Buri', '甲汶武里'],
+          ['Na Di', '那地'],
+          ['Prachin Buri', '巴真'],
+          ['Si Maha Phot', '四玛哈波'],
+          ['Si Mahosot', '四玛霍所']
         ])
       ],
       [
         'Ratchaburi',
         new Map([
-          ['translation', ''],
-          ['Ban Kha', ''],
-          ['Ban Pong', ''],
-          ['Bang Phae', ''],
-          ['Chom Bueng', ''],
-          ['Damnoen Saduak', ''],
-          ['Pak Tho', ''],
-          ['Photharam', ''],
-          ['Ratchaburi', ''],
-          ['Suan Phueng', ''],
-          ['Wat Phleng', '']
+          ['translation', '叻丕府'],
+          ['Ban Kha', '班卡'],
+          ['Ban Pong', '班蓬'],
+          ['Bang Phae', '邦帕'],
+          ['Chom Bueng', '宗奔'],
+          ['Damnoen Saduak', '丹嫩沙多'],
+          ['Pak Tho', '帕朵'],
+          ['Photharam', '波他兰'],
+          ['Ratchaburi', '叻丕'],
+          ['Suan Phueng', '素安蓬'],
+          ['Wat Phleng', '瓦朋']
         ])
       ],
       [
         'Phayao',
         new Map([
-          ['translation', ''],
-          ['Chiang Kham', ''],
-          ['Chiang Muan', ''],
-          ['Chun', ''],
-          ['Dok Kham Tai', ''],
-          ['Mae Chai', ''],
-          ['Phayao', ''],
-          ['Phu Kam Yao', ''],
-          ['Pong', '']
+          ['translation', '帕尧府'],
+          ['Chiang Kham', '清坎'],
+          ['Chiang Muan', '清芒'],
+          ['Chun', '春'],
+          ['Dok Kham Tai', '多坎台'],
+          ['Mae Chai', '湄猜'],
+          ['Phayao', '帕尧'],
+          ['Phu Kam Yao', '普坎药'],
+          ['Pong', '蓬']
         ])
       ],
       [
         'Ang Thong',
         new Map([
-          ['translation', ''],
-          ['Ang Thong', ''],
-          ['Pho Thong', ''],
-          ['Sam Ko', ''],
-          ['Wiset Chaichan', '']
+          ['translation', '红统府'],
+          ['Ang Thong', '红统'],
+          ['Pho Thong', '波通'],
+          ['Sam Ko', '三郜'],
+          ['Wiset Chaichan', '威实猜詹']
         ])
       ],
       [
@@ -5391,26 +5391,26 @@ const translations = new Map([
       [
         'Nakhon Nayok',
         new Map([
-          ['translation', ''],
-          ['Ban Na', ''],
-          ['Nakhon Nayok', ''],
-          ['Ongkharak', ''],
-          ['Pak Phli', '']
+          ['translation', '那空那育府'],
+          ['Ban Na', '班那'],
+          ['Nakhon Nayok', '那空那育'],
+          ['Ongkharak', '翁卡拉'],
+          ['Pak Phli', '帕普里']
         ])
       ],
       [
         'Phatthalung',
         new Map([
-          ['translation', ''],
-          ['Bang Kaeo', ''],
-          ['Khao Chaison', ''],
-          ['Khuan Khanun', ''],
-          ['Pa Bon', ''],
-          ['Pak Phayun', ''],
-          ['Phatthalung', ''],
-          ['Si Banphot', ''],
-          ['Srinagarindra', ''],
-          ['Tamot', '']
+          ['translation', '博他仑府'],
+          ['Bang Kaeo', '邦盖'],
+          ['Khao Chaison', '考猜颂'],
+          ['Khuan Khanun', '宽卡农'],
+          ['Pa Bon', '帕邦'],
+          ['Pak Phayun', '帕帕云'],
+          ['Phatthalung', '博他仑'],
+          ['Si Banphot', '四班波'],
+          ['Srinagarindra', '诗琳拉'],
+          ['Tamot', '他默']
         ])
       ]
     ])
