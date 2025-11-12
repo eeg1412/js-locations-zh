@@ -5418,7 +5418,7 @@ const translations = new Map([
   [
     'India',
     new Map([
-      ['translation', ''],
+      ['translation', '印度'],
       [
         'Tamil Nadu',
         new Map([
