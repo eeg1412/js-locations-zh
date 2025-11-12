@@ -1,7 +1,7 @@
 {
-  "name": "ip-location-processor",
+  "name": "js-locations-zh",
   "version": "1.0.0",
-  "description": "Process IP2Location CSV to generate hierarchical JSON",
+  "description": "Service for providing Chinese translation mappings of geographical locations",
   "main": "process_ip.js",
   "scripts": {
     "start": "node process_ip.js"
