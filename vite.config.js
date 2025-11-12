@@ -3,8 +3,6 @@ import fs from 'fs'
 import path from 'path'
 import { createRequire } from 'module'
 
-const require = createRequire(import.meta.url)
-
 function mapToString(map) {
   const entries = []
   for (const [key, value] of map) {
@@ -27,25 +25,25 @@ if (!fs.existsSync(countriesDir)) {
 // 检查是否有翻译的辅助函数
 function hasTranslations(countryMap) {
   // 检查国家翻译
-  if (countryMap.get('translation')) return true;
+  if (countryMap.get('translation')) return true
   // 检查省份和城市翻译
   for (const [key, value] of countryMap) {
-    if (key === 'translation') continue;
+    if (key === 'translation') continue
     if (value instanceof Map) {
-      if (value.get('translation')) return true;
+      if (value.get('translation')) return true
       for (const [cityKey, cityValue] of value) {
-        if (cityKey !== 'translation' && cityValue) return true;
+        if (cityKey !== 'translation' && cityValue) return true
       }
     }
   }
-  return false;
+  return false
 }
 
 // 过滤有翻译的国家
-const filteredTranslations = new Map();
+const filteredTranslations = new Map()
 for (const [country, countryMap] of translations) {
   if (hasTranslations(countryMap)) {
-    filteredTranslations.set(country, countryMap);
+    filteredTranslations.set(country, countryMap)
   }
 }
 
@@ -58,7 +56,9 @@ for (const [country, countryMap] of filteredTranslations) {
 }
 
 // 生成主入口文件，提供动态加载功能
-const mainContent = `const allCountries = new Set(${JSON.stringify(Array.from(filteredTranslations.keys()))});
+const mainContent = `const allCountries = new Set(${JSON.stringify(
+  Array.from(filteredTranslations.keys())
+)});
 
 export function getCountryData(country) {
   if (!allCountries.has(country)) {
