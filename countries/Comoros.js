@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Grande Comore", new Map([["translation", ""], ["Mavingouni", ""], ["Moroni", ""], ["Ntsoudjini", ""], ["Oussivo", ""], ["Selea", ""], ["Tsidje", ""]])], ["Moheli", new Map([["translation", ""], ["Fomboni", ""]])]]);

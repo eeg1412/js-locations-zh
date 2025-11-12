@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Virgin Islands, U.S.", new Map([["translation", ""], ["Charlotte Amalie", ""], ["Christiansted", ""], ["Cruz Bay", ""], ["East End", ""], ["Frederiksted", ""], ["Northcentral", ""], ["Sion Farm", ""], ["Southside", ""], ["Tutu", ""], ["West End", ""]])], ["-", new Map([["translation", ""], ["-", ""]])]]);

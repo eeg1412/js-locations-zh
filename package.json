@@ -2,13 +2,10 @@
   "name": "js-locations-zh",
   "version": "1.0.0",
   "description": "Service for providing Chinese translation mappings of geographical locations",
-  "main": "dist/translations.cjs.js",
-  "module": "dist/translations.es.js",
+  "main": "dist/index.es.js.mjs",
+  "module": "dist/index.es.js.mjs",
   "exports": {
-    ".": {
-      "import": "./dist/translations.es.js",
-      "require": "./dist/translations.cjs.js"
-    }
+    ".": "./dist/index.es.js.mjs"
   },
   "scripts": {
     "start": "node process_ip.js",

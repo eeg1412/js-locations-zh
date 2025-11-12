@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Gilbert Islands", new Map([["translation", ""], ["Betio Village", ""], ["Tarawa", ""], ["Temaiku Village", ""]])], ["Line Islands", new Map([["translation", ""], ["Tabwakea Village", ""]])]]);

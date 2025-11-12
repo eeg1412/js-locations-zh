@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Serravalle", new Map([["translation", ""], ["Serravalle", ""]])], ["Citta di San Marino", new Map([["translation", ""], ["San Marino", ""]])], ["Chiesanuova", new Map([["translation", ""], ["Chiesanuova", ""]])], ["Faetano", new Map([["translation", ""], ["Faetano", ""]])]]);

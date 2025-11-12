@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Bonaire", new Map([["translation", ""], ["Dorp Antriol", ""], ["Dorp Tera Kora", ""], ["Kralendijk", ""]])], ["Saba", new Map([["translation", ""], ["The Bottom", ""], ["Upper Hell's Gate", ""]])]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Central", new Map([["translation", ""], ["Nausori", ""], ["Suva", ""]])], ["Rotuma", new Map([["translation", ""], ["Gaol", ""]])], ["Eastern", new Map([["translation", ""], ["Kadavu", ""], ["Waidradranu Settlement", ""], ["Wailevu", ""]])], ["Western", new Map([["translation", ""], ["Lautoka", ""], ["Nadi", ""]])]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", ""], ["Djibouti", new Map([["translation", ""], ["Djibouti", ""]])], ["Arta", new Map([["translation", ""], ["Arta", ""]])], ["Dikhil", new Map([["translation", ""], ["Dikhil", ""]])]]);
