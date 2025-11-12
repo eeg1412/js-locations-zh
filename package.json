@@ -2,11 +2,40 @@
   "name": "js-locations-zh",
   "version": "1.0.0",
   "description": "Service for providing Chinese translation mappings of geographical locations",
-  "main": "process_ip.js",
-  "scripts": {
-    "start": "node process_ip.js"
+  "main": "dist/translations.cjs.js",
+  "module": "dist/translations.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/translations.es.js",
+      "require": "./dist/translations.cjs.js"
+    }
   },
+  "scripts": {
+    "start": "node process_ip.js",
+    "build": "vite build"
+  },
+  "keywords": [
+    "geolocation",
+    "translation",
+    "chinese",
+    "ip2location"
+  ],
+  "author": "eeg1412",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eeg1412/js-locations-zh.git"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "terser": "^5.44.1",
+    "vite": "^7.2.2"
   }
 }
