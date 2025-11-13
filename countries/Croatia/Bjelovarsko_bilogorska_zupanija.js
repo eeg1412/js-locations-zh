@@ -1,1 +1,0 @@
-export default new Map([["translation", "别洛瓦尔-比洛戈拉县"], ["Bjelovar", ""], ["Brezovac", ""], ["Cazma", ""], ["Daruvar", ""], ["Garesnica", ""], ["Grubisno Polje", ""], ["Gudovac", ""], ["Hercegovac", ""], ["Predavac", ""], ["Rovisce", ""], ["Sirac", ""], ["Veliki Grgevac", ""], ["Zdralovi", ""]]);

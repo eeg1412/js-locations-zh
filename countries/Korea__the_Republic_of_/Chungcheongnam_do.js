@@ -1,1 +1,0 @@
-export default new Map([["translation", "忠清南道"], ["Asan", "牙山"], ["Boryeong", "保宁"], ["Buyeo", "扶余"], ["Cheonan", "天安"], ["Cheongyang", "青阳"], ["Dangjin", "唐津"], ["Geumsan", "锦山"], ["Gongju", "公州"], ["Hakdong", "鹤洞"], ["Hongseong", "洪城"], ["Nonsan", "论山"], ["Seosan", "瑞山"], ["Yesan", "礼山"]]);

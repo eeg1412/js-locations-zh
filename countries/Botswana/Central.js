@@ -1,1 +1,0 @@
-export default new Map([["translation", "中部区"], ["Dukwe", ""], ["Gobojango", ""], ["Letlhakane", ""], ["Mahalapye", ""], ["Mathambgwane", ""], ["Nata", ""], ["Orapa", ""], ["Palapye", ""], ["Rakops", ""], ["Selebi-Phikwe", ""], ["Tobane", ""]]);

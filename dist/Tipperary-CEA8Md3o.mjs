@@ -1,1 +1,0 @@
-const e=/* @__PURE__ */new Map([["translation","蒂珀雷里郡"],["Borrisokane",""],["Cahir",""],["Carrick-on-Suir",""],["Cashel",""],["Clonmel",""],["Nenagh",""],["Nenagh Bridge",""],["Roscrea",""],["Templemore",""],["Thurles",""],["Tipperary",""]]);export{e as default};

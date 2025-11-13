@@ -1,1 +1,0 @@
-export default new Map([["translation", "大城府"], ["Ban Phraek", "班帕莱"], ["Bang Ban", "邦班"], ["Bang Pa-in", "邦巴茵"], ["Bang Pahan", "邦帕汉"], ["Bang Sai", "邦赛"], ["Lat Bua Luang", "拉布亚銮"], ["Maha Rat", "玛哈叻"], ["Nakhon Luang", "那空銮"], ["Phachi", "帕奇"], ["Phak Hai", "帕海"], ["Phra Nakhon Si Ayutthaya", "大城"], ["Sena", "西那"], ["Tha Ruea", "他勒"], ["Uthai", "乌泰"], ["Wang Noi", "旺艾"]]);

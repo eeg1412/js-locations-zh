@@ -1,1 +1,0 @@
-export default new Map([["translation", "格拉鲁斯州"], ["Bilten", ""], ["Ennenda", ""], ["Glarus", ""], ["Linthal", ""], ["Luchsingen", ""], ["Mollis", ""], ["Nafels", ""], ["Netstal", ""], ["Niederurnen", ""], ["Oberurnen", ""], ["Schwanden", ""]]);

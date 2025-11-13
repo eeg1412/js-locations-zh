@@ -1,1 +1,0 @@
-export default new Map([["translation", "四色菊府"], ["Huai Thap Than", "怀塔坦"], ["Kantharalak", "甘他拉叻"], ["Kanthararom", "甘他拉容"], ["Khu Khan", "库坎"], ["Khun Han", "坤汉"], ["Non Kho", "农科"], ["Phayu", "帕育"], ["Phu Sing", "普辛"], ["Prang Ku", "帕朗库"], ["Si Sa Ket", "四色菊"], ["Uthumphon Phisai", "乌通蓬披赛"], ["Yang Chum Noi", "扬春艾"]]);

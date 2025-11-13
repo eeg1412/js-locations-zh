@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","高知"],["Aki","安艺"],["Ichinose","市野瀬"],["Kami","上"],["Kamikawaguchi","上川口"],["Kannoura","叶浦"],["Kochi","高知"],["Konan","香南"],["Muroto","室户"],["Muroto-misakicho","室户岬町"],["Nakai","中井"],["Odo","大渡"],["Shimanto","四万十"],["Shiwa","志和"],["Sukumo","宿毛"],["Susaki","须崎"],["Tosashimizu","土佐清水"],["Yasuda","安田"]]);export{a as default};

@@ -1,1 +1,0 @@
-export default new Map([["translation", "多尼戈尔郡"], ["Ardara", ""], ["Ballybofey", ""], ["Ballyshannon", ""], ["Buncrana", ""], ["Bundoran", ""], ["Carndonagh", ""], ["Clonmany", ""], ["Donegal", ""], ["Dunlewy", ""], ["Glenties", ""], ["Gweedore", ""], ["Killybegs", ""], ["Kilmacrenan", ""], ["Leifear", ""], ["Letterkenny", ""], ["Moville", ""]]);

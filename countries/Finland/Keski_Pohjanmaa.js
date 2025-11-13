@@ -1,1 +1,0 @@
-export default new Map([["translation", "中博滕区"], ["Halsua", ""], ["Kannus", ""], ["Kaustinen", ""], ["Kokkola", ""], ["Kotka", ""], ["Lestijarvi", ""], ["Patana", ""], ["Perho", ""], ["Toholampi", ""], ["Ullava", ""], ["Veteli", ""]]);

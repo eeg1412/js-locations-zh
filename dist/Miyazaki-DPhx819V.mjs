@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","宫崎"],["Aya","阿雅"],["Hatozu","波津"],["Hinokage","日之影"],["Hoso","细岛"],["Hyuga","日向"],["Iino","饭野"],["Kadogawa","门川"],["Kawaminami","川南"],["Kobayashi","小林"],["Mitai","三井"],["Miyazaki","宫崎"],["Nakazaki","中崎"],["Nobeoka","延冈"],["Okamoto","冈本"],["Oryuzako","折泽"],["Saito","西都"],["Shonaicho","庄内町"],["Takaharu","高原"]]);export{a as default};

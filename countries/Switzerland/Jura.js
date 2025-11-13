@@ -1,1 +1,0 @@
-export default new Map([["translation", "汝拉州"], ["Alle", ""], ["Bassecourt", ""], ["Boncourt", ""], ["Bonfol", ""], ["Courfaivre", ""], ["Courgenay", ""], ["Courrendlin", ""], ["Courroux", ""], ["Courtetelle", ""], ["Delemont", ""], ["Glovelier", ""], ["Le Noirmont", ""], ["Les Bois", ""], ["Les Breuleux", ""], ["Porrentruy", ""], ["Saignelegier", ""], ["Vicques", ""]]);

@@ -1,1 +1,0 @@
-export default new Map([["translation", "德里"], ["Azadpur", "阿阿普尔"], ["Delhi", "德里"], ["Karawal Nagar", "卡拉阿纳加"], ["Nangloi Jat", "纳洛伊贾"], ["New Delhi", "新德里"], ["Sultan Pur Majra", "苏丹普尔马杰拉"]]);

@@ -1,1 +1,0 @@
-export default new Map([["translation", "克拉皮纳-扎戈列县"], ["Bedekovcina", ""], ["Donja Stubica", ""], ["Klanjec", ""], ["Krapina", ""], ["Krapinske Toplice", ""], ["Marija Bistrica", ""], ["Mihovljan", ""], ["Oroslavje", ""], ["Pregrada", ""], ["Radoboj", ""], ["Selnica", ""], ["Tuhelj", ""], ["Zabok", ""], ["Zlatar", ""]]);

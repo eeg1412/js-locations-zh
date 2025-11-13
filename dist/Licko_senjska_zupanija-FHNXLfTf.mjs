@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","利卡-塞尼县"],["Brinje",""],["Gospic",""],["Jezerce",""],["Karlobag",""],["Novalja",""],["Otocac",""],["Plitvicka Jezera",""],["Popovaca",""],["Senj",""]]);export{a as default};

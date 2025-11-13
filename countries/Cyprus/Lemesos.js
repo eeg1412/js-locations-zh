@@ -1,1 +1,0 @@
-export default new Map([["translation", "利马索尔区"], ["Kyperounta", ""], ["Limassol", ""], ["Mouttagiaka", ""], ["Pachna", ""], ["Pano Polemidia", ""], ["Pelendri", ""], ["Pissouri", ""], ["Sotira", ""], ["Ypsonas", ""]]);

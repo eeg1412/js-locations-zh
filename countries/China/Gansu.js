@@ -1,1 +1,0 @@
-export default new Map([["translation", "甘肃省"], ["Baiyin", "白银"], ["Dingxi", "定西"], ["Hezuo", "合作"], ["Jiayuguan", "嘉峪关"], ["Jinchang", "金昌"], ["Jiuquan", "酒泉"], ["Lanzhou", "兰州"], ["Linxia", "临夏"], ["Longnan", "陇南"], ["Pingliang", "平凉"], ["Qingyang", "庆阳"], ["Tianshui", "天水"], ["Wuwei", "武威"], ["Yumen", "玉门"], ["Zhangye", "张掖"]]);

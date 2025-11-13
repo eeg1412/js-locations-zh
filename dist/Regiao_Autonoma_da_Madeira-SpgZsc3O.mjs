@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","马德拉自治区"],["Arco da Calheta",""],["Camara de Lobos",""],["Canical",""],["Estreito da Calheta",""],["Funchal",""],["Machico",""],["Nossa Senhora do Monte",""],["Paul do Mar",""],["Ponta do Sol",""],["Porto Moniz",""],["Ribeira Brava",""],["Santana",""],["Sao Vicente",""],["Vila Baleira",""]]);export{a as default};

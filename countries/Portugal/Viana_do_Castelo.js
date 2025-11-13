@@ -1,1 +1,0 @@
-export default new Map([["translation", "维亚纳堡区"], ["Areosa", ""], ["Caldas", ""], ["Darque", ""], ["Mana", ""], ["Meadela", ""], ["Moncao", ""], ["Mozelos", ""], ["Ponte de Lima", ""], ["Serra", ""], ["Valenza", ""], ["Viana do Castelo", ""], ["Vila", ""]]);

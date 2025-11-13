@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","努纳武特"],["Arviat","阿尔维亚特"],["Cambridge Bay","剑桥湾"],["Clyde River","克莱德河"],["Gjoa Haven","乔港"],["Igloolik","伊格卢利克"],["Iqaluit","伊卡卢伊特"],["Kugaaruk","库加鲁克"],["Lupin","卢平"],["Qikiqtarjuaq","基基塔瑞阿克"]]);export{a as default};

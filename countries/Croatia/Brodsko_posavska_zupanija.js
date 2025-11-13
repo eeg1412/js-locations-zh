@@ -1,1 +1,0 @@
-export default new Map([["translation", "布罗德-波萨维纳县"], ["Batrina", ""], ["Cernik", ""], ["Garcin", ""], ["Krusevica", ""], ["Ljupina", ""], ["Luzani", ""], ["Nova Gradiska", ""], ["Okucani", ""], ["Oriovac", ""], ["Resetari", ""], ["Slavonski Brod", ""], ["Vrpolje", ""]]);

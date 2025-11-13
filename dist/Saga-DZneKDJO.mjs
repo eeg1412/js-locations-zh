@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","佐贺"],["Imari","伊万里"],["Imaricho-ko","伊万里町古"],["Ishidacho-indojiura","石田町犬饲浦"],["Kanzaki","神埼"],["Karatsu","唐津"],["Kashima","鹿岛"],["Saga","佐贺"],["Takeo","武雄"],["Taku","多久"],["Tara","太良"],["Tosu","鸟栖"],["Ureshino","嬉野"],["Yoshino","吉野"]]);export{a as default};

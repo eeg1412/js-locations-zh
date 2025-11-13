@@ -1,1 +1,0 @@
-export default new Map([["translation", "拉纳卡区"], ["Agios Tychon", ""], ["Athienou", ""], ["Kofinou", ""], ["Kornos", ""], ["Larnaca", ""], ["Mazotos", ""], ["Mosfiloti", ""], ["Parekklisha", ""], ["Psevdas", ""], ["Pyrgos", ""], ["Xylofagou", ""], ["Xylotymbou", ""]]);

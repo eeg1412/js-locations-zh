@@ -1,1 +1,0 @@
-export default new Map([["translation", "佛统府"], ["Bang Len", "挽连"], ["Don Tum", "墩敦"], ["Kamphaeng Saen", "甘烹盛"], ["Nakhon Chai Si", "佛统猜四"], ["Nakhon Pathom", "佛统"], ["Salaya", "沙拉亚"], ["Sam Phran", "三攀"]]);

@@ -1,1 +1,0 @@
-export default new Map([["translation", "夜丰颂府"], ["Ban Huai I Huak", "班怀伊瓦"], ["Khun Yuam", "坤元"], ["Mae Hong Son", "夜丰颂"], ["Mae La Noi", "湄拉诺"], ["Pai", "拜县"], ["Sop Pong", "索蓬"], ["Wiang Nuea", "威昂呐"]]);

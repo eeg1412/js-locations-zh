@@ -1,1 +1,0 @@
-const n=/* @__PURE__ */new Map([["translation","图尔高州"],["Aadorf",""],["Amriswil",""],["Arbon",""],["Berg",""],["Diessenhofen",""],["Egnach",""],["Erlen",""],["Fischingen",""],["Frauenfeld",""],["Homburg",""],["Kreuzlingen",""],["Mammern",""],["Roggwil",""],["Romanshorn",""],["Salmsach",""],["Sirnach",""],["Uttwil",""],["Wagenhausen",""],["Weinfelden",""]]);export{n as default};

@@ -1,1 +1,0 @@
-export default new Map([["translation", "德岛"], ["Anabuki", "穴吹"], ["Anan", "阿南"], ["Awa", "阿波"], ["Hirono", "広野"], ["Ikeda", "池田"], ["Mima", "美马"], ["Miyoshi", "三好"], ["Nakagawacho-nakashima", "中川町中岛"], ["Naruto", "鸣门"], ["Narutocho-mitsuishi", "鸣门町三石"], ["Ogata", "绪方"], ["Tokushima", "德岛"], ["Yoshinogawa", "吉野川"]]);

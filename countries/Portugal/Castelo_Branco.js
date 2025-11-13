@@ -1,1 +1,0 @@
-export default new Map([["translation", "布朗库堡区"], ["Aguas", ""], ["Belmonte", ""], ["Castelo Branco", ""], ["Covilha", ""], ["Ferro", ""], ["Fundao", ""], ["Gaia", ""], ["Idanha-a-Nova", ""], ["Madeira", ""], ["Mata", ""], ["Oleiros", ""], ["Penamacor", ""], ["Proenca-a-Nova", ""], ["Serta", ""], ["Teixoso", ""], ["Vila Velha de Rodao", ""]]);

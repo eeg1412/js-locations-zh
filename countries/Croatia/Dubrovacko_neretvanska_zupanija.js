@@ -1,1 +1,0 @@
-export default new Map([["translation", "杜布罗夫尼克-内雷特瓦县"], ["Babino Polje", ""], ["Cavtat", ""], ["Cibaca", ""], ["Dubrovnik", ""], ["Jasenice", ""], ["Komin", ""], ["Korcula", ""], ["Lastovo", ""], ["Lumbarda", ""], ["Mokosica", ""], ["Opuzen", ""], ["Orebic", ""], ["Ploce", ""], ["Podgora", ""], ["Rat", ""], ["Smokvica", ""], ["Ston", ""], ["Vela Luka", ""], ["Zrnovo", ""]]);

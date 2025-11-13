@@ -1,1 +1,0 @@
-export default new Map([["translation", "卡文郡"], ["Arvagh", ""], ["Bailieborough", ""], ["Ballyjamesduff", ""], ["Belturbet", ""], ["Blacklion", ""], ["Cavan", ""], ["Cootehill", ""], ["Kingscourt", ""]]);

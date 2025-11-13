@@ -1,1 +1,0 @@
-export default new Map([["translation", "大分"], ["Beppu", "别府"], ["Bungotakada", "丰后高田"], ["Hiji", "日出"], ["Hita", "日田"], ["Kami-ochidani", "上落谷"], ["Minamiura", "南浦"], ["Nakatsu", "中津"], ["Oita", "大分"], ["Saganoseki", "佐贺关"], ["Saiki", "佐伯"], ["Tsukawaki", "筑后"], ["Tsukumi", "津久见"], ["Tsukumiura", "津久见浦"]]);

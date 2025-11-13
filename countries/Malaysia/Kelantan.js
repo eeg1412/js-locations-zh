@@ -1,1 +1,0 @@
-export default new Map([["translation", "吉兰丹"], ["Gua Musang", "话望生"], ["Kampung Kadok", "加多"], ["Kampung Lemal", "勒马"], ["Ketereh", "格底里"], ["Kota Bharu", "哥打峇鲁"], ["Kuala Krai", "瓜拉吉赖"], ["Pasir Mas", "巴西马"], ["Pengkalan Chepa", "彭加兰芝柏"], ["Peringat", "柏灵逸"], ["Pulai Chondong", "布赖村"], ["Tanah Merah", "丹那美拉"], ["Tumpat", "道北"]]);

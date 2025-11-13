@@ -1,1 +1,0 @@
-export default new Map([["translation", "弗拉察州"], ["Borovan", ""], ["Byala Slatina", ""], ["Hayredin", ""], ["Knezha", ""], ["Kozloduy", ""], ["Krivodol", ""], ["Mezdra", ""], ["Mizia", ""], ["Oryahovo", ""], ["Roman", ""], ["Vratsa", ""]]);

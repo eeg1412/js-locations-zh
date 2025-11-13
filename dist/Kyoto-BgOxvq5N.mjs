@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","京都"],["Ayabe","绫部"],["Fukuchiyama","福知山"],["Ido","井户"],["Joyo","城阳"],["Kameoka","龟冈"],["Kamigyo-ku","上京区"],["Kyotanabe","京田边"],["Kyotango","京丹后"],["Kyoto","京都"],["Maizuru","舞鹤"],["Miyazu","宫津"],["Nagaokakyo","长冈京"],["Nohara","野原"],["Otsuka","大塚"],["Tangocho-taiza","丹后町太宰"],["Uji","宇治"],["Yawata","八幡"]]);export{a as default};

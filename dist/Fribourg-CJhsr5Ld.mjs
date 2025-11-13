@@ -1,1 +1,0 @@
-const e=/* @__PURE__ */new Map([["translation","弗里堡州"],["Attalens",""],["Belfaux",""],["Bulle",""],["Corminboeuf",""],["Dudingen",""],["Ecublens",""],["Flamatt",""],["Fribourg",""],["Jura",""],["La Roche",""],["Marsens",""],["Mezieres",""],["Oberschrot",""],["Rechthalten",""],["Villars-sur-Glane",""]]);export{e as default};

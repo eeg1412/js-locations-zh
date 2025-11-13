@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","舒门州"],["Gara Khitrino",""],["Kaolinovo",""],["Kaspichan",""],["Novi Pazar",""],["Shumen",""],["Smyadovo",""],["Varbitsa",""],["Veliki Preslav",""]]);export{a as default};

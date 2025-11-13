@@ -1,1 +1,0 @@
-export default new Map([["translation", "下瓦尔登州"], ["Beckenried", ""], ["Buochs", ""], ["Dallenwil", ""], ["Emmetten", ""], ["Ennetburgen", ""], ["Hergiswil", ""], ["Stans", ""], ["Stansstad", ""], ["Wolfenschiessen", ""]]);

@@ -1,1 +1,0 @@
-export default new Map([["translation", "马六甲"], ["Alor Gajah", "亚罗牙也"], ["Ayer Keroh", "爱极乐"], ["Jasin", "野新"], ["Kuala Sungai Baru", "瓜拉双溪巴鲁"], ["Masjid Tanah", "马日丹那"], ["Melaka", "马六甲市"], ["Merlimau", "万里茂"], ["Pulau Sebang", "普劳士巴"]]);

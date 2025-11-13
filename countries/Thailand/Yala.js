@@ -1,1 +1,0 @@
-export default new Map([["translation", "也拉府"], ["Ban Nang Sata", "班囊萨达"], ["Betong", "勿洞"], ["Ka Bang", "卡邦"], ["Krong Pi Nang", "格隆披囊"], ["Raman", "拉曼"], ["Than To", "坦朵"], ["Yaha", "亚哈"], ["Yala", "也拉"]]);

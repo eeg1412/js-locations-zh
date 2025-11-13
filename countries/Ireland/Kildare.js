@@ -1,1 +1,0 @@
-export default new Map([["translation", "基尔代尔郡"], ["Athy", ""], ["Celbridge", ""], ["Cherryville", ""], ["Leixlip", ""], ["Maynooth", ""], ["Monasterevin", ""], ["Naas", ""], ["Old Kilcullen", ""], ["Rathangan", ""], ["Sallins", ""]]);

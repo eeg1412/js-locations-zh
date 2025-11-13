@@ -1,1 +1,0 @@
-export default new Map([["translation", "都柏林郡"], ["Balbriggan", ""], ["Blackrock", ""], ["Donnybrook", ""], ["Dublin", ""], ["Dun Laoghaire", ""], ["Portmarnock", ""], ["Rathcoole", ""], ["Sandyford", ""], ["Skerries", ""], ["Swords", ""], ["Tallaght", ""]]);

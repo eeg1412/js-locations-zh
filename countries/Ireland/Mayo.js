@@ -1,1 +1,0 @@
-export default new Map([["translation", "梅奥郡"], ["Ballina", ""], ["Ballinrobe", ""], ["Ballycastle", ""], ["Ballyhaunis", ""], ["Belmullet", ""], ["Castlebar", ""], ["Charlestown", ""], ["Claremorris", ""], ["Cross", ""], ["Swinford", ""], ["Westport", ""]]);

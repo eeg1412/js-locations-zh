@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","布拉干萨区"],["Braganca",""],["Macedo de Cavaleiros",""],["Miranda do Douro",""],["Mirandela",""],["Mogadouro",""],["Parada",""],["Torre de Moncorvo",""],["Vimioso",""]]);export{a as default};

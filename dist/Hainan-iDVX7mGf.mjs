@@ -1,1 +1,0 @@
-const n=/* @__PURE__ */new Map([["translation","海南省"],["Danzhou","儋州"],["Dongfang","东方"],["Haikou","海口"],["Qionghai","琼海"],["Sanya","三亚"],["Wanning","万宁"],["Wenchang","文昌"],["Wuzhishan","五指山"]]);export{n as default};

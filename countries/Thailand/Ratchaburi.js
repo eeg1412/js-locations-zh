@@ -1,1 +1,0 @@
-export default new Map([["translation", "叻丕府"], ["Ban Kha", "班卡"], ["Ban Pong", "班蓬"], ["Bang Phae", "邦帕"], ["Chom Bueng", "宗奔"], ["Damnoen Saduak", "丹嫩沙多"], ["Pak Tho", "帕朵"], ["Photharam", "波他兰"], ["Ratchaburi", "叻丕"], ["Suan Phueng", "素安蓬"], ["Wat Phleng", "瓦朋"]]);

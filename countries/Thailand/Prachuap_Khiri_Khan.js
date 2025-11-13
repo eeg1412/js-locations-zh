@@ -1,1 +1,0 @@
-export default new Map([["translation", "巴蜀府"], ["Bang Saphan", "邦沙潘"], ["Bang Saphan Noi", "邦沙潘艾"], ["Hua Hin", "华欣"], ["Kui Buri", "归武里"], ["Prachuap Khiri Khan", "巴蜀"], ["Pran Buri", "巴蓝武里"], ["Sam Roi Yot", "三百峰"], ["Thap Sakae", "塔萨盖"]]);

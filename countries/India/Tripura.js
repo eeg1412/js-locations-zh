@@ -1,1 +1,0 @@
-export default new Map([["translation", "特里普拉邦"], ["Agartala", "阿加塔拉"], ["Amarpur", "阿马普尔"], ["Ambasa", "阿巴萨"], ["Barjala", "巴贾拉"], ["Belonia", "贝洛尼阿"], ["Dharmanagar", "哈马纳加"], ["Kailashahar", "卡伊拉沙哈"], ["Kamalpur", "卡马普尔"], ["Khowai", "霍阿伊"], ["Ranir Bazar", "拉尼巴阿"], ["Sabrum", "萨鲁"], ["Sonamura", "索纳穆拉"], ["Udaipur", "乌代布尔"]]);

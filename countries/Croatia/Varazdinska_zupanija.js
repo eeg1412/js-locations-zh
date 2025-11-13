@@ -1,1 +1,0 @@
-export default new Map([["translation", "瓦拉日丁县"], ["Ivanec", ""], ["Klenovnik", ""], ["Lepoglava", ""], ["Ljubescica", ""], ["Ludbreg", ""], ["Novi Marof", ""], ["Varazdin", ""], ["Varazdinske Toplice", ""], ["Vinica", ""]]);

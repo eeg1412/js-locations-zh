@@ -1,1 +1,0 @@
-export default new Map([["translation", "曼尼普尔邦"], ["Buri Bazar", "布里巴阿"], ["Churachandpur", "楚拉查普尔"], ["Imphal", "伊哈"], ["Kakching", "卡奇"], ["Kanglatongbi", "卡拉托比"], ["Kanjang", "卡贾"], ["Mayang Imphal", "马亚伊哈"], ["Moirang", "莫伊拉"], ["Sibong", "西博"], ["Thanga", "哈加"], ["Thoubal", "霍乌巴"], ["Tulihal", "图利哈"], ["Yairipok", "亚伊里波"]]);

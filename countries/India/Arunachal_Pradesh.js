@@ -1,1 +1,0 @@
-export default new Map([["translation", "阿鲁纳恰尔邦"], ["Along", "阿洛"], ["Hapoli", "哈波利"], ["Jiram", "吉拉"], ["Khonsa", "霍萨"], ["Mekha", "梅哈"], ["Naharlagun", "纳哈拉古"], ["Nring", "里"], ["Pasighat", "帕西哈"], ["Riga", "里加"], ["Senua", "塞努阿"], ["Sulung", "苏卢"], ["Tanden", "塔德"]]);

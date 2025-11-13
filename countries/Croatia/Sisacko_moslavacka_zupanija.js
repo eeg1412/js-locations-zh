@@ -1,1 +1,0 @@
-export default new Map([["translation", "锡萨克-莫斯拉维纳县"], ["Budasevo", ""], ["Core", ""], ["Glina", ""], ["Husain", ""], ["Kutina", ""], ["Lekenik", ""], ["Lipovljani", ""], ["Novska", ""], ["Osekovo", ""], ["Petrinja", ""], ["Repusnica", ""], ["Sisak", ""], ["Sunja", ""], ["Voloder", ""]]);

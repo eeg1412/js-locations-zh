@@ -1,1 +1,0 @@
-export default new Map([["translation", "法马古斯塔区"], ["Akhyritou", ""], ["Avgorou", ""], ["Ayia Napa", ""], ["Deryneia", ""], ["Frenaros", ""], ["Lefkoniko", ""], ["Leonarisso", ""], ["Liopetri", ""], ["Paralimni", ""], ["Protaras", ""], ["Rizokarpaso", ""], ["Trikomo", ""]]);

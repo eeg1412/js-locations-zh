@@ -1,1 +1,0 @@
-export default new Map([["translation", "云南省"], ["Baoshan", "保山"], ["Chuxiong", "楚雄"], ["Dali", "大理"], ["Gejiu", "个旧"], ["Honghe", "红河"], ["Jinghong", "景洪"], ["Kaiyuan", "开远"], ["Kunming", "昆明"], ["Lijiang", "丽江"], ["Lincang", "临沧"], ["Mangshi", "芒市"], ["Mengzi", "蒙自"], ["Pu'er", "普洱"], ["Qujing", "曲靖"], ["Ruili", "瑞丽"], ["Wenshan", "文山"], ["Yuxi", "玉溪"], ["Zhaotong", "昭通"]]);

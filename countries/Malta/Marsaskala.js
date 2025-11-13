@@ -1,1 +1,0 @@
-export default new Map([["translation", "马尔萨斯卡拉"], ["Il-Hamrija", ""], ["Il-Kappara", ""], ["Il-Mahsel", ""], ["Iz-Zlielaq", ""], ["Marsaskala", ""], ["Ta' Monita", ""], ["Tal-Munxar", ""], ["Tas-Sienja", ""], ["Zonqor", ""]]);

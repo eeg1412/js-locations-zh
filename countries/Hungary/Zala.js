@@ -1,1 +1,0 @@
-export default new Map([["translation", "佐洛州"], ["Becsehely", ""], ["Cserszegtomaj", ""], ["Gyenesdias", ""], ["Heviz", ""], ["Keszthely", ""], ["Lenti", ""], ["Murakeresztur", ""], ["Nagykanizsa", ""], ["Pacsa", ""], ["Sarmellek", ""], ["Turje", ""], ["Vonyarcvashegy", ""], ["Zalaegerszeg", ""], ["Zalakomar", ""], ["Zalalovo", ""], ["Zalaszentgrot", ""]]);

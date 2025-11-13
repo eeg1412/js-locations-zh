@@ -1,1 +1,0 @@
-export default new Map([["translation", "暖武里府"], ["Bang Bua Thong", "邦布亚通"], ["Bang Kruai", "邦格鲁"], ["Bang Yai", "邦亚"], ["Mueang Nonthaburi", "芒暖武里"], ["Pak Kret", "巴格勒"], ["Sai Noi", "赛艾"]]);

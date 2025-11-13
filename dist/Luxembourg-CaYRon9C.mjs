@@ -1,1 +1,0 @@
-const e=/* @__PURE__ */new Map([["translation","卢森堡"],["Bertrange",""],["Contern",""],["Heisdorf",""],["Hesperange",""],["Itzig",""],["Luxembourg",""],["Steinsel",""],["Strassen",""]]);export{e as default};

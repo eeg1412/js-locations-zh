@@ -1,1 +1,0 @@
-const a=/* @__PURE__ */new Map([["translation","基尔代尔郡"],["Athy",""],["Celbridge",""],["Cherryville",""],["Leixlip",""],["Maynooth",""],["Monasterevin",""],["Naas",""],["Old Kilcullen",""],["Rathangan",""],["Sallins",""]]);export{a as default};

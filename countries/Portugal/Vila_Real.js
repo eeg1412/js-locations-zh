@@ -1,1 +1,0 @@
-export default new Map([["translation", "雷阿尔城区"], ["Chaves", ""], ["Godim", ""], ["Peso da Regua", ""], ["Sobreira", ""], ["Valpacos", ""], ["Vila Pouca de Aguiar", ""], ["Vila Real", ""], ["Vilela", ""]]);

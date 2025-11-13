@@ -1,1 +1,0 @@
-export default new Map([["translation", "拉里奥哈自治区"], ["Chamical", ""], ["Chepes Viejo", ""], ["Chilecito", ""], ["Famatina", ""], ["La Rioja", ""], ["Totoral", ""], ["Villa Bustos", ""], ["Villa Union", ""]]);
