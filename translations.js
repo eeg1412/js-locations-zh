@@ -73848,7 +73848,7 @@ const translations = new Map([
       [
         'Western',
         new Map([
-          ['translation', ''],
+          ['translation', '西部区'],
           ['Aboso', ''],
           ['Axim', ''],
           ['Bibiani', ''],
@@ -73862,7 +73862,7 @@ const translations = new Map([
       [
         'Northern',
         new Map([
-          ['translation', ''],
+          ['translation', '北部区'],
           ['Kpandae', ''],
           ['Salaga', ''],
           ['Tamale', ''],
@@ -73872,7 +73872,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Cape Coast', ''],
           ['Dunkwa', ''],
           ['Foso', ''],
@@ -79470,14 +79470,14 @@ const translations = new Map([
       [
         'Bucuresti',
         new Map([
-          ['translation', ''],
+          ['translation', '布加勒斯特'],
           ['Bucharest', '']
         ])
       ],
       [
         'Arges',
         new Map([
-          ['translation', ''],
+          ['translation', '阿尔杰什县'],
           ['Aninoasa', ''],
           ['Arefu', ''],
           ['Balilesti', ''],
@@ -79535,7 +79535,7 @@ const translations = new Map([
       [
         'Bihor',
         new Map([
-          ['translation', ''],
+          ['translation', '比霍尔县'],
           ['Abram', ''],
           ['Abramut', ''],
           ['Alesd', ''],
@@ -79591,7 +79591,7 @@ const translations = new Map([
       [
         'Ilfov',
         new Map([
-          ['translation', ''],
+          ['translation', '伊尔福夫县'],
           ['Afumati', ''],
           ['Balotesti', ''],
           ['Buftea', ''],
@@ -79625,7 +79625,7 @@ const translations = new Map([
       [
         'Olt',
         new Map([
-          ['translation', ''],
+          ['translation', '奥尔特县'],
           ['Baldovinesti', ''],
           ['Bals', ''],
           ['Barca', ''],
@@ -79667,7 +79667,7 @@ const translations = new Map([
       [
         'Giurgiu',
         new Map([
-          ['translation', ''],
+          ['translation', '久尔久县'],
           ['Babeti', ''],
           ['Balaciu de Sus', ''],
           ['Bolintin Deal', ''],
@@ -79702,7 +79702,7 @@ const translations = new Map([
       [
         'Vrancea',
         new Map([
-          ['translation', ''],
+          ['translation', '弗朗恰县'],
           ['Adjud', ''],
           ['Andreiasu de Jos', ''],
           ['Bolotesti', ''],
@@ -79741,7 +79741,7 @@ const translations = new Map([
       [
         'Buzau',
         new Map([
-          ['translation', ''],
+          ['translation', '布泽乌县'],
           ['Amaru', ''],
           ['Balaceanu', ''],
           ['Beceni', ''],
@@ -79781,7 +79781,7 @@ const translations = new Map([
       [
         'Constanta',
         new Map([
-          ['translation', ''],
+          ['translation', '康斯坦察县'],
           ['Agigea', ''],
           ['Aliman', ''],
           ['Castelu', ''],
@@ -79830,7 +79830,7 @@ const translations = new Map([
       [
         'Sibiu',
         new Map([
-          ['translation', ''],
+          ['translation', '锡比乌县'],
           ['Agnita', ''],
           ['Arpasu de Jos', ''],
           ['Atel', ''],
@@ -79870,7 +79870,7 @@ const translations = new Map([
       [
         'Alba',
         new Map([
-          ['translation', ''],
+          ['translation', '阿尔巴县'],
           ['Aiud', ''],
           ['Alba Iulia', ''],
           ['Arieseni', ''],
@@ -79907,7 +79907,7 @@ const translations = new Map([
       [
         'Brasov',
         new Map([
-          ['translation', ''],
+          ['translation', '布拉索夫县'],
           ['Bran', ''],
           ['Brasov', ''],
           ['Budila', ''],
@@ -79982,7 +79982,7 @@ const translations = new Map([
       [
         'Vaslui',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦斯卢伊县'],
           ['Arsura', ''],
           ['Banca', ''],
           ['Barlad', ''],
@@ -80024,7 +80024,7 @@ const translations = new Map([
       [
         'Mures',
         new Map([
-          ['translation', ''],
+          ['translation', '穆列什县'],
           ['Atintis', ''],
           ['Bahnea', ''],
           ['Balauseri', ''],
@@ -80076,7 +80076,7 @@ const translations = new Map([
       [
         'Prahova',
         new Map([
-          ['translation', ''],
+          ['translation', '普拉霍瓦县'],
           ['Albesti-Paleologu', ''],
           ['Alunis', ''],
           ['Aricestii-Rahtivani', ''],
@@ -80147,7 +80147,7 @@ const translations = new Map([
       [
         'Iasi',
         new Map([
-          ['translation', ''],
+          ['translation', '雅西县'],
           ['Alexandru I. Cuza', ''],
           ['Andrieseni', ''],
           ['Baltati', ''],
@@ -80191,7 +80191,7 @@ const translations = new Map([
       [
         'Cluj',
         new Map([
-          ['translation', ''],
+          ['translation', '克卢日县'],
           ['Aghiresu-Fabricei', ''],
           ['Aiton', ''],
           ['Apahida', ''],
@@ -80241,7 +80241,7 @@ const translations = new Map([
       [
         'Galati',
         new Map([
-          ['translation', ''],
+          ['translation', '加拉茨县'],
           ['Balasesti', ''],
           ['Barcea', ''],
           ['Beresti-Sat', ''],
@@ -80272,7 +80272,7 @@ const translations = new Map([
       [
         'Suceava',
         new Map([
-          ['translation', ''],
+          ['translation', '苏恰瓦县'],
           ['Adancata', ''],
           ['Baia', ''],
           ['Balcauti', ''],
@@ -80342,7 +80342,7 @@ const translations = new Map([
       [
         'Neamt',
         new Map([
-          ['translation', ''],
+          ['translation', '尼亚姆茨县'],
           ['Agapia', ''],
           ['Baltatesti', ''],
           ['Bargaoani', ''],
@@ -80394,7 +80394,7 @@ const translations = new Map([
       [
         'Mehedinti',
         new Map([
-          ['translation', ''],
+          ['translation', '梅赫丁茨县'],
           ['Baia de Arama', ''],
           ['Bala', ''],
           ['Breznita Ocol', ''],
@@ -80432,7 +80432,7 @@ const translations = new Map([
       [
         'Ialomita',
         new Map([
-          ['translation', ''],
+          ['translation', '雅洛米察县'],
           ['Alexeni', ''],
           ['Amara', ''],
           ['Andrasesti', ''],
@@ -80466,7 +80466,7 @@ const translations = new Map([
       [
         'Calarasi',
         new Map([
-          ['translation', ''],
+          ['translation', '克勒拉希县'],
           ['Alexandru Odobescu', ''],
           ['Belciugatele', ''],
           ['Borcea', ''],
@@ -80501,7 +80501,7 @@ const translations = new Map([
       [
         'Dambovita',
         new Map([
-          ['translation', ''],
+          ['translation', '登博维察县'],
           ['Aninoasa', ''],
           ['Baleni', ''],
           ['Baleni Sarbi', ''],
@@ -80555,7 +80555,7 @@ const translations = new Map([
       [
         'Teleorman',
         new Map([
-          ['translation', ''],
+          ['translation', '特列奥尔曼县'],
           ['Alexandria', ''],
           ['Blejesti', ''],
           ['Bogdana', ''],
@@ -80598,7 +80598,7 @@ const translations = new Map([
       [
         'Valcea',
         new Map([
-          ['translation', ''],
+          ['translation', '沃尔恰县'],
           ['Amarasti', ''],
           ['Babeni', ''],
           ['Baile Govora', ''],
@@ -80645,7 +80645,7 @@ const translations = new Map([
       [
         'Bacau',
         new Map([
-          ['translation', ''],
+          ['translation', '巴克乌县'],
           ['Ardeoani', ''],
           ['Asau', ''],
           ['Bacau', ''],
@@ -80696,7 +80696,7 @@ const translations = new Map([
       [
         'Botosani',
         new Map([
-          ['translation', ''],
+          ['translation', '博托沙尼县'],
           ['Albesti', ''],
           ['Avrameni', ''],
           ['Baluseni', ''],
@@ -80736,7 +80736,7 @@ const translations = new Map([
       [
         'Salaj',
         new Map([
-          ['translation', ''],
+          ['translation', '萨拉日县'],
           ['Banisor', ''],
           ['Bobota', ''],
           ['Camar', ''],
@@ -80774,7 +80774,7 @@ const translations = new Map([
       [
         'Dolj',
         new Map([
-          ['translation', ''],
+          ['translation', '多尔日县'],
           ['Amarastii de Jos', ''],
           ['Amarastii de Sus', ''],
           ['Apele Vii', ''],
@@ -80819,7 +80819,7 @@ const translations = new Map([
       [
         'Maramures',
         new Map([
-          ['translation', ''],
+          ['translation', '马拉穆列什县'],
           ['Ardusat', ''],
           ['Arinis', ''],
           ['Baia Mare', ''],
@@ -80856,7 +80856,7 @@ const translations = new Map([
       [
         'Timis',
         new Map([
-          ['translation', ''],
+          ['translation', '蒂米什县'],
           ['Balint', ''],
           ['Banloc', ''],
           ['Beba Veche', ''],
@@ -80914,7 +80914,7 @@ const translations = new Map([
       [
         'Tulcea',
         new Map([
-          ['translation', ''],
+          ['translation', '图尔恰县'],
           ['Babadag', ''],
           ['Beidaud', ''],
           ['Ceamurlia de Jos', ''],
@@ -80944,7 +80944,7 @@ const translations = new Map([
       [
         'Caras-Severin',
         new Map([
-          ['translation', ''],
+          ['translation', '卡拉什-塞维林县'],
           ['Anina', ''],
           ['Armenis', ''],
           ['Baile Herculane', ''],
@@ -80987,7 +80987,7 @@ const translations = new Map([
       [
         'Hunedoara',
         new Map([
-          ['translation', ''],
+          ['translation', '胡内多阿拉县'],
           ['Bacia', ''],
           ['Baia de Cris', ''],
           ['Baita', ''],
@@ -81030,7 +81030,7 @@ const translations = new Map([
       [
         'Satu Mare',
         new Map([
-          ['translation', ''],
+          ['translation', '萨图马雷县'],
           ['Apa', ''],
           ['Barsau de Sus', ''],
           ['Batarci', ''],
@@ -81090,7 +81090,7 @@ const translations = new Map([
       [
         'Harghita',
         new Map([
-          ['translation', ''],
+          ['translation', '哈尔吉塔县'],
           ['Avramesti', ''],
           ['Baile Tusnad', ''],
           ['Balan', ''],
@@ -81131,7 +81131,7 @@ const translations = new Map([
       [
         'Covasna',
         new Map([
-          ['translation', ''],
+          ['translation', '科瓦斯纳县'],
           ['Baraolt', ''],
           ['Barcani', ''],
           ['Borosneu Mare', ''],
@@ -81164,7 +81164,7 @@ const translations = new Map([
       [
         'Gorj',
         new Map([
-          ['translation', ''],
+          ['translation', '戈尔日县'],
           ['Arcani', ''],
           ['Baia de Fier', ''],
           ['Balanesti', ''],
@@ -81209,7 +81209,7 @@ const translations = new Map([
       [
         'Arad',
         new Map([
-          ['translation', ''],
+          ['translation', '阿拉德县'],
           ['Apateu', ''],
           ['Arad', ''],
           ['Beliu', ''],
@@ -83918,7 +83918,7 @@ const translations = new Map([
       [
         'Esch-sur-Alzette',
         new Map([
-          ['translation', ''],
+          ['translation', '埃施河畔'],
           ['Belvaux', ''],
           ['Bettembourg', ''],
           ['Esch-sur-Alzette', ''],
@@ -83944,7 +83944,7 @@ const translations = new Map([
       [
         'Mersch',
         new Map([
-          ['translation', ''],
+          ['translation', '梅尔施'],
           ['Bissen', ''],
           ['Larochette', ''],
           ['Mersch', ''],
@@ -83954,7 +83954,7 @@ const translations = new Map([
       [
         'Grevenmacher',
         new Map([
-          ['translation', ''],
+          ['translation', '格雷文马赫'],
           ['Betzdorf', ''],
           ['Gonderange', ''],
           ['Grevenmacher', ''],
@@ -83965,7 +83965,7 @@ const translations = new Map([
       [
         'Diekirch',
         new Map([
-          ['translation', ''],
+          ['translation', '迪基希'],
           ['Bettendorf', ''],
           ['Diekirch', ''],
           ['Ettelbruck', ''],
@@ -83984,7 +83984,7 @@ const translations = new Map([
       [
         'Capellen',
         new Map([
-          ['translation', ''],
+          ['translation', '卡佩伦'],
           ['Bascharage', ''],
           ['Capellen', ''],
           ['Clemency', ''],
@@ -84991,7 +84991,7 @@ const translations = new Map([
       [
         'Sofia (stolitsa)',
         new Map([
-          ['translation', ''],
+          ['translation', '索非亚市'],
           ['Buhovo', ''],
           ['Moderno Predgradie', ''],
           ['Novi Iskar', ''],
@@ -85001,7 +85001,7 @@ const translations = new Map([
       [
         'Blagoevgrad',
         new Map([
-          ['translation', ''],
+          ['translation', '布拉戈耶夫格勒州'],
           ['Bansko', ''],
           ['Blagoevgrad', ''],
           ['Garmen', ''],
@@ -85020,7 +85020,7 @@ const translations = new Map([
       [
         'Shumen',
         new Map([
-          ['translation', ''],
+          ['translation', '舒门州'],
           ['Gara Khitrino', ''],
           ['Kaolinovo', ''],
           ['Kaspichan', ''],
@@ -85034,7 +85034,7 @@ const translations = new Map([
       [
         'Kardzhali',
         new Map([
-          ['translation', ''],
+          ['translation', '克尔贾利州'],
           ['Ardino', ''],
           ['Chernoochene', ''],
           ['Dzhebel', ''],
@@ -85046,7 +85046,7 @@ const translations = new Map([
       [
         'Sofia',
         new Map([
-          ['translation', ''],
+          ['translation', '索非亚市'],
           ['Anton', ''],
           ['Botevgrad', ''],
           ['Bozhurishte', ''],
@@ -85074,7 +85074,7 @@ const translations = new Map([
       [
         'Plovdiv',
         new Map([
-          ['translation', ''],
+          ['translation', '普罗夫迪夫州'],
           ['Asenovgrad', ''],
           ['Belozem', ''],
           ['Devin', ''],
@@ -85098,7 +85098,7 @@ const translations = new Map([
       [
         'Pernik',
         new Map([
-          ['translation', ''],
+          ['translation', '佩尔尼克州'],
           ['Batanovtsi', ''],
           ['Breznik', ''],
           ['Pernik', ''],
@@ -85126,7 +85126,7 @@ const translations = new Map([
       [
         'Stara Zagora',
         new Map([
-          ['translation', ''],
+          ['translation', '旧扎戈拉州'],
           ['Asen', ''],
           ['Chirpan', ''],
           ['Elkhovo', ''],
@@ -85143,7 +85143,7 @@ const translations = new Map([
       [
         'Burgas',
         new Map([
-          ['translation', ''],
+          ['translation', '布尔加斯州'],
           ['Aytos', ''],
           ['BG-Burgas-Ahtopol', ''],
           ['Burgas', ''],
@@ -85168,7 +85168,7 @@ const translations = new Map([
       [
         'Dobrich',
         new Map([
-          ['translation', ''],
+          ['translation', '多布里奇州'],
           ['Balchik', ''],
           ['Dobrich', ''],
           ['General-Toshevo', ''],
@@ -85181,7 +85181,7 @@ const translations = new Map([
       [
         'Varna',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦尔纳州'],
           ['Beloslav', ''],
           ['Byala', ''],
           ['Dalgopol', ''],
@@ -85199,7 +85199,7 @@ const translations = new Map([
       [
         'Targovishte',
         new Map([
-          ['translation', ''],
+          ['translation', '特尔戈维什泰州'],
           ['Antonovo', ''],
           ['Omurtag', ''],
           ['Popovo', ''],
@@ -85209,7 +85209,7 @@ const translations = new Map([
       [
         'Pleven',
         new Map([
-          ['translation', ''],
+          ['translation', '普列文州'],
           ['Belene', ''],
           ['Cherven Bryag', ''],
           ['Dolni Dabnik', ''],
@@ -85224,7 +85224,7 @@ const translations = new Map([
       [
         'Pazardzhik',
         new Map([
-          ['translation', ''],
+          ['translation', '帕扎尔吉克州'],
           ['Belovo', ''],
           ['Bratsigovo', ''],
           ['Lesichovo', ''],
@@ -85241,7 +85241,7 @@ const translations = new Map([
       [
         'Kyustendil',
         new Map([
-          ['translation', ''],
+          ['translation', '丘斯滕迪尔州'],
           ['Boboshevo', ''],
           ['Bobov Dol', ''],
           ['Dupnitsa', ''],
@@ -85254,7 +85254,7 @@ const translations = new Map([
       [
         'Sliven',
         new Map([
-          ['translation', ''],
+          ['translation', '斯利文州'],
           ['Kermen', ''],
           ['Kotel', ''],
           ['Nova Zagora', ''],
@@ -85265,7 +85265,7 @@ const translations = new Map([
       [
         'Smolyan',
         new Map([
-          ['translation', ''],
+          ['translation', '斯莫梁州'],
           ['Banite', ''],
           ['Chepelare', ''],
           ['Dospat', ''],
@@ -85279,7 +85279,7 @@ const translations = new Map([
       [
         'Haskovo',
         new Map([
-          ['translation', ''],
+          ['translation', '哈斯科沃州'],
           ['Dimitrovgrad', ''],
           ['Elena', ''],
           ['Harmanli', ''],
@@ -85303,7 +85303,7 @@ const translations = new Map([
       [
         'Veliko Tarnovo',
         new Map([
-          ['translation', ''],
+          ['translation', '大特尔诺沃州'],
           ['Byala Cherkva', ''],
           ['Konstantin', ''],
           ['Pavlikeni', ''],
@@ -85319,7 +85319,7 @@ const translations = new Map([
       [
         'Razgrad',
         new Map([
-          ['translation', ''],
+          ['translation', '拉兹格勒州'],
           ['Isperih', ''],
           ['Kubrat', ''],
           ['Loznitsa', ''],
@@ -85331,7 +85331,7 @@ const translations = new Map([
       [
         'Ruse',
         new Map([
-          ['translation', ''],
+          ['translation', '鲁塞州'],
           ['Borovo', ''],
           ['Dve Mogili', ''],
           ['Ivanovo', ''],
@@ -85347,7 +85347,7 @@ const translations = new Map([
       [
         'Gabrovo',
         new Map([
-          ['translation', ''],
+          ['translation', '加布罗沃州'],
           ['Dryanovo', ''],
           ['Gabrovo', ''],
           ['Sevlievo', ''],
@@ -85358,7 +85358,7 @@ const translations = new Map([
       [
         'Lovech',
         new Map([
-          ['translation', ''],
+          ['translation', '洛维奇州'],
           ['Apriltsi', ''],
           ['Lovech', ''],
           ['Lukovit', ''],
@@ -85371,7 +85371,7 @@ const translations = new Map([
       [
         'Vratsa',
         new Map([
-          ['translation', ''],
+          ['translation', '弗拉察州'],
           ['Borovan', ''],
           ['Byala Slatina', ''],
           ['Hayredin', ''],
@@ -85388,7 +85388,7 @@ const translations = new Map([
       [
         'Yambol',
         new Map([
-          ['translation', ''],
+          ['translation', '扬博尔州'],
           ['Bolyarovo', ''],
           ['Elhovo', ''],
           ['Straldzha', ''],
@@ -85398,7 +85398,7 @@ const translations = new Map([
       [
         'Silistra',
         new Map([
-          ['translation', ''],
+          ['translation', '锡利斯特拉州'],
           ['Alfatar', ''],
           ['Dulovo', ''],
           ['Glavinitsa', ''],
@@ -85411,7 +85411,7 @@ const translations = new Map([
       [
         'Vidin',
         new Map([
-          ['translation', ''],
+          ['translation', '维丁州'],
           ['Belogradchik', ''],
           ['Bregovo', ''],
           ['Dimovo', ''],
@@ -89250,7 +89250,7 @@ const translations = new Map([
       [
         'Calarasi',
         new Map([
-          ['translation', ''],
+          ['translation', '克勒拉希县'],
           ['Calarasi', '']
         ])
       ],
@@ -89679,7 +89679,7 @@ const translations = new Map([
       [
         'Riga',
         new Map([
-          ['translation', ''],
+          ['translation', '里加'],
           ['Bolderaja', ''],
           ['Jaunciems', ''],
           ['Riga', '']
@@ -89703,14 +89703,14 @@ const translations = new Map([
       [
         'Daugavpils',
         new Map([
-          ['translation', ''],
+          ['translation', '陶格夫匹尔斯'],
           ['Daugavpils', '']
         ])
       ],
       [
         'Dobeles novads',
         new Map([
-          ['translation', ''],
+          ['translation', '多贝莱市'],
           ['Dobele', ''],
           ['Tervete', '']
         ])
@@ -89734,7 +89734,7 @@ const translations = new Map([
       [
         'Livanu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '利瓦尼市'],
           ['Livani', ''],
           ['Silavas', ''],
           ['Veiguri', '']
@@ -89743,7 +89743,7 @@ const translations = new Map([
       [
         'Ventspils novads',
         new Map([
-          ['translation', ''],
+          ['translation', '文茨皮尔斯市'],
           ['Piltene', ''],
           ['Ventspils', '']
         ])
@@ -89751,7 +89751,7 @@ const translations = new Map([
       [
         'Liepaja',
         new Map([
-          ['translation', ''],
+          ['translation', '利耶帕亚'],
           ['Grobina', ''],
           ['Liepaja', '']
         ])
@@ -89768,7 +89768,7 @@ const translations = new Map([
       [
         'Kraslavas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '克拉斯拉瓦市'],
           ['Dagda', ''],
           ['Kraslava', '']
         ])
@@ -89776,7 +89776,7 @@ const translations = new Map([
       [
         'Cesu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '采西斯市'],
           ['Cesis', ''],
           ['Liepa', ''],
           ['Ligatne', ''],
@@ -89786,7 +89786,7 @@ const translations = new Map([
       [
         'Jekabpils novads',
         new Map([
-          ['translation', ''],
+          ['translation', '叶卡布皮尔斯市'],
           ['Jekabpils', ''],
           ['Viesite', '']
         ])
@@ -89794,7 +89794,7 @@ const translations = new Map([
       [
         'Valkas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦尔卡市'],
           ['Strenci', ''],
           ['Valka', '']
         ])
@@ -89802,7 +89802,7 @@ const translations = new Map([
       [
         'Preilu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '普雷利市'],
           ['Aglona', ''],
           ['Dzaibi', ''],
           ['Preili', '']
@@ -89811,7 +89811,7 @@ const translations = new Map([
       [
         'Aizkraukles novads',
         new Map([
-          ['translation', ''],
+          ['translation', '艾兹克劳克莱市'],
           ['Aizkraukle', ''],
           ['Jaunjelgava', ''],
           ['Koknese', ''],
@@ -89837,7 +89837,7 @@ const translations = new Map([
       [
         'Bauskas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '包斯卡市'],
           ['Bauska', ''],
           ['Iecava', ''],
           ['Pilsrundale', ''],
@@ -89854,7 +89854,7 @@ const translations = new Map([
       [
         'Talsu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '塔尔西市'],
           ['Roja', ''],
           ['Stende', ''],
           ['Talsi', ''],
@@ -89873,7 +89873,7 @@ const translations = new Map([
       [
         'Madonas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '马多纳市'],
           ['Cesvaine', ''],
           ['Ergli', ''],
           ['Lubana', ''],
@@ -89883,7 +89883,7 @@ const translations = new Map([
       [
         'Kuldigas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '库尔迪加市'],
           ['Kuldiga', ''],
           ['Skrunda', '']
         ])
@@ -89891,7 +89891,7 @@ const translations = new Map([
       [
         'Ludzas novads',
         new Map([
-          ['translation', ''],
+          ['translation', '卢扎市'],
           ['Karsava', ''],
           ['Ludza', ''],
           ['Sovani', '']
@@ -89900,7 +89900,7 @@ const translations = new Map([
       [
         'Ogres novads',
         new Map([
-          ['translation', ''],
+          ['translation', '奥格雷市'],
           ['Ikskile', ''],
           ['Jumprava', ''],
           ['Kegums', ''],
@@ -89911,14 +89911,14 @@ const translations = new Map([
       [
         'Jurmala',
         new Map([
-          ['translation', ''],
+          ['translation', '尤尔马拉'],
           ['Jurmala', '']
         ])
       ],
       [
         'Saldus novads',
         new Map([
-          ['translation', ''],
+          ['translation', '萨尔杜斯市'],
           ['Broceni', ''],
           ['Saldus', '']
         ])
@@ -89940,7 +89940,7 @@ const translations = new Map([
       [
         'Tukuma novads',
         new Map([
-          ['translation', ''],
+          ['translation', '图库姆斯市'],
           ['Engure', ''],
           ['Jaunpils', ''],
           ['Tukums', '']
@@ -89949,14 +89949,14 @@ const translations = new Map([
       [
         'Jelgava',
         new Map([
-          ['translation', ''],
+          ['translation', '叶尔加瓦'],
           ['Tireli', '']
         ])
       ],
       [
         'Rezeknes novads',
         new Map([
-          ['translation', ''],
+          ['translation', '雷泽克内市'],
           ['Rezekne', ''],
           ['Vilani', '']
         ])
@@ -89964,7 +89964,7 @@ const translations = new Map([
       [
         'Limbazu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '林巴日市'],
           ['Aloja', ''],
           ['Limbazi', ''],
           ['Salacgriva', ''],
@@ -89974,7 +89974,7 @@ const translations = new Map([
       [
         'Smiltenes novads',
         new Map([
-          ['translation', ''],
+          ['translation', '斯米尔泰内市'],
           ['Ape', ''],
           ['Smiltene', '']
         ])
@@ -89982,7 +89982,7 @@ const translations = new Map([
       [
         'Gulbenes novads',
         new Map([
-          ['translation', ''],
+          ['translation', '古尔贝内市'],
           ['Gulbene', '']
         ])
       ],
@@ -90006,7 +90006,7 @@ const translations = new Map([
       [
         'Balvu novads',
         new Map([
-          ['translation', ''],
+          ['translation', '巴尔维市'],
           ['Balvi', ''],
           ['Vilaka', '']
         ])
@@ -90014,7 +90014,7 @@ const translations = new Map([
       [
         'Aluksnes novads',
         new Map([
-          ['translation', ''],
+          ['translation', '阿卢克斯内市'],
           ['Aluksne', '']
         ])
       ],
@@ -91570,7 +91570,7 @@ const translations = new Map([
       [
         'Harjumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '哈留县'],
           ['Juri', ''],
           ['Lagedi', ''],
           ['Loksa', ''],
@@ -91584,7 +91584,7 @@ const translations = new Map([
       [
         'Ida-Virumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '东维鲁县'],
           ['Aseri', ''],
           ['Johvi', ''],
           ['Kivioli', ''],
@@ -91604,7 +91604,7 @@ const translations = new Map([
       [
         'Tartumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '塔尔图县'],
           ['Elva', ''],
           ['Laeva', ''],
           ['Noo', ''],
@@ -91614,7 +91614,7 @@ const translations = new Map([
       [
         'Laanemaa',
         new Map([
-          ['translation', ''],
+          ['translation', '莱内县'],
           ['Haapsalu', ''],
           ['Lihula', '']
         ])
@@ -91622,7 +91622,7 @@ const translations = new Map([
       [
         'Jogevamaa',
         new Map([
-          ['translation', ''],
+          ['translation', '耶盖瓦县'],
           ['Jogeva', ''],
           ['Poltsamaa', ''],
           ['Siimusti', '']
@@ -91631,7 +91631,7 @@ const translations = new Map([
       [
         'Saaremaa',
         new Map([
-          ['translation', ''],
+          ['translation', '萨雷县'],
           ['Are', ''],
           ['Kuressaare', '']
         ])
@@ -91639,14 +91639,14 @@ const translations = new Map([
       [
         'Parnumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '帕尔努县'],
           ['Parnu', '']
         ])
       ],
       [
         'Laane-Virumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '西维鲁县'],
           ['Kadrina', ''],
           ['Kunda', ''],
           ['Rakke', ''],
@@ -91659,14 +91659,14 @@ const translations = new Map([
       [
         'Valgamaa',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦尔加县'],
           ['Valga', '']
         ])
       ],
       [
         'Jarvamaa',
         new Map([
-          ['translation', ''],
+          ['translation', '耶尔瓦县'],
           ['Paide', ''],
           ['Sarevere', ''],
           ['Turi', '']
@@ -91675,7 +91675,7 @@ const translations = new Map([
       [
         'Viljandimaa',
         new Map([
-          ['translation', ''],
+          ['translation', '维良地县'],
           ['Mustla', ''],
           ['Viiratsi', ''],
           ['Viljandi', '']
@@ -91684,14 +91684,14 @@ const translations = new Map([
       [
         'Vorumaa',
         new Map([
-          ['translation', ''],
+          ['translation', '沃鲁县'],
           ['Voru', '']
         ])
       ],
       [
         'Raplamaa',
         new Map([
-          ['translation', ''],
+          ['translation', '拉普拉县'],
           ['Jarvakandi', ''],
           ['Kehtna', '']
         ])
@@ -91699,7 +91699,7 @@ const translations = new Map([
       [
         'Polvamaa',
         new Map([
-          ['translation', ''],
+          ['translation', '珀尔瓦县'],
           ['Polva', '']
         ])
       ]
@@ -93903,14 +93903,14 @@ const translations = new Map([
       [
         'Birkirkara',
         new Map([
-          ['translation', ''],
+          ['translation', '比尔基卡拉'],
           ['Birkirkara', '']
         ])
       ],
       [
         'Valletta',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦莱塔'],
           ['Valletta', '']
         ])
       ],
@@ -93924,7 +93924,7 @@ const translations = new Map([
       [
         'Sliema',
         new Map([
-          ['translation', ''],
+          ['translation', '斯利马'],
           ['Sliema', '']
         ])
       ],
@@ -93966,7 +93966,7 @@ const translations = new Map([
       [
         'Marsaskala',
         new Map([
-          ['translation', ''],
+          ['translation', '马尔萨斯卡拉'],
           ['Il-Hamrija', ''],
           ['Il-Kappara', ''],
           ['Il-Mahsel', ''],
@@ -93981,14 +93981,14 @@ const translations = new Map([
       [
         'Tarxien',
         new Map([
-          ['translation', ''],
+          ['translation', '塔尔欣'],
           ['Tarxien', '']
         ])
       ],
       [
         'Qormi',
         new Map([
-          ['translation', ''],
+          ['translation', '科尔米'],
           ['Qormi', '']
         ])
       ],
@@ -94002,7 +94002,7 @@ const translations = new Map([
       [
         'Fgura',
         new Map([
-          ['translation', ''],
+          ['translation', '夫古拉'],
           ['Fgura', '']
         ])
       ],
@@ -94023,7 +94023,7 @@ const translations = new Map([
       [
         'Mosta',
         new Map([
-          ['translation', ''],
+          ['translation', '莫斯塔'],
           ['Mosta', '']
         ])
       ],
@@ -94037,7 +94037,7 @@ const translations = new Map([
       [
         'Naxxar',
         new Map([
-          ['translation', ''],
+          ['translation', '纳沙尔'],
           ['Naxxar', '']
         ])
       ],
@@ -94079,7 +94079,7 @@ const translations = new Map([
       [
         'Zejtun',
         new Map([
-          ['translation', ''],
+          ['translation', '泽伊通'],
           ['Zejtun', '']
         ])
       ],
@@ -94129,14 +94129,14 @@ const translations = new Map([
       [
         'Gzira',
         new Map([
-          ['translation', ''],
+          ['translation', '吉济拉'],
           ['Gzira', '']
         ])
       ],
       [
         'Hamrun',
         new Map([
-          ['translation', ''],
+          ['translation', '哈姆伦'],
           ['Hamrun', '']
         ])
       ],
@@ -94158,7 +94158,7 @@ const translations = new Map([
       [
         'Siggiewi',
         new Map([
-          ['translation', ''],
+          ['translation', '锡吉维'],
           ['Siggiewi', '']
         ])
       ],
@@ -94201,14 +94201,14 @@ const translations = new Map([
       [
         'Swieqi',
         new Map([
-          ['translation', ''],
+          ['translation', '斯维基'],
           ['Swieqi', '']
         ])
       ],
       [
         'Zabbar',
         new Map([
-          ['translation', ''],
+          ['translation', '扎巴尔'],
           ['Zabbar', '']
         ])
       ],
@@ -94312,7 +94312,7 @@ const translations = new Map([
       [
         'Paola',
         new Map([
-          ['translation', ''],
+          ['translation', '保拉'],
           ['Paola', '']
         ])
       ],
@@ -94374,7 +94374,7 @@ const translations = new Map([
       [
         'Lefkosia',
         new Map([
-          ['translation', ''],
+          ['translation', '尼科西亚区'],
           ['Geri', ''],
           ['Kakopetria', ''],
           ['Kato Pyrgos', ''],
@@ -94386,7 +94386,7 @@ const translations = new Map([
       [
         'Larnaka',
         new Map([
-          ['translation', ''],
+          ['translation', '拉纳卡区'],
           ['Agios Tychon', ''],
           ['Athienou', ''],
           ['Kofinou', ''],
@@ -94404,7 +94404,7 @@ const translations = new Map([
       [
         'Pafos',
         new Map([
-          ['translation', ''],
+          ['translation', '帕福斯区'],
           ['Chlorakas', ''],
           ['Emba', ''],
           ['Kissonerga', ''],
@@ -94419,7 +94419,7 @@ const translations = new Map([
       [
         'Ammochostos',
         new Map([
-          ['translation', ''],
+          ['translation', '法马古斯塔区'],
           ['Akhyritou', ''],
           ['Avgorou', ''],
           ['Ayia Napa', ''],
@@ -94437,7 +94437,7 @@ const translations = new Map([
       [
         'Lemesos',
         new Map([
-          ['translation', ''],
+          ['translation', '利马索尔区'],
           ['Kyperounta', ''],
           ['Limassol', ''],
           ['Mouttagiaka', ''],
@@ -95222,7 +95222,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Chibombo', ''],
           ['Kabwe', ''],
           ['Kapiri Mposhi', ''],
@@ -95246,7 +95246,7 @@ const translations = new Map([
       [
         'Western',
         new Map([
-          ['translation', ''],
+          ['translation', '西部区'],
           ['Kalabo', ''],
           ['Kaoma', ''],
           ['Mongu', ''],
@@ -95257,7 +95257,7 @@ const translations = new Map([
       [
         'Southern',
         new Map([
-          ['translation', ''],
+          ['translation', '南部区'],
           ['Choma', ''],
           ['Gwembe', ''],
           ['Livingstone', ''],
@@ -95280,7 +95280,7 @@ const translations = new Map([
       [
         'Northern',
         new Map([
-          ['translation', ''],
+          ['translation', '北部区'],
           ['Kaputa', ''],
           ['Kasama', ''],
           ['Mpulungu', ''],
@@ -95305,14 +95305,14 @@ const translations = new Map([
       [
         'Velenje',
         new Map([
-          ['translation', ''],
+          ['translation', '韦莱涅'],
           ['Velenje', '']
         ])
       ],
       [
         'Maribor',
         new Map([
-          ['translation', ''],
+          ['translation', '马里博尔'],
           ['Kamnica', ''],
           ['Maribor', '']
         ])
@@ -95320,7 +95320,7 @@ const translations = new Map([
       [
         'Ljubljana',
         new Map([
-          ['translation', ''],
+          ['translation', '卢布尔雅那'],
           ['Ljubljana', '']
         ])
       ],
@@ -95337,7 +95337,7 @@ const translations = new Map([
       [
         'Domzale',
         new Map([
-          ['translation', ''],
+          ['translation', '多姆扎莱'],
           ['Dob', ''],
           ['Domzale', ''],
           ['Radomlje', '']
@@ -95346,7 +95346,7 @@ const translations = new Map([
       [
         'Koper',
         new Map([
-          ['translation', ''],
+          ['translation', '科佩尔'],
           ['Dekani', ''],
           ['Koper', '']
         ])
@@ -95371,7 +95371,7 @@ const translations = new Map([
       [
         'Skofja Loka',
         new Map([
-          ['translation', ''],
+          ['translation', '什科菲亚洛卡'],
           ['Skofja Loka', '']
         ])
       ],
@@ -95422,7 +95422,7 @@ const translations = new Map([
       [
         'Murska Sobota',
         new Map([
-          ['translation', ''],
+          ['translation', '穆尔斯卡索博塔'],
           ['Cernelavci', ''],
           ['Krog', ''],
           ['Murska Sobota', '']
@@ -95459,7 +95459,7 @@ const translations = new Map([
       [
         'Celje',
         new Map([
-          ['translation', ''],
+          ['translation', '采列'],
           ['Celje', '']
         ])
       ],
@@ -95542,7 +95542,7 @@ const translations = new Map([
       [
         'Trbovlje',
         new Map([
-          ['translation', ''],
+          ['translation', '特尔博夫列'],
           ['Trbovlje', '']
         ])
       ],
@@ -95579,7 +95579,7 @@ const translations = new Map([
       [
         'Slovenj Gradec',
         new Map([
-          ['translation', ''],
+          ['translation', '斯洛文格拉德茨'],
           ['Pamece', ''],
           ['Slovenj Gradec', '']
         ])
@@ -95658,7 +95658,7 @@ const translations = new Map([
       [
         'Krsko',
         new Map([
-          ['translation', ''],
+          ['translation', '克尔什科'],
           ['Krsko', ''],
           ['Senovo', '']
         ])
@@ -95689,7 +95689,7 @@ const translations = new Map([
       [
         'Izola',
         new Map([
-          ['translation', ''],
+          ['translation', '伊佐拉'],
           ['Izola', '']
         ])
       ],
@@ -95703,7 +95703,7 @@ const translations = new Map([
       [
         'Kranj',
         new Map([
-          ['translation', ''],
+          ['translation', '克拉尼'],
           ['Kokrica', ''],
           ['Kranj', '']
         ])
@@ -95725,7 +95725,7 @@ const translations = new Map([
       [
         'Novo Mesto',
         new Map([
-          ['translation', ''],
+          ['translation', '新梅斯托'],
           ['Novo Mesto', '']
         ])
       ],
@@ -95739,7 +95739,7 @@ const translations = new Map([
       [
         'Nova Gorica',
         new Map([
-          ['translation', ''],
+          ['translation', '新戈里察'],
           ['Nova Gorica', ''],
           ['Sempas', ''],
           ['Solkan', '']
@@ -95790,7 +95790,7 @@ const translations = new Map([
       [
         'Postojna',
         new Map([
-          ['translation', ''],
+          ['translation', '波斯托伊纳'],
           ['Postojna', '']
         ])
       ],
@@ -95808,7 +95808,7 @@ const translations = new Map([
       [
         'Jesenice',
         new Map([
-          ['translation', ''],
+          ['translation', '耶塞尼采'],
           ['Jesenice', ''],
           ['Koroska Bela', '']
         ])
@@ -95825,7 +95825,7 @@ const translations = new Map([
       [
         'Ptuj',
         new Map([
-          ['translation', ''],
+          ['translation', '普图伊'],
           ['Ptuj', '']
         ])
       ],
@@ -96264,7 +96264,7 @@ const translations = new Map([
       [
         'Kamnik',
         new Map([
-          ['translation', ''],
+          ['translation', '卡姆尼克'],
           ['Kamnik', ''],
           ['Smarca', ''],
           ['Stahovica', '']
@@ -96542,7 +96542,7 @@ const translations = new Map([
       [
         'Ruse',
         new Map([
-          ['translation', ''],
+          ['translation', '鲁塞州'],
           ['Ruse', '']
         ])
       ],
@@ -96585,7 +96585,7 @@ const translations = new Map([
       [
         'Ravne na Koroskem',
         new Map([
-          ['translation', ''],
+          ['translation', '科罗什卡拉夫内'],
           ['Kotlje', '']
         ])
       ],
@@ -99106,7 +99106,7 @@ const translations = new Map([
       [
         'Tirane',
         new Map([
-          ['translation', ''],
+          ['translation', '地拉那州'],
           ['Kavaje', ''],
           ['Krrabe', ''],
           ['Rrogozhine', ''],
@@ -99117,7 +99117,7 @@ const translations = new Map([
       [
         'Elbasan',
         new Map([
-          ['translation', ''],
+          ['translation', '爱尔巴桑州'],
           ['Cerrik', ''],
           ['Elbasan', ''],
           ['Librazhd', ''],
@@ -99127,7 +99127,7 @@ const translations = new Map([
       [
         'Kukes',
         new Map([
-          ['translation', ''],
+          ['translation', '库克斯州'],
           ['Bajram Curri', ''],
           ['Kukes', '']
         ])
@@ -99135,7 +99135,7 @@ const translations = new Map([
       [
         'Fier',
         new Map([
-          ['translation', ''],
+          ['translation', '费里州'],
           ['Ballsh', ''],
           ['Fier', ''],
           ['Fier-Cifci', ''],
@@ -99147,7 +99147,7 @@ const translations = new Map([
       [
         'Shkoder',
         new Map([
-          ['translation', ''],
+          ['translation', '斯库台州'],
           ['Koplik', ''],
           ['Puke', ''],
           ['Shkoder', '']
@@ -99156,7 +99156,7 @@ const translations = new Map([
       [
         'Berat',
         new Map([
-          ['translation', ''],
+          ['translation', '培拉特州'],
           ['Berat', ''],
           ['Corovode', ''],
           ['Kucove', ''],
@@ -99166,7 +99166,7 @@ const translations = new Map([
       [
         'Vlore',
         new Map([
-          ['translation', ''],
+          ['translation', '发罗拉州'],
           ['Delvine', ''],
           ['Himare', ''],
           ['Konispol', ''],
@@ -99179,7 +99179,7 @@ const translations = new Map([
       [
         'Durres',
         new Map([
-          ['translation', ''],
+          ['translation', '都拉斯州'],
           ['Durres', ''],
           ['Fushe-Kruje', ''],
           ['Shijak', '']
@@ -99188,7 +99188,7 @@ const translations = new Map([
       [
         'Lezhe',
         new Map([
-          ['translation', ''],
+          ['translation', '莱什州'],
           ['Kurbnesh', ''],
           ['Lezhe', ''],
           ['Mamurras', ''],
@@ -99199,7 +99199,7 @@ const translations = new Map([
       [
         'Diber',
         new Map([
-          ['translation', ''],
+          ['translation', '迪勃拉州'],
           ['Bulqize', ''],
           ['Burrel', ''],
           ['Peshkopi', '']
@@ -99208,7 +99208,7 @@ const translations = new Map([
       [
         'Korce',
         new Map([
-          ['translation', ''],
+          ['translation', '科尔察州'],
           ['Erseke', ''],
           ['Korce', ''],
           ['Leskovik', ''],
@@ -99219,7 +99219,7 @@ const translations = new Map([
       [
         'Gjirokaster',
         new Map([
-          ['translation', ''],
+          ['translation', '吉诺卡斯特州'],
           ['Gjirokaster', ''],
           ['Kelcyre', ''],
           ['Memaliaj', ''],
@@ -102917,7 +102917,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Gabutu', ''],
           ['Koderika', ''],
           ['Porebada', '']
@@ -102955,7 +102955,7 @@ const translations = new Map([
       [
         'Western',
         new Map([
-          ['translation', ''],
+          ['translation', '西部区'],
           ['Kiunga', ''],
           ['Tabubil', '']
         ])
@@ -103003,7 +103003,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Nausori', ''],
           ['Suva', '']
         ])
@@ -103027,7 +103027,7 @@ const translations = new Map([
       [
         'Western',
         new Map([
-          ['translation', ''],
+          ['translation', '西部区'],
           ['Lautoka', ''],
           ['Nadi', '']
         ])
@@ -105981,7 +105981,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Aregua', ''],
           ['Capiata', ''],
           ['Fernando de la Mora', ''],
@@ -107436,7 +107436,7 @@ const translations = new Map([
       [
         'Southern',
         new Map([
-          ['translation', ''],
+          ['translation', '南部区'],
           ['Jwaneng', ''],
           ['Kanye', ''],
           ['Khakhea', '']
@@ -107465,7 +107465,7 @@ const translations = new Map([
       [
         'Central',
         new Map([
-          ['translation', ''],
+          ['translation', '中部区'],
           ['Dukwe', ''],
           ['Gobojango', ''],
           ['Letlhakane', ''],
@@ -108211,7 +108211,7 @@ const translations = new Map([
       [
         'Northern',
         new Map([
-          ['translation', ''],
+          ['translation', '北部区'],
           ['Dongola', ''],
           ['Karmah an Nuzul', ''],
           ['Kuraymah', ''],
@@ -108719,7 +108719,7 @@ const translations = new Map([
       [
         'Western',
         new Map([
-          ['translation', ''],
+          ['translation', '西部区'],
           ['Abuko', ''],
           ['Brikama', ''],
           ['Gunjur', ''],
@@ -109507,7 +109507,7 @@ const translations = new Map([
       [
         'Southern',
         new Map([
-          ['translation', ''],
+          ['translation', '南部区'],
           ['Bo', ''],
           ['Mogbwemo', '']
         ])
@@ -109515,7 +109515,7 @@ const translations = new Map([
       [
         'Northern',
         new Map([
-          ['translation', ''],
+          ['translation', '北部区'],
           ['Makeni', '']
         ])
       ],
