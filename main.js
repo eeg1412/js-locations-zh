@@ -1,4 +1,4 @@
-const allCountries = new Set(["Australia","China","Japan","Thailand","Malaysia","Korea (the Republic of)","Singapore","Hong Kong","Taiwan (Province of China)","United States of America","Canada","Macao"]);
+const allCountries = new Set(["Australia","China","Japan","Thailand","India","Malaysia","Korea (the Republic of)","Singapore","Hong Kong","Taiwan (Province of China)","United States of America","Canada","Macao"]);
 
 export function getCountryData(country) {
   if (!allCountries.has(country)) {
