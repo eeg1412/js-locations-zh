@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","内蒙古自治区"],["Arxan","阿尔山"],["Baotou","包头"],["Bayannur","巴彦淖尔"],["Chifeng","赤峰"],["Hohhot","呼和浩特"],["Hulunbuir","呼伦贝尔"],["Manzhouli","满洲里"],["Ordos","鄂尔多斯"],["Tongliao","通辽"],["Ulanhot","乌兰浩特"],["Ulanqab","乌兰察布"],["Wuhai","乌海"],["Xilinhot","锡林浩特"]]);export{a as default};

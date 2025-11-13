@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","中博滕区"],["Halsua",""],["Kannus",""],["Kaustinen",""],["Kokkola",""],["Kotka",""],["Lestijarvi",""],["Patana",""],["Perho",""],["Toholampi",""],["Ullava",""],["Veteli",""]]);export{a as default};

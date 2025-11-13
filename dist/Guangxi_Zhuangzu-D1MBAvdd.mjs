@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","广西壮族自治区"],["Baise","百色"],["Beihai","北海"],["Chongzuo","崇左"],["Fangchenggang","防城港"],["Guigang","贵港"],["Guilin","桂林"],["Guiping","桂平"],["Hechi","河池"],["Hengzhou","横州"],["Hezhou","贺州"],["Laibin","来宾"],["Liuzhou","柳州"],["Nanning","南宁"],["Qinzhou","钦州"],["Wuzhou","梧州"],["Yulin","玉林"]]);export{n as default};

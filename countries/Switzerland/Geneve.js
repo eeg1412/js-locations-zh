@@ -1,0 +1,1 @@
+export default new Map([["translation", "日内瓦州"], ["Bellevue", ""], ["Carouge", ""], ["Chene-Bougeries", ""], ["Chene-Bourg", ""], ["Confignon", ""], ["Geneva", ""], ["Lancy", ""], ["Le Grand-Saconnex", ""], ["Les Avanchets", ""], ["Meyrin", ""], ["Onex", ""], ["Plan-les-Ouates", ""], ["Satigny", ""], ["Troinex", ""], ["Vandoeuvres", ""], ["Vernier", ""]]);

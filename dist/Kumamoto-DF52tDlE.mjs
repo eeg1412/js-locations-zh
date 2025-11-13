@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","熊本"],["Amakusa","天草"],["Aso","阿苏"],["Hitoyoshi","人吉"],["Kikuchi","菊池"],["Koshi","合志"],["Kumamoto","熊本"],["Minamata","水俣"],["Ozu","大津"],["Tamana","玉名"],["Yatsushiro","八代"]]);export{a as default};

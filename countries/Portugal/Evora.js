@@ -1,0 +1,1 @@
+export default new Map([["translation", "埃武拉区"], ["Alcacovas", ""], ["Arraiolos", ""], ["Borba", ""], ["Estremoz", ""], ["Evora", ""], ["Montemor-o-Novo", ""], ["Mora", ""], ["Mourao", ""], ["Portel", ""], ["Redondo", ""], ["Reguengos de Monsaraz", ""], ["Vendas Novas", ""], ["Viana do Alentejo", ""], ["Vila Vicosa", ""]]);

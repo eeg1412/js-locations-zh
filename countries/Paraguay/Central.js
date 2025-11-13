@@ -1,0 +1,1 @@
+export default new Map([["translation", "中部区"], ["Aregua", ""], ["Capiata", ""], ["Fernando de la Mora", ""], ["Ita", ""], ["Itaugua", ""], ["Lambare", ""], ["Limpio", ""], ["Mariano Roque Alonso", ""], ["Nemby", ""], ["San Antonio", ""], ["San Lorenzo", ""], ["Villa Elisa", ""], ["Ypacarai", ""]]);

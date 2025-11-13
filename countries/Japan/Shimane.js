@@ -1,0 +1,1 @@
+export default new Map([["translation", "岛根"], ["Ai", "安来"], ["Gotsucho", "江津町"], ["Hamada", "滨田"], ["Hashi", "桥"], ["Ichiyama", "市山"], ["Izumo", "出云"], ["Masuda", "益田"], ["Matsue", "松江"], ["Oda", "小田"], ["Odacho-oda", "小田町小田"], ["Oe", "大江"], ["Sanbecho-shigaku", "三瓶町鹿谷"], ["Unami", "宇波"], ["Unnan", "云南"], ["Yasugi", "安来"]]);

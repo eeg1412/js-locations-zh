@@ -1,0 +1,1 @@
+export default new Map([["translation", "卢塞恩州"], ["Altishofen", ""], ["Dagmersellen", ""], ["Ebikon", ""], ["Emmen", ""], ["Hasle", ""], ["Hitzkirch", ""], ["Horw", ""], ["Kriens", ""], ["Littau", ""], ["Luzern", ""], ["Meierskappel", ""], ["Nottwil", ""], ["Oberhirzmatt", ""], ["Pfaffnau", ""], ["Reiden", ""], ["Root", ""], ["Sempach", ""], ["Sursee", ""], ["Willisau", ""]]);

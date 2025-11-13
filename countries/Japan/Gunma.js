@@ -1,0 +1,1 @@
+export default new Map([["translation", "群马"], ["Doai", "土合"], ["Kiryu", "桐生"], ["Maebashi", "前桥"], ["Naganohara", "长野原"], ["Nakanojomachi", "中之条町"], ["Takasaki", "高崎"], ["Tatebayashi", "馆林"], ["Tomioka", "富冈"]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", "哈斯科沃州"], ["Dimitrovgrad", ""], ["Elena", ""], ["Harmanli", ""], ["Haskovo", ""], ["Ivaylovgrad", ""], ["Lyubimets", ""], ["Madzharovo", ""], ["Mineralni Bani", ""], ["Simeonovgrad", ""], ["Svilengrad", ""], ["Topolovgrad", ""]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", "凯里郡"], ["Ballybunnion", ""], ["Cahersiveen", ""], ["Castleisland", ""], ["Cill Airne", ""], ["Dingle", ""], ["Feohanagh", ""], ["Kenmare", ""], ["Kilcummin Farmhill", ""], ["Killorglin", ""], ["Listowel", ""], ["Tralee", ""], ["Waterville", ""]]);

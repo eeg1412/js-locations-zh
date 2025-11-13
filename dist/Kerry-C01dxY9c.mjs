@@ -1,0 +1,1 @@
+const l=/* @__PURE__ */new Map([["translation","凯里郡"],["Ballybunnion",""],["Cahersiveen",""],["Castleisland",""],["Cill Airne",""],["Dingle",""],["Feohanagh",""],["Kenmare",""],["Kilcummin Farmhill",""],["Killorglin",""],["Listowel",""],["Tralee",""],["Waterville",""]]);export{l as default};

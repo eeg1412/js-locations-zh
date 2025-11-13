@@ -1,0 +1,1 @@
+export default new Map([["translation", "利卡-塞尼县"], ["Brinje", ""], ["Gospic", ""], ["Jezerce", ""], ["Karlobag", ""], ["Novalja", ""], ["Otocac", ""], ["Plitvicka Jezera", ""], ["Popovaca", ""], ["Senj", ""]]);

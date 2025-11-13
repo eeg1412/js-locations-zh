@@ -1,0 +1,1 @@
+export default new Map([["translation", "戈尔韦郡"], ["Athenry", ""], ["Ballinasloe", ""], ["Clifden", ""], ["Galway", ""], ["Gort", ""], ["Loughrea", ""], ["Moycullen", ""], ["Oranmore", ""], ["Portumna", ""], ["Roundstone", ""], ["Salthill", ""], ["Spiddal", ""], ["Tuam", ""]]);

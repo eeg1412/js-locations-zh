@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","砂拉越"],["Belaga","峇拉加"],["Bintulu","民都鲁"],["Jerai","日莱"],["Kapit","加帛"],["Kuching","古晋"],["Lawas","老越"],["Limbang","林梦"],["Miri","美里"],["Pasir Puteh","白沙"],["Rumah Ambang","鲁玛安邦"],["Sarikei","泗里街"],["Sibu","诗巫"],["Simanggang","成邦江"],["Sri Aman","斯里阿曼"]]);export{a as default};

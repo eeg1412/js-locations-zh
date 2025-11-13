@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","米斯郡"],["Ashbourne",""],["Athboy",""],["Duleek",""],["Dunboyne",""],["Kells",""],["Laytown",""],["Navan",""],["Newtown Trim",""],["Oldcastle",""],["Stamullin",""],["Trim",""]]);export{n as default};

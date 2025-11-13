@@ -1,0 +1,1 @@
+export default new Map([["translation", "蒙大拿"], ["Berkovitsa", ""], ["Boychinovtsi", ""], ["Brusartsi", ""], ["Chiprovtsi", ""], ["Lom", ""], ["Medkovets", ""], ["Montana", ""], ["Valchedram", ""], ["Varshets", ""], ["Yakimovo", ""]]);

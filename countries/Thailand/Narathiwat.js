@@ -1,0 +1,1 @@
+export default new Map([["translation", "那拉提瓦府"], ["Bacho", "巴卓"], ["Cho-airong", "卓爱朗"], ["Narathiwat", "那拉提瓦"], ["Ra-ngae", "拉迦"], ["Rueso", "勒索"], ["Su-ngai Kolok", "苏吉科洛"], ["Su-ngai Padi", "苏吉帕地"], ["Sukhirin", "苏吉林"], ["Tak Bai", "塔拜"], ["Waeng", "威嗯"], ["Yi-ngo", "益澳"]]);

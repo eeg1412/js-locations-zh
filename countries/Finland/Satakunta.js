@@ -1,0 +1,1 @@
+export default new Map([["translation", "萨塔昆塔区"], ["Eura", ""], ["Eurajoki", ""], ["Harjavalta", ""], ["Honkajoki", ""], ["Huittinen", ""], ["Jamijarvi", ""], ["Karvia", ""], ["Kokemaki", ""], ["Lavia", ""], ["Luvia", ""], ["Merikarvia", ""], ["Nakkila", ""], ["Pomarkku", ""], ["Pori", ""], ["Rauma", ""], ["Sakyla", ""], ["Siikainen", ""], ["Ulvila", ""], ["Vampula", ""]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", "黎府"], ["Chiang Khan", "清刊"], ["Dan Sai", "丹赛"], ["Erawan", "伊拉万"], ["Loei", "黎"], ["Nong Hin", "农欣"], ["Pak Chom", "帕琼"], ["Pha Khao", "帕考"], ["Phu Kradueng", "普格都"], ["Phu Luang", "普銮"], ["Phu Ruea", "普瑞亚"], ["Tha Li", "他力"], ["Wang Saphung", "旺萨蓬"]]);

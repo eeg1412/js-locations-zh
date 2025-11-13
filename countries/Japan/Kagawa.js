@@ -1,0 +1,1 @@
+export default new Map([["translation", "香川"], ["Kan'onji", "观音寺"], ["Kan'onjicho", "观音寺町"], ["Mitoyo", "三丰"], ["Sakaidecho", "坂出町"], ["Sakate", "坂出"], ["Shionoe", "紫野"], ["Takamatsu", "高松"], ["Toyohamacho-wadahama", "丰滨町和田滨"]]);

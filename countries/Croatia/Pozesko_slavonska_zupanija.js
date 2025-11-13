@@ -1,0 +1,1 @@
+export default new Map([["translation", "波热加-斯拉沃尼亚县"], ["Gradac", ""], ["Jaksic", ""], ["Kaptol", ""], ["Kutjevo", ""], ["Lipik", ""], ["Pakrac", ""], ["Pleternica", ""], ["Pozega", ""], ["Velika", ""], ["Vidovci", ""]]);

@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","甲米府"],["Ao Luek","奥略"],["Ban Ao Nang","班奥南"],["Khao Phanom","考帕农"],["Khlong Thom","空统"],["Ko Lanta","兰达岛"],["Krabi","甲米"],["Lam Thap","蓝塔"],["Nuea Khlong","呐空"],["Plai Phraya","派帕亚"],["Saladan","沙拉丹"]]);export{a as default};

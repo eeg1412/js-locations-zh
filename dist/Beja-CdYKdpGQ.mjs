@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","贝雅区"],["Aljustrel",""],["Almodovar",""],["Barrancos",""],["Beja",""],["Castro Verde",""],["Cavaleiro",""],["Ferreira do Alentejo",""],["Figueira de Cavaleiros",""],["Mertola",""],["Moura",""],["Odemira",""],["Ourique",""],["Sao Teotonio",""],["Serpa",""],["Vidigueira",""],["Vila Nova de Milfontes",""]]);export{a as default};

@@ -1,0 +1,1 @@
+export default new Map([["translation", "博滕区"], ["Isokyro", ""], ["Jakobstad", ""], ["Kaskinen", ""], ["Kivijarvi", ""], ["Korsnas", ""], ["Kristinestad", ""], ["Kronoby", ""], ["Laihia", ""], ["Larsmo", ""], ["Malax", ""], ["Narpes", ""], ["Nykarleby", ""], ["Oravais", ""], ["Replot", ""], ["Vaasa", ""], ["Vahakyro", ""], ["Vora", ""]]);

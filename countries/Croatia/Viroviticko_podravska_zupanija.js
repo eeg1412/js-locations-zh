@@ -1,0 +1,1 @@
+export default new Map([["translation", "维罗维蒂察-波德拉维纳县"], ["Cacinci", ""], ["Orahovica", ""], ["Pitomaca", ""], ["Rezovac", ""], ["Slatina", ""], ["Spisic-Bukovica", ""], ["Suhopolje", ""], ["Virovitica", ""], ["Vocin", ""], ["Zdenci", ""]]);

@@ -1,0 +1,1 @@
+export default new Map([["translation", "科普里夫尼察-克里热夫齐县"], ["Drnje", ""], ["Ferdinandovac", ""], ["Hlebine", ""], ["Kalinovac", ""], ["Koprivnica", ""], ["Krizevci", ""], ["Molve", ""], ["Peteranec", ""], ["Virje", ""]]);

@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","彭世洛府"],["Bang Krathum","邦格鲁"],["Bang Rakam","邦拉甘"],["Nakhon Thai","那空泰"],["Noen Maprang","嫩玛帕朗"],["Phitsanulok","彭世洛"],["Phrom Phiram","蓬披兰"],["Wang Thong","旺通"],["Wat Bot","瓦博"]]);export{a as default};

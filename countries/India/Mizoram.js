@@ -1,0 +1,1 @@
+export default new Map([["translation", "米佐拉姆邦"], ["Aizawl", "阿伊阿"], ["Bukpui", "布普伊"], ["Durtlang", "杜拉"], ["Hualtu", "胡阿图"], ["Khawbung", "哈布"], ["Khawthlir", "哈利"], ["Lunglei", "卢勒伊"], ["Neihdawn", "内伊达"], ["North Vanlaiphai", "北万莱帕伊"], ["Saiha", "萨伊哈"], ["Serchhip", "塞希"], ["Sialsuk", "西阿苏"]]);

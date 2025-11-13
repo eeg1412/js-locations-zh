@@ -1,0 +1,1 @@
+export default new Map([["translation", "布拉干萨区"], ["Braganca", ""], ["Macedo de Cavaleiros", ""], ["Miranda do Douro", ""], ["Mirandela", ""], ["Mogadouro", ""], ["Parada", ""], ["Torre de Moncorvo", ""], ["Vimioso", ""]]);

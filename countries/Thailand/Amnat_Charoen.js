@@ -1,0 +1,1 @@
+export default new Map([["translation", "安纳乍能府"], ["Amnat Charoen", "安纳乍能"], ["Lue Amnat", "勒安纳"], ["Pathum Ratchawongsa", "巴吞叻查旺萨"], ["Phana", "帕那"], ["Senangkhanikhom", "西南卡尼空"]]);

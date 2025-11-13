@@ -1,0 +1,1 @@
+export default new Map([["translation", "德伦特省"], ["Anloo", ""], ["Annerveenschekanaal", ""], ["Assen", ""], ["Borger", ""], ["Coevorden", ""], ["Dalen", ""], ["Dwingeloo", ""], ["Emmen", ""], ["Hollandscheveld", ""], ["Hoogeveen", ""], ["Meppel", ""], ["Ruinen", ""], ["Vries", ""], ["Zuidlaren", ""]]);

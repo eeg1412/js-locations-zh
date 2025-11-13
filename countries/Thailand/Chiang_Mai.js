@@ -1,0 +1,1 @@
+export default new Map([["translation", "清迈府"], ["Chiang Dao", "清道"], ["Chiang Mai", "清迈"], ["Chom Thong", "宗通"], ["Doi Lo", "土瓦"], ["Fang", "芳"], ["Hot", "霍"], ["Mae Ai", "湄爱"], ["Mae Taeng", "湄登"], ["Mae Wang", "湄旺"], ["Om Koi", "翁盖"], ["Phrao", "帕奥"], ["San Pa Tong", "三巴东"]]);

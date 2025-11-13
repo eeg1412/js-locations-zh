@@ -1,0 +1,1 @@
+export default new Map([["translation", "攀牙府"], ["Ban Phru Nai", "班普奈"], ["Kapong", "卡蓬"], ["Khura Buri", "库拉武里"], ["Ko Yao", "瑶岛"], ["Phang Nga", "攀牙"], ["Takua Pa", "达瓜帕"], ["Takua Thung", "达瓜通"], ["Thai Mueang", "泰芒"], ["Thap Put", "塔普"]]);

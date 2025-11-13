@@ -1,0 +1,1 @@
+export default new Map([["translation", "派亚特海梅区"], ["Auttoinen", ""], ["Hameenkoski", ""], ["Hartola", ""], ["Heinola", ""], ["Hollola", ""], ["Karkola", ""], ["Nastola", ""], ["Orimattila", ""], ["Padasjoki", ""], ["Sysma", ""]]);

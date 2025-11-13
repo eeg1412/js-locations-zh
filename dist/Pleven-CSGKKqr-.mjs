@@ -1,0 +1,1 @@
+const e=/* @__PURE__ */new Map([["translation","普列文州"],["Belene",""],["Cherven Bryag",""],["Dolni Dabnik",""],["Gulyantsi",""],["Iskar",""],["Koynare",""],["Levski",""],["Nikopol",""],["Pleven",""]]);export{e as default};

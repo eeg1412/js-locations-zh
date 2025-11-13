@@ -1,0 +1,1 @@
+export default new Map([["translation", "南部区"], ["Choma", ""], ["Gwembe", ""], ["Livingstone", ""], ["Maamba", ""], ["Mazabuka", ""], ["Monze", ""], ["Nakambala", ""], ["Namwala", ""], ["Siavonga", ""]]);

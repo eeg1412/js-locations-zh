@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","江原特别自治道"],["Cheorwon","铁原"],["Chuncheon","春川"],["Donghae","东海"],["Gangneung","江陵"],["Goseong","高城"],["Hakdong","鹤洞"],["Hongcheon","洪川"],["Hwacheon","华川"],["Inje","麟蹄"],["Poch'on","抱川"],["Samcheok","三陟"],["Sokcho","束草"],["Taebaek","太白"],["Wonju","原州"],["Yanggu","杨口"],["Yeongwol","宁越"]]);export{n as default};

@@ -1,0 +1,1 @@
+export default new Map([["translation", "沙夫豪森州"], ["Beringen", ""], ["Hallau", ""], ["Neuhausen am Rheinfall", ""], ["Ramsen", ""], ["Schaffhausen", ""], ["Schleitheim", ""], ["Stein am Rhein", ""], ["Wilchingen", ""]]);

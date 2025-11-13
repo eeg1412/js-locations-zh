@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","贵州省"],["Anshun","安顺"],["Bijie","毕节"],["Duyun","都匀"],["Fuquan","福泉"],["Guiyang","贵阳"],["Kaili","凯里"],["Liupanshui","六盘水"],["Tongren","铜仁"],["Xingyi","兴义"],["Zunyi","遵义"]]);export{n as default};

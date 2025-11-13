@@ -1,0 +1,1 @@
+export default new Map([["translation", "纳沙泰尔州"], ["Bevaix", ""], ["Cortaillod", ""], ["Couvet", ""], ["Fleurier", ""], ["Fontainemelon", ""], ["Gorgier", ""], ["La Chaux-de-Fonds", ""], ["Le Landeron", ""], ["Les Ponts-de-Martel", ""], ["Neuchatel", ""], ["Peseux", ""], ["Saint-Aubin-Sauges", ""], ["Saint-Blaise", ""], ["Saint-Sulpice", ""], ["Travers", ""]]);

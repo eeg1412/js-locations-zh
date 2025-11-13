@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","山西省"],["Changzhi","长治"],["Datong","大同"],["Fenyang","汾阳"],["Gaoping","高平"],["Hejin","河津"],["Huozhou","霍州"],["Jincheng","晋城"],["Jinzhong","晋中"],["Linfen","临汾"],["Shuozhou","朔州"],["Taiyuan","太原"],["Xinzhou","忻州"],["Yangquan","阳泉"],["Yongji","永济"],["Yuncheng","运城"]]);export{n as default};

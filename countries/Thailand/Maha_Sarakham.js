@@ -1,0 +1,1 @@
+export default new Map([["translation", "玛哈沙拉堪府"], ["Borabue", "博拉布"], ["Chiang Yuen", "清元"], ["Chuen Chom", "泉宗"], ["Kae Dam", "盖丹"], ["Kantharawichai", "甘他拉威猜"], ["Kosum Phisai", "郭松披赛"], ["Kut Rang", "古朗"], ["Maha Sarakham", "玛哈沙拉堪"], ["Na Chueak", "那丘"], ["Na Dun", "那敦"], ["Phayakkhaphum Phisai", "帕亚卡蓬披赛"], ["Wapi Pathum", "瓦比巴吞"]]);

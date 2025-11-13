@@ -1,0 +1,1 @@
+export default new Map([["translation", "坎塔海梅区"], ["Forssa", ""], ["Hameenlinna", ""], ["Hauho", ""], ["Jokioinen", ""], ["Kalvola", ""], ["Oitti", ""], ["Turenki", ""], ["Tuulos", ""], ["Vantaa", ""]]);

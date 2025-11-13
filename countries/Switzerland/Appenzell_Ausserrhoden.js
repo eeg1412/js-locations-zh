@@ -1,0 +1,1 @@
+export default new Map([["translation", "外阿彭策尔州"], ["Buhler", ""], ["Gais", ""], ["Heiden", ""], ["Herisau", ""], ["Schwellbrunn", ""], ["Speicher", ""], ["Teufen", ""], ["Trogen", ""], ["Urnasch", ""], ["Waldstatt", ""]]);

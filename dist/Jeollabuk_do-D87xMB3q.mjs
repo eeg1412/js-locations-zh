@@ -1,0 +1,1 @@
+const n=/* @__PURE__ */new Map([["translation","全罗北道"],["Buan","扶安"],["Gimje","金堤"],["Gochang","高敞"],["Gunsan","群山"],["Iksan","益山"],["Imsil","任实"],["Inchon","仁川"],["Jangsu","长水"],["Jecheon","堤川"],["Jeonju","全州"],["Jinan","珍山"],["Mokpo","木浦"],["Namwon","南原"],["Wanju","完州"]]);export{n as default};

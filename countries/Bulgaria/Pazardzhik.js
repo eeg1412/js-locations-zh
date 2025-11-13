@@ -1,0 +1,1 @@
+export default new Map([["translation", "帕扎尔吉克州"], ["Belovo", ""], ["Bratsigovo", ""], ["Lesichovo", ""], ["Panagyurishte", ""], ["Pazardzhik", ""], ["Peshtera", ""], ["Rakitovo", ""], ["Sarnitsa", ""], ["Septemvri", ""], ["Strelcha", ""], ["Velingrad", ""]]);

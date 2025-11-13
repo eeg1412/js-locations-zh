@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","新疆维吾尔自治区"],["Aksu","阿克苏"],["Altay","阿勒泰"],["Aral","阿拉尔"],["Beitun","北屯"],["Bole","博乐"],["Changji","昌吉"],["Hami","哈密"],["Hotan","和田"],["Karamay","克拉玛依"],["Kashgar","喀什"],["Korla","库尔勒"],["Kuytun","奎屯"],["Shihezi","石河子"],["Tacheng","塔城"],["Turpan","吐鲁番"],["Wujiaqu","五家渠"],["Yining","伊宁"]]);export{a as default};

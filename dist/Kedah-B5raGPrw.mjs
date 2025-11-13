@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","吉打"],["Alor Setar","亚罗士打"],["Badak","峇当"],["Bedong","明东"],["Gurun","古伦"],["Jitra","日得拉"],["Kuah","瓜镇"],["Kuala Kedah","吉打港口"],["Kulim","居林"],["Pokok Sena","波各先那"],["Pulau Langkawi","兰卡威岛"],["Sungai Petani","双溪大年"]]);export{a as default};

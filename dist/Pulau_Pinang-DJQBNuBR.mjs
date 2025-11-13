@@ -1,0 +1,1 @@
+const a=/* @__PURE__ */new Map([["translation","槟城"],["Bayan Lepas","峇六拜"],["Bukit Mertajam","大山脚"],["Butterworth","北海"],["George Town","乔治市"],["Juru","柔府"],["Nibong Tebal","威南"],["Perai","北赖"],["Sungai Ara","双溪赖"],["Tanjung Tokong","丹绒道光"],["Tasek Glugor","打西汝咯"]]);export{a as default};

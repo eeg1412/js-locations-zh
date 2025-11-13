@@ -1,0 +1,1 @@
+export default new Map([["translation", "尖竹汶府"], ["Chanthaburi", "尖竹汶"], ["Kaeng Hang Maeo", "盖杭猫"], ["Khao Khitchakut", "考吉差古"], ["Khlung", "克隆"], ["Makham", "玛坎"], ["Na Yai Am", "那亚安"], ["Pong Nam Ron", "蓬南荣"], ["Soi Dao", "索道"], ["Tha Mai", "他迈"]]);
