@@ -1,6 +1,6 @@
 {
   "name": "js-locations-zh",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Service for providing Chinese translation mappings of geographical locations",
   "main": "dist/index.es.js.mjs",
   "module": "dist/index.es.js.mjs",
