@@ -42085,7 +42085,7 @@ const translations = new Map([
       [
         "Provence-Alpes-Cote-d'Azur",
         new Map([
-          ['translation', ''],
+          ['translation', '普罗旺斯-阿尔卑斯-蓝色海岸大区'],
           ['Aix-en-Provence', ''],
           ['Allauch', ''],
           ['Alleins', ''],
@@ -59658,7 +59658,7 @@ const translations = new Map([
       [
         'Catalunya',
         new Map([
-          ['translation', ''],
+          ['translation', '加泰罗尼亚自治区'],
           ['Agramunt', ''],
           ['Aitona', ''],
           ['Alas i Cerc', ''],
