@@ -69062,11 +69062,11 @@ const translations = new Map([
   [
     'Russian Federation',
     new Map([
-      ['translation', ''],
+      ['translation', '俄罗斯联邦'],
       [
         "Nizhegorodskaya oblast'",
         new Map([
-          ['translation', ''],
+          ['translation', '下诺夫哥罗德州'],
           ['Afonino', ''],
           ['Ardatov', ''],
           ['Arzamas', ''],
@@ -69132,7 +69132,7 @@ const translations = new Map([
       [
         'Sankt-Peterburg',
         new Map([
-          ['translation', ''],
+          ['translation', '圣彼得堡'],
           ['Aleksandrovskaya', ''],
           ['Kolpino', ''],
           ['Komarovo', ''],
@@ -69152,7 +69152,7 @@ const translations = new Map([
       [
         'Moskva',
         new Map([
-          ['translation', ''],
+          ['translation', '莫斯科'],
           ['Khimki', ''],
           ['Moscow', ''],
           ['Rublevo', ''],
@@ -69163,7 +69163,7 @@ const translations = new Map([
       [
         'Krasnodarskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '克拉斯诺达尔边疆区'],
           ['Abinsk', ''],
           ['Abrau-Dyurso', ''],
           ['Adler', ''],
@@ -69441,7 +69441,7 @@ const translations = new Map([
       [
         'Bashkortostan, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '巴什科尔托斯坦共和国'],
           ['Abzakovo', ''],
           ["Agidel'", ''],
           ['Akhunovo', ''],
@@ -70060,7 +70060,7 @@ const translations = new Map([
       [
         'Altay, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '阿尔泰共和国'],
           ['Aktash', ''],
           ['Artybash', ''],
           ['Belyashi', ''],
@@ -70082,7 +70082,7 @@ const translations = new Map([
       [
         'Khakasiya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '哈卡斯共和国'],
           ['Abakan', ''],
           ['Abaza', ''],
           ['Askiz', ''],
@@ -70103,7 +70103,7 @@ const translations = new Map([
       [
         'Krasnoyarskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '克拉斯诺亚尔斯克边疆区'],
           ['Aban', ''],
           ['Achinsk', ''],
           ['Aginskoye', ''],
@@ -70204,7 +70204,7 @@ const translations = new Map([
       [
         'Permskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '彼尔姆边疆区'],
           ['Aleksandrovsk', ''],
           ['Antonova', ''],
           ['Barda', ''],
@@ -70276,7 +70276,7 @@ const translations = new Map([
       [
         'Primorskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '滨海边疆区'],
           ['Anuchino', ''],
           ["Arsen'yev", ''],
           ['Artem', ''],
@@ -70427,7 +70427,7 @@ const translations = new Map([
       [
         'Khanty-Mansiyskiy avtonomnyy okrug',
         new Map([
-          ['translation', ''],
+          ['translation', '汉特-曼西自治区'],
           ['Agirish', ''],
           ['Andra', ''],
           ['Barsovo', ''],
@@ -70465,7 +70465,7 @@ const translations = new Map([
       [
         'Yamalo-Nenetskiy avtonomnyy okrug',
         new Map([
-          ['translation', ''],
+          ['translation', '亚马尔-涅涅茨自治区'],
           ['Aksarka', ''],
           ['Antipayuta', ''],
           ['Gubkinskiy', ''],
@@ -70521,7 +70521,7 @@ const translations = new Map([
       [
         'Khabarovskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '哈巴罗夫斯克边疆区'],
           ['Amursk', ''],
           ['Berezovyy', ''],
           ['Bikin', ''],
@@ -70930,7 +70930,7 @@ const translations = new Map([
       [
         'Adygeya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '阿迪格共和国'],
           ['Adygeysk', ''],
           ['Dondukovskaya', ''],
           ['Giaginskaya', ''],
@@ -71352,7 +71352,7 @@ const translations = new Map([
       [
         'Altayskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '阿尔泰边疆区'],
           ['Aleysk', ''],
           ['Altay', ''],
           ['Altayskoye', ''],
@@ -71504,7 +71504,7 @@ const translations = new Map([
       [
         'Tatarstan, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '鞑靼斯坦共和国'],
           ['Agryz', ''],
           ['Aktanysh', ''],
           ["Al'fa", ''],
@@ -71557,7 +71557,7 @@ const translations = new Map([
       [
         'Udmurtskaya Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '乌德穆尔特共和国'],
           ['Alnashi', ''],
           ['Balezino', ''],
           ['Debesy', ''],
@@ -71587,7 +71587,7 @@ const translations = new Map([
       [
         'Chuvashskaya Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '楚瓦什共和国'],
           ["Alatyr'", ''],
           ['Alikovo', ''],
           ['Batyrevo', ''],
@@ -71674,7 +71674,7 @@ const translations = new Map([
       [
         'Severnaya Osetiya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '北奥塞梯共和国'],
           ['Alagir', ''],
           ['Ardon', ''],
           ['Arkhonskaya', ''],
@@ -71756,7 +71756,7 @@ const translations = new Map([
       [
         'Komi, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '科米共和国'],
           ['Blagoyevo', ''],
           ['Ezhva', ''],
           ["Gor'kovskaya", ''],
@@ -71786,7 +71786,7 @@ const translations = new Map([
       [
         'Dagestan, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '达吉斯坦共和国'],
           ['Babayurt', ''],
           ['Botashyurt', ''],
           ['Buynaksk', ''],
@@ -71894,7 +71894,7 @@ const translations = new Map([
       [
         'Buryatiya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '布里亚特共和国'],
           ['Babushkin', ''],
           ['Bagdarin', ''],
           ['Istok', ''],
@@ -71952,7 +71952,7 @@ const translations = new Map([
       [
         'Karachayevo-Cherkesskaya Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '卡拉恰伊-切尔克斯共和国'],
           ['Besleney', ''],
           ['Cherkessk', ''],
           ['Karachayevsk', ''],
@@ -71988,7 +71988,7 @@ const translations = new Map([
       [
         'Kalmykiya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '卡尔梅克共和国'],
           ['Elista', ''],
           ['Gorodovikovsk', ''],
           ['Priyutnoye', ''],
@@ -72001,7 +72001,7 @@ const translations = new Map([
       [
         'Mordoviya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '莫尔多瓦共和国'],
           ['Ardatov', ''],
           ['Atyashevo', ''],
           ['Chamzinka', ''],
@@ -72047,7 +72047,7 @@ const translations = new Map([
       [
         'Kabardino-Balkarskaya Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '卡巴尔达-巴尔卡尔共和国'],
           ['Aushiger', ''],
           ['Baksan', ''],
           ['Kotlyarevskaya', ''],
@@ -72065,7 +72065,7 @@ const translations = new Map([
       [
         'Saha, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '萨哈共和国'],
           ['Aldan', ''],
           ['Almaznyy', ''],
           ['Amga', ''],
@@ -72178,7 +72178,7 @@ const translations = new Map([
       [
         'Chechenskaya Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '车臣共和国'],
           ['Alkhazurovo', ''],
           ['Argun', ''],
           ['Assinovskaya', ''],
@@ -72214,7 +72214,7 @@ const translations = new Map([
       [
         'Chukotskiy avtonomnyy okrug',
         new Map([
-          ['translation', ''],
+          ['translation', '楚科奇自治区'],
           ['Anadyr', ''],
           ['Bilibino', ''],
           ['Egvekinot', ''],
@@ -72260,7 +72260,7 @@ const translations = new Map([
       [
         'Tyva, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '图瓦共和国'],
           ['Berezovka', ''],
           ['Erzin', ''],
           ['Kaa-Khem', ''],
@@ -72274,7 +72274,7 @@ const translations = new Map([
       [
         'Kamchatskiy kray',
         new Map([
-          ['translation', ''],
+          ['translation', '堪察加边疆区'],
           ['Baza', ''],
           ['Esso', ''],
           ['Koryaki', ''],
@@ -72294,7 +72294,7 @@ const translations = new Map([
       [
         'Mariy El, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '马里埃尔共和国'],
           ["Koz'modem'yansk", ''],
           ['Krasnogorskiy', ''],
           ['Kuzhener', ''],
@@ -72315,7 +72315,7 @@ const translations = new Map([
       [
         'Kareliya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '卡累利阿共和国'],
           ['Belomorsk', ''],
           ['Borovoy', ''],
           ['Chupa', ''],
@@ -72350,7 +72350,7 @@ const translations = new Map([
       [
         'Ingushetiya, Respublika',
         new Map([
-          ['translation', ''],
+          ['translation', '印古什共和国'],
           ['Karabulak', ''],
           ['Magas', ''],
           ["Nazran'", ''],
@@ -72360,7 +72360,7 @@ const translations = new Map([
       [
         'Nenetskiy avtonomnyy okrug',
         new Map([
-          ['translation', ''],
+          ['translation', '涅涅茨自治区'],
           ['Iskateley', ''],
           ["Nar'yan-Mar", '']
         ])
@@ -85427,11 +85427,11 @@ const translations = new Map([
   [
     'Mexico',
     new Map([
-      ['translation', ''],
+      ['translation', '墨西哥'],
       [
         'Ciudad de Mexico',
         new Map([
-          ['translation', ''],
+          ['translation', '墨西哥城'],
           ['Benito Juarez', ''],
           ['Col. Bosques de las Lomas', ''],
           ['Coyoacan', ''],
@@ -85450,7 +85450,7 @@ const translations = new Map([
       [
         'Queretaro',
         new Map([
-          ['translation', ''],
+          ['translation', '克雷塔罗州'],
           ['Amealco', ''],
           ['Arroyo Seco', ''],
           ['Cadereyta de Montes', ''],
@@ -85468,7 +85468,7 @@ const translations = new Map([
       [
         'Nuevo Leon',
         new Map([
-          ['translation', ''],
+          ['translation', '新莱昂州'],
           ['Allende', ''],
           ['Anahuac', ''],
           ['Apodaca', ''],
@@ -85512,7 +85512,7 @@ const translations = new Map([
       [
         'Baja California',
         new Map([
-          ['translation', ''],
+          ['translation', '下加利福尼亚州'],
           ['Alberto Oviedo Mota', ''],
           ['Algodones', ''],
           ['Camalu', ''],
@@ -85540,7 +85540,7 @@ const translations = new Map([
       [
         'Morelos',
         new Map([
-          ['translation', ''],
+          ['translation', '莫雷洛斯州'],
           ['Axochiapan', ''],
           ['Coatetelco', ''],
           ['Cuautla', ''],
@@ -85559,7 +85559,7 @@ const translations = new Map([
       [
         'Mexico',
         new Map([
-          ['translation', ''],
+          ['translation', '墨西哥州'],
           ['Acambay', ''],
           ['Almoloya', ''],
           ['Amatepec', ''],
@@ -85623,7 +85623,7 @@ const translations = new Map([
       [
         'Jalisco',
         new Map([
-          ['translation', ''],
+          ['translation', '哈利斯科州'],
           ['Ahualulco de Mercado', ''],
           ['Amacuzac', ''],
           ['Ameca', ''],
@@ -85727,7 +85727,7 @@ const translations = new Map([
       [
         'Hidalgo',
         new Map([
-          ['translation', ''],
+          ['translation', '伊达尔戈州'],
           ['Acaxochitlan', ''],
           ['Actopan', ''],
           ['Ajacuba', ''],
@@ -85796,7 +85796,7 @@ const translations = new Map([
       [
         'Chiapas',
         new Map([
-          ['translation', ''],
+          ['translation', '恰帕斯州'],
           ['Acacoyagua', ''],
           ['Acala', ''],
           ['Acapetahua', ''],
@@ -85873,7 +85873,7 @@ const translations = new Map([
       [
         'Veracruz de Ignacio de la Llave',
         new Map([
-          ['translation', ''],
+          ['translation', '韦拉克鲁斯州'],
           ['Acatlan', ''],
           ['Acayucan', ''],
           ['Actopan', ''],
@@ -86037,7 +86037,7 @@ const translations = new Map([
       [
         'Quintana Roo',
         new Map([
-          ['translation', ''],
+          ['translation', '金塔纳罗奥州'],
           ['Bacalar', ''],
           ['Cancun', ''],
           ['Chetumal', ''],
@@ -86059,7 +86059,7 @@ const translations = new Map([
       [
         'Sonora',
         new Map([
-          ['translation', ''],
+          ['translation', '索诺拉州'],
           ['Aconchi', ''],
           ['Agua Prieta', ''],
           ['Alamos', ''],
@@ -86124,7 +86124,7 @@ const translations = new Map([
       [
         'Tamaulipas',
         new Map([
-          ['translation', ''],
+          ['translation', '塔毛利帕斯州'],
           ['Abasolo', ''],
           ['Aldama', ''],
           ['Altamira', ''],
@@ -86164,7 +86164,7 @@ const translations = new Map([
       [
         'Chihuahua',
         new Map([
-          ['translation', ''],
+          ['translation', '奇瓦瓦州'],
           ['Adolfo Lopez Mateos', ''],
           ['Anahuac', ''],
           ['Ascencion', ''],
@@ -86224,7 +86224,7 @@ const translations = new Map([
       [
         'Coahuila de Zaragoza',
         new Map([
-          ['translation', ''],
+          ['translation', '科阿韦拉州'],
           ['Allende', ''],
           ['Arteaga', ''],
           ['Castanos', ''],
@@ -86259,7 +86259,7 @@ const translations = new Map([
       [
         'Michoacan de Ocampo',
         new Map([
-          ['translation', ''],
+          ['translation', '米却肯州'],
           ['Acuitzio del Canje', ''],
           ['Aguililla', ''],
           ['Alvaro Obregon', ''],
@@ -86358,7 +86358,7 @@ const translations = new Map([
       [
         'Oaxaca',
         new Map([
-          ['translation', ''],
+          ['translation', '瓦哈卡州'],
           ['Acatlan de Perez Figueroa', ''],
           ['Animas Trujano', ''],
           ['Apoala', ''],
@@ -86506,7 +86506,7 @@ const translations = new Map([
       [
         'Durango',
         new Map([
-          ['translation', ''],
+          ['translation', '杜兰戈州'],
           ['Bermejillo', ''],
           ['Canatlan', ''],
           ['Chihuahuita', ''],
@@ -86542,7 +86542,7 @@ const translations = new Map([
       [
         'Yucatan',
         new Map([
-          ['translation', ''],
+          ['translation', '尤卡坦州'],
           ['Acanceh', ''],
           ['Akil', ''],
           ['Baca', ''],
@@ -86608,7 +86608,7 @@ const translations = new Map([
       [
         'Aguascalientes',
         new Map([
-          ['translation', ''],
+          ['translation', '阿瓜斯卡连特斯州'],
           ['Aguascalientes', ''],
           ['Asientos', ''],
           ['Calvillo', ''],
@@ -86627,7 +86627,7 @@ const translations = new Map([
       [
         'San Luis Potosi',
         new Map([
-          ['translation', ''],
+          ['translation', '圣路易斯波托西州'],
           ['Ahualulco', ''],
           ['Ahualulco del Sonido Trece', ''],
           ['Alfredo M. Terrazas', ''],
@@ -86673,7 +86673,7 @@ const translations = new Map([
       [
         'Guanajuato',
         new Map([
-          ['translation', ''],
+          ['translation', '瓜纳华托州'],
           ['Abasolo', ''],
           ['Acambaro', ''],
           ['Apaseo el Alto', ''],
@@ -86732,7 +86732,7 @@ const translations = new Map([
       [
         'Campeche',
         new Map([
-          ['translation', ''],
+          ['translation', '坎佩切州'],
           ['Becal', ''],
           ['Calakmul', ''],
           ['Calkini', ''],
@@ -86755,7 +86755,7 @@ const translations = new Map([
       [
         'Zacatecas',
         new Map([
-          ['translation', ''],
+          ['translation', '萨卡特卡斯州'],
           ['Apozol', ''],
           ['Calera Victor Rosales', ''],
           ['Canitas de Felipe Pescador', ''],
@@ -86805,7 +86805,7 @@ const translations = new Map([
       [
         'Tlaxcala',
         new Map([
-          ['translation', ''],
+          ['translation', '特拉斯卡拉州'],
           ['Actlzayanca de Hidalgo', ''],
           ['Benito Juarez', ''],
           ['Calpulalpan', ''],
@@ -86833,7 +86833,7 @@ const translations = new Map([
       [
         'Puebla',
         new Map([
-          ['translation', ''],
+          ['translation', '普埃布拉州'],
           ['Acajete', ''],
           ['Acatlan de Osorio', ''],
           ['Acatzingo', ''],
@@ -86982,7 +86982,7 @@ const translations = new Map([
       [
         'Colima',
         new Map([
-          ['translation', ''],
+          ['translation', '科利马州'],
           ['Cofradia', ''],
           ['Colima', ''],
           ['Cuauhtemoc', ''],
@@ -86997,7 +86997,7 @@ const translations = new Map([
       [
         'Tabasco',
         new Map([
-          ['translation', ''],
+          ['translation', '塔巴斯科州'],
           ['Aquiles Serdan', ''],
           ['Ayapa', ''],
           ['Balancan', ''],
@@ -87038,7 +87038,7 @@ const translations = new Map([
       [
         'Sinaloa',
         new Map([
-          ['translation', ''],
+          ['translation', '锡那罗亚州'],
           ['Adolfo Ruiz Cortines', ''],
           ['Agua Verde', ''],
           ['Aguaruto', ''],
@@ -87089,7 +87089,7 @@ const translations = new Map([
       [
         'Nayarit',
         new Map([
-          ['translation', ''],
+          ['translation', '纳亚里特州'],
           ['Acaponeta', ''],
           ['Ahuacatlan', ''],
           ['Amatlan de Canas', ''],
@@ -87121,7 +87121,7 @@ const translations = new Map([
       [
         'Baja California Sur',
         new Map([
-          ['translation', ''],
+          ['translation', '南下加利福尼亚州'],
           ['Bahia Tortugas', ''],
           ['Cabo San Lucas', ''],
           ['Ciudad Constitucion', ''],
@@ -87141,7 +87141,7 @@ const translations = new Map([
       [
         'Guerrero',
         new Map([
-          ['translation', ''],
+          ['translation', '格雷罗州'],
           ['Acamixtla', ''],
           ['Acapulco de Juarez', ''],
           ['Acatepec', ''],
