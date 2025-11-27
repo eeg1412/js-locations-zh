@@ -28,11 +28,44 @@
       .loading {
         color: #666;
       }
+      .checkbox-group {
+        margin: 10px 0;
+      }
+      .checkbox-group label {
+        cursor: pointer;
+      }
+      .status {
+        padding: 10px;
+        border-radius: 4px;
+        margin: 10px 0;
+      }
+      .status.enabled {
+        background: #d4edda;
+        color: #155724;
+      }
+      .status.disabled {
+        background: #f8d7da;
+        color: #721c24;
+      }
     </style>
   </head>
   <body>
     <h1>JS Locations ZH 动态加载 Demo</h1>
     <p>选择一个国家，动态加载其地理数据（省份和城市列表）。</p>
+
+    <div class="container">
+      <h3>IndexedDB 缓存设置：</h3>
+      <div class="checkbox-group">
+        <label>
+          <input type="checkbox" id="useIndexedDB" checked />
+          启用 IndexedDB 缓存（提升加载速度，节约内存）
+        </label>
+      </div>
+      <div id="cacheStatus" class="status enabled">
+        缓存状态：已启用 | 版本：<span id="cacheVersion">-</span>
+      </div>
+      <button id="clearCacheBtn">清除所有缓存</button>
+    </div>
 
     <div class="container">
       <label for="countrySelect">选择国家：</label>
@@ -43,6 +76,7 @@
     <div class="container">
       <h3>加载结果：</h3>
       <div id="result" class="loading">等待选择国家...</div>
+      <div id="loadSource" style="font-size: 12px; color: #666; margin-top: 5px;"></div>
     </div>
 
     <div class="container">
@@ -52,19 +86,35 @@
     </div>
 
     <script type="module">
-      import { getCountryData, getAllCountries } from './dist/index.es.js.mjs'
+      import { 
+        getCountryData, 
+        getAllCountries,
+        setUseIndexedDB,
+        getUseIndexedDB,
+        clearTranslationCache,
+        getCacheVersionInfo
+      } from './dist/index.es.js.mjs'
 
       const countrySelect = document.getElementById('countrySelect')
       const loadBtn = document.getElementById('loadBtn')
       const resultDiv = document.getElementById('result')
+      const loadSourceDiv = document.getElementById('loadSource')
       const memoryDiv = document.getElementById('memory')
       const memoryChangeDiv = document.getElementById('memoryChange')
       const initialMemorySpan = document.getElementById('initialMemory')
       const memoryDiffSpan = document.getElementById('memoryDiff')
+      const useIndexedDBCheckbox = document.getElementById('useIndexedDB')
+      const cacheStatusDiv = document.getElementById('cacheStatus')
+      const cacheVersionSpan = document.getElementById('cacheVersion')
+      const clearCacheBtn = document.getElementById('clearCacheBtn')
 
       let currentData = null
       let initialMemory = 0
       let lastMemory = 0
+      let loadStartTime = 0
+
+      // Initialize cache version display
+      cacheVersionSpan.textContent = getCacheVersionInfo()
 
       // 初始化内存监控
       if (performance.memory) {
@@ -87,6 +137,27 @@
         lastMemory = currentMemory
       }
 
+      function updateCacheStatus() {
+        const enabled = getUseIndexedDB()
+        cacheStatusDiv.className = 'status ' + (enabled ? 'enabled' : 'disabled')
+        cacheStatusDiv.innerHTML = `缓存状态：${enabled ? '已启用' : '已禁用'} | 版本：<span id="cacheVersion">${getCacheVersionInfo()}</span>`
+      }
+
+      // IndexedDB toggle
+      useIndexedDBCheckbox.addEventListener('change', (e) => {
+        setUseIndexedDB(e.target.checked)
+        updateCacheStatus()
+      })
+
+      // Clear cache button
+      clearCacheBtn.addEventListener('click', async () => {
+        const confirmed = confirm('确定要清除所有翻译缓存吗？')
+        if (confirmed) {
+          await clearTranslationCache()
+          alert('缓存已清除')
+        }
+      })
+
       // 填充国家选择器
       const countries = getAllCountries()
       countries.forEach(country => {
@@ -103,6 +174,8 @@
 
         resultDiv.textContent = '正在加载翻译数据...'
         resultDiv.className = 'loading'
+        loadSourceDiv.textContent = ''
+        loadStartTime = performance.now()
 
         try {
           // 清理之前的内存
@@ -119,6 +192,8 @@
           // 动态加载国家翻译数据
           const module = await getCountryData(selectedCountry)
           currentData = module.default
+          
+          const loadTime = (performance.now() - loadStartTime).toFixed(2)
 
           updateMemoryDisplay()
           const loadMemoryChange = memoryDiffSpan.textContent
@@ -149,6 +224,8 @@
 
           resultDiv.innerHTML = result
           resultDiv.className = ''
+
+          loadSourceDiv.textContent = `加载时间：${loadTime}ms | IndexedDB 缓存：${getUseIndexedDB() ? '已启用' : '已禁用'}`
 
           memoryDiv.textContent = `已加载 ${selectedCountry} 的翻译数据 (内存变化: ${loadMemoryChange} MB)`
         } catch (error) {
