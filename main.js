@@ -107,13 +107,13 @@ export async function getCountryData(country) {
     loadedDataRefs.set(country, data);
 
     // Start background task to save to IndexedDB
-    // Use setTimeout to ensure it runs asynchronously without blocking
+    // Use Promise.resolve().then() for non-blocking async execution
     if (useIndexedDB && isIndexedDBAvailable()) {
-      setTimeout(() => {
+      Promise.resolve().then(() => {
         backgroundSaveAndCleanup(country, data).catch(() => {
-          // Ignore background task errors
+          // Silently handle background task errors
         });
-      }, 0);
+      });
     }
 
     pendingLoads.delete(country);

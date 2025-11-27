@@ -67,7 +67,6 @@ async function initDB() {
 
     checkRequest.onsuccess = async (event) => {
       const db = event.target.result;
-      const currentDbVersion = db.version;
 
       // Check if we need to clear the database due to data version mismatch
       try {
@@ -130,10 +129,8 @@ function openOrCreateDB(resolve, reject) {
     dbInstance = event.target.result;
     isInitializing = false;
 
-    // Store the current version
-    storeVersion().catch(() => {
-      // Ignore version storage errors
-    });
+    // Store the current version - failure won't prevent DB usage but may affect cache invalidation
+    storeVersion().catch(() => {});
 
     resolve(dbInstance);
   };
@@ -192,11 +189,12 @@ async function clearDatabase() {
     deleteRequest.onsuccess = () => resolve();
     deleteRequest.onerror = () => reject(deleteRequest.error);
     deleteRequest.onblocked = () => {
-      // Database deletion is blocked, try again after a short delay
+      // Database deletion is blocked by other connections
+      // Retry once after 100ms, then resolve anyway to avoid indefinite blocking
       setTimeout(() => {
         const retryRequest = indexedDB.deleteDatabase(DB_NAME);
         retryRequest.onsuccess = () => resolve();
-        retryRequest.onerror = () => reject(retryRequest.error);
+        retryRequest.onerror = () => resolve(); // Resolve instead of reject to prevent blocking
       }, 100);
     };
   });
