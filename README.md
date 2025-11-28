@@ -20,6 +20,7 @@ AI 生成的地理位置中文翻译 JS 对照表
 - **高效查询**：使用 Map 数据结构实现快速的翻译查找
 - **数据来源**：地理位置英文名称来源于 IP2Location 数据
 - **内存优化**：使用 Map 和 Set 数据结构，减少内存占用
+- **IndexedDB 缓存**：支持浏览器端 IndexedDB 缓存，加速数据加载并节约内存
 
 ## 安装
 
@@ -231,6 +232,66 @@ const cityTranslation = provinceMap.get('Beijing') // 城市翻译
 - Map 结构支持高效的查找操作
 - 建议在使用前检查翻译是否存在（非空字符串）
 - npm 方式支持动态加载，适合需要按需加载的场景
+
+### IndexedDB 缓存功能
+
+从版本 1.0.9 开始，本库支持 IndexedDB 缓存功能，可以在浏览器端缓存已加载的翻译数据，提升后续加载速度并节约内存。
+
+#### 缓存特性
+
+- **自动启用**：默认情况下 IndexedDB 缓存已启用
+- **版本管理**：缓存版本与包版本挂钩，版本更新时自动清除旧缓存
+- **内存优化**：数据写入 IndexedDB 后会自动清理内存中的引用
+- **异步处理**：缓存写入在后台异步执行，不影响主线程性能
+- **并发控制**：内置防重复加载和写入机制
+
+#### 缓存 API
+
+```javascript
+import { 
+  getCountryData,
+  getAllCountries,
+  setUseIndexedDB,
+  getUseIndexedDB,
+  clearTranslationCache,
+  clearAllCache,
+  getCacheVersionInfo,
+  closeCache,
+  preloadCountries
+} from 'js-locations-zh'
+
+// 禁用/启用 IndexedDB 缓存
+setUseIndexedDB(false) // 禁用
+setUseIndexedDB(true)  // 启用
+
+// 检查缓存是否启用
+console.log('缓存启用:', getUseIndexedDB())
+
+// 获取缓存版本
+console.log('缓存版本:', getCacheVersionInfo())
+
+// 清除翻译缓存（保留版本信息）
+await clearTranslationCache()
+
+// 清除所有缓存（包括版本信息）
+await clearAllCache()
+
+// 预加载多个国家到缓存
+const result = await preloadCountries(['China', 'Japan', 'Australia'])
+console.log('成功:', result.success)
+console.log('失败:', result.failed)
+
+// 关闭缓存连接（清理资源）
+closeCache()
+```
+
+#### 缓存工作流程
+
+1. 调用 `getCountryData(country)` 时，首先检查 IndexedDB 缓存
+2. 如果缓存命中，直接返回缓存数据
+3. 如果缓存未命中，通过动态导入加载模块
+4. 加载完成后，在后台异步将数据写入 IndexedDB
+5. 写入完成后自动清理内存中的引用
 
 ## 待完善功能
 

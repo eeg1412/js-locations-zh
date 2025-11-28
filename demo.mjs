@@ -1,14 +1,25 @@
-import { getCountryData, getAllCountries } from './dist/index.es.js.mjs'
+import { 
+  getCountryData, 
+  getAllCountries,
+  setUseIndexedDB,
+  getUseIndexedDB,
+  getCacheVersionInfo
+} from './dist/index.es.js.mjs'
 
 async function demo() {
   console.log('Demo: Testing dynamic loading of country translation data')
+  console.log('Cache version:', getCacheVersionInfo())
+  console.log('IndexedDB caching enabled:', getUseIndexedDB())
   console.log('Available countries:', getAllCountries().slice(0, 5), '...') // 显示前5个
 
   // 测试加载澳大利亚的翻译数据
   console.log('\nLoading Australia translation data...')
+  const startTime = Date.now()
   const australiaModule = await getCountryData('Australia')
   const australiaData = australiaModule.default
+  const loadTime = Date.now() - startTime
 
+  console.log(`Load time: ${loadTime}ms`)
   console.log('Australia translation structure:')
   console.log('Country translation:', australiaData.get('translation'))
   console.log(
@@ -25,6 +36,13 @@ async function demo() {
       .filter(k => k !== 'translation')
       .slice(0, 5)
   )
+
+  // Test second load (should be faster if cached)
+  console.log('\nLoading Australia again (should use cache if available)...')
+  const startTime2 = Date.now()
+  const australiaModule2 = await getCountryData('Australia')
+  const loadTime2 = Date.now() - startTime2
+  console.log(`Second load time: ${loadTime2}ms`)
 
   // 模拟使用完毕，清理内存
   console.log('\nCleaning up memory...')
