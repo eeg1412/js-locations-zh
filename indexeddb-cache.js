@@ -11,7 +11,7 @@
 const DB_NAME = 'js-locations-zh-cache';
 const STORE_NAME = 'translations';
 const META_STORE_NAME = 'meta';
-const CURRENT_VERSION = '1.0.9';
+const CURRENT_VERSION = '1.0.10';
 
 // Singleton instance and initialization promise
 let dbInstance = null;
