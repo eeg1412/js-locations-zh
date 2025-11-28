@@ -25776,572 +25776,572 @@ const translations = new Map([
   [
     'Viet Nam',
     new Map([
-      ['translation', ''],
+      ['translation', '越南'],
       [
         'Long An',
         new Map([
-          ['translation', ''],
-          ['Can Duoc', ''],
-          ['Tan An', '']
+          ['translation', '隆安省'],
+          ['Can Duoc', '芹德'],
+          ['Tan An', '新安']
         ])
       ],
       [
         'Ho Chi Minh',
         new Map([
-          ['translation', ''],
-          ['Can Gio', ''],
-          ['Ho Chi Minh City', '']
+          ['translation', '胡志明市'],
+          ['Can Gio', '芹蒢'],
+          ['Ho Chi Minh City', '胡志明市']
         ])
       ],
       [
         'Binh Duong',
         new Map([
-          ['translation', ''],
-          ['Thu Dau Mot', ''],
-          ['Uyen Hung', '']
+          ['translation', '平阳省'],
+          ['Thu Dau Mot', '土龙木'],
+          ['Uyen Hung', '渊兴']
         ])
       ],
       [
         'Da Nang',
         new Map([
-          ['translation', ''],
-          ['Da Nang', '']
+          ['translation', '岘港市'],
+          ['Da Nang', '岘港']
         ])
       ],
       [
         'Ha Noi',
         new Map([
-          ['translation', ''],
-          ['Bach Kim', ''],
-          ['Co Giang', ''],
-          ['Ha Dong', ''],
-          ['Hanoi', ''],
-          ['Son Tay', '']
+          ['translation', '河内市'],
+          ['Bach Kim', '白金'],
+          ['Co Giang', '古江'],
+          ['Ha Dong', '河东'],
+          ['Hanoi', '河内'],
+          ['Son Tay', '山西']
         ])
       ],
       [
         'Bac Ninh',
         new Map([
-          ['translation', ''],
-          ['Bac Ninh', ''],
-          ['Vinh Phuc', ''],
-          ['Xuan Thuy', '']
+          ['translation', '北宁省'],
+          ['Bac Ninh', '北宁'],
+          ['Vinh Phuc', '永福'],
+          ['Xuan Thuy', '春水']
         ])
       ],
       [
         'Tra Vinh',
         new Map([
-          ['translation', ''],
-          ['Tra Vinh', '']
+          ['translation', '茶荣省'],
+          ['Tra Vinh', '茶荣']
         ])
       ],
       [
         'Can Tho',
         new Map([
-          ['translation', ''],
-          ['Can Tho', '']
+          ['translation', '芹苴市'],
+          ['Can Tho', '芹苴']
         ])
       ],
       [
         'Binh Dinh',
         new Map([
-          ['translation', ''],
-          ['Qui Nhon', '']
+          ['translation', '平定省'],
+          ['Qui Nhon', '归仁']
         ])
       ],
       [
         'Ba Ria - Vung Tau',
         new Map([
-          ['translation', ''],
-          ['An Hai', ''],
-          ['Ap Ba', ''],
-          ['Ap Bay', ''],
-          ['Ap Ben Cay', ''],
-          ['Ap Ben Da', ''],
-          ['Ap Binh Chau', ''],
-          ['Ap Bon', ''],
-          ['Ap Cho Ben', ''],
-          ['Ap Gieng Moi', ''],
-          ['Ap Hoi Thanh', ''],
-          ['Ap Hung Hoa', ''],
-          ['Ap Long Hoa', ''],
-          ['Ap Long Kien I', ''],
-          ['Ap Long Xuan', ''],
-          ['Ap My An', ''],
-          ['Ap Ngai Giao', ''],
-          ['Ap Phuoc Tinh', ''],
-          ['Ap Rung La', ''],
-          ['Ap Sau', ''],
-          ['Ap Tay', ''],
-          ['Ap Xuan Khai', ''],
-          ['Ap Xuan Son', ''],
-          ['Ba Ria', ''],
-          ['Bau Ma', ''],
-          ['Ben Dam', ''],
-          ['Ben Dinh', ''],
-          ['Binh Son', ''],
-          ['Chu Hai', ''],
-          ['Con Son', ''],
-          ['Cu My', ''],
-          ['Doi Bon', ''],
-          ['Doi Hai', ''],
-          ['Doi Sau', ''],
-          ['Duc Thanh', ''],
-          ['Hai An', ''],
-          ['Hai Lac', ''],
-          ['Hai Son', ''],
-          ['Hat Dich', ''],
-          ['Ho Tram', ''],
-          ['Hoi My', ''],
-          ['Lang Cat', ''],
-          ['Lang Long Huong', ''],
-          ['Lang Long Son', ''],
-          ['Lang Phuoc Hoa', ''],
-          ['Lien Duc', ''],
-          ['Lien Hiep', ''],
-          ['Lien Loc', ''],
-          ['Long Le', ''],
-          ['Long Xuyen', ''],
-          ['My Thanh', ''],
-          ['Nam Binh', ''],
-          ['Nui Nua', ''],
-          ['Ong Trinh', ''],
-          ['Phu Hoa', ''],
-          ['Phu My', ''],
-          ['Phuoc An', ''],
-          ['Phuoc Co', ''],
-          ['Phuoc Lap', ''],
-          ['Phuoc Thanh', ''],
-          ['Phuoc Tho', ''],
-          ['Quang Tay', ''],
-          ['Son Hoa', ''],
-          ['Song Cau', ''],
-          ['Tan Bang', ''],
-          ['Tan Binh', ''],
-          ['Tan Chau', ''],
-          ['Tan Giao', ''],
-          ['Tan Ninh', ''],
-          ['Tan Thanh', ''],
-          ['Tan Trung', ''],
-          ['Thach Long', ''],
-          ['Thanh Pho Ba Ria', ''],
-          ['Thi Tran Long Dien', ''],
-          ['Thi Tran Long Hai', ''],
-          ['Thi Tran Ngai Giao', ''],
-          ['Thi Tran Phu My', ''],
-          ['Thi Tran Phuoc Buu', ''],
-          ['Thon Bay', ''],
-          ['Thon Bon', ''],
-          ['Thon Hai', ''],
-          ['Thuan Bien', ''],
-          ['Tra Lu', ''],
-          ['Tra Tan', ''],
-          ['Trang Dinh', ''],
-          ['Trang Lon', ''],
-          ['Van Hanh', ''],
-          ['Viet Kieu', ''],
-          ['Vung Tau', ''],
-          ['Xa An Ngai', ''],
-          ['Xa An Nhut', ''],
-          ['Xa Cam My', ''],
-          ['Xa Long Phuoc', ''],
-          ['Xa Long Son', ''],
-          ['Xa Phuoc Le', ''],
-          ['Xa Tam Phuoc', ''],
-          ['Xa Thang Nhut', ''],
-          ['Xa Thang Tam', ''],
-          ['Xom Dua', ''],
-          ['Xuyen Moc', '']
+          ['translation', '巴地头顿省'],
+          ['An Hai', '安海'],
+          ['Ap Ba', '邑巴'],
+          ['Ap Bay', '邑北'],
+          ['Ap Ben Cay', '邑槟棋'],
+          ['Ap Ben Da', '邑槟达'],
+          ['Ap Binh Chau', '邑平洲'],
+          ['Ap Bon', '邑本'],
+          ['Ap Cho Ben', '邑槟集'],
+          ['Ap Gieng Moi', '邑新井'],
+          ['Ap Hoi Thanh', '邑会城'],
+          ['Ap Hung Hoa', '邑雄和'],
+          ['Ap Long Hoa', '邑隆和'],
+          ['Ap Long Kien I', '邑隆坚一'],
+          ['Ap Long Xuan', '邑隆春'],
+          ['Ap My An', '邑美安'],
+          ['Ap Ngai Giao', '邑艾蒿'],
+          ['Ap Phuoc Tinh', '邑福静'],
+          ['Ap Rung La', '邑林罗'],
+          ['Ap Sau', '邑六'],
+          ['Ap Tay', '邑西'],
+          ['Ap Xuan Khai', '邑春开'],
+          ['Ap Xuan Son', '邑春山'],
+          ['Ba Ria', '巴地'],
+          ['Bau Ma', '宝马'],
+          ['Ben Dam', '槟淡'],
+          ['Ben Dinh', '槟亭'],
+          ['Binh Son', '平山'],
+          ['Chu Hai', '珠海'],
+          ['Con Son', '昆仑'],
+          ['Cu My', '古美'],
+          ['Doi Bon', '队本'],
+          ['Doi Hai', '队海'],
+          ['Doi Sau', '队六'],
+          ['Duc Thanh', '德城'],
+          ['Hai An', '海安'],
+          ['Hai Lac', '海乐'],
+          ['Hai Son', '海山'],
+          ['Hat Dich', '核直'],
+          ['Ho Tram', '湖湛'],
+          ['Hoi My', '会美'],
+          ['Lang Cat', '郎葛'],
+          ['Lang Long Huong', '郎隆香'],
+          ['Lang Long Son', '郎隆山'],
+          ['Lang Phuoc Hoa', '郎福和'],
+          ['Lien Duc', '莲德'],
+          ['Lien Hiep', '联协'],
+          ['Lien Loc', '联禄'],
+          ['Long Le', '隆利'],
+          ['Long Xuyen', '龙川'],
+          ['My Thanh', '美城'],
+          ['Nam Binh', '南平'],
+          ['Nui Nua', '核山'],
+          ['Ong Trinh', '翁程'],
+          ['Phu Hoa', '富和'],
+          ['Phu My', '富美'],
+          ['Phuoc An', '福安'],
+          ['Phuoc Co', '福古'],
+          ['Phuoc Lap', '福立'],
+          ['Phuoc Thanh', '福城'],
+          ['Phuoc Tho', '福寿'],
+          ['Quang Tay', '广西'],
+          ['Son Hoa', '山和'],
+          ['Song Cau', '松球'],
+          ['Tan Bang', '新榜'],
+          ['Tan Binh', '新平'],
+          ['Tan Chau', '新洲'],
+          ['Tan Giao', '新教'],
+          ['Tan Ninh', '新宁'],
+          ['Tan Thanh', '新城'],
+          ['Tan Trung', '新忠'],
+          ['Thach Long', '石龙'],
+          ['Thanh Pho Ba Ria', '巴地市'],
+          ['Thi Tran Long Dien', '隆田市镇'],
+          ['Thi Tran Long Hai', '隆海市镇'],
+          ['Thi Tran Ngai Giao', '艾蒿市镇'],
+          ['Thi Tran Phu My', '富美市镇'],
+          ['Thi Tran Phuoc Buu', '福保市镇'],
+          ['Thon Bay', '村北'],
+          ['Thon Bon', '村本'],
+          ['Thon Hai', '村海'],
+          ['Thuan Bien', '顺边'],
+          ['Tra Lu', '茶芦'],
+          ['Tra Tan', '茶新'],
+          ['Trang Dinh', '庄亭'],
+          ['Trang Lon', '庄隆'],
+          ['Van Hanh', '万行'],
+          ['Viet Kieu', '越侨'],
+          ['Vung Tau', '头顿'],
+          ['Xa An Ngai', '安艾社'],
+          ['Xa An Nhut', '安日社'],
+          ['Xa Cam My', '锦美社'],
+          ['Xa Long Phuoc', '隆福社'],
+          ['Xa Long Son', '隆山社'],
+          ['Xa Phuoc Le', '福礼社'],
+          ['Xa Tam Phuoc', '三福社'],
+          ['Xa Thang Nhut', '胜日社'],
+          ['Xa Thang Tam', '胜三社'],
+          ['Xom Dua', '椰村'],
+          ['Xuyen Moc', '川木']
         ])
       ],
       [
         'Quang Binh',
         new Map([
-          ['translation', ''],
-          ['Dong Hoi', ''],
-          ['Hoan Lao', ''],
-          ['Kien Giang', '']
+          ['translation', '广平省'],
+          ['Dong Hoi', '同海'],
+          ['Hoan Lao', '欢牢'],
+          ['Kien Giang', '坚江']
         ])
       ],
       [
         'Phu Yen',
         new Map([
-          ['translation', ''],
-          ['Song Cau', ''],
-          ['Tuy Hoa', '']
+          ['translation', '富安省'],
+          ['Song Cau', '松球'],
+          ['Tuy Hoa', '绥和']
         ])
       ],
       [
         'Dong Nai',
         new Map([
-          ['translation', ''],
-          ['Bien Hoa', ''],
-          ['Vung Tau', '']
+          ['translation', '同奈省'],
+          ['Bien Hoa', '边和'],
+          ['Vung Tau', '头顿']
         ])
       ],
       [
         'Ha Nam',
         new Map([
-          ['translation', ''],
-          ['Phu Ly', '']
+          ['translation', '河南省'],
+          ['Phu Ly', '府里']
         ])
       ],
       [
         'Tuyen Quang',
         new Map([
-          ['translation', ''],
-          ['Tuyen Quang', '']
+          ['translation', '宣光省'],
+          ['Tuyen Quang', '宣光']
         ])
       ],
       [
         'Binh Phuoc',
         new Map([
-          ['translation', ''],
-          ['Binh Long', ''],
-          ['Dong Xoai', ''],
-          ['Loc Ninh', ''],
-          ['Phu Rieng', '']
+          ['translation', '平福省'],
+          ['Binh Long', '平隆'],
+          ['Dong Xoai', '同帅'],
+          ['Loc Ninh', '禄宁'],
+          ['Phu Rieng', '富嵘']
         ])
       ],
       [
         'Hai Phong',
         new Map([
-          ['translation', ''],
-          ['Haiphong', '']
+          ['translation', '海防市'],
+          ['Haiphong', '海防']
         ])
       ],
       [
         'Tay Ninh',
         new Map([
-          ['translation', ''],
-          ['Phu Khuong', ''],
-          ['Tay Ninh', '']
+          ['translation', '西宁省'],
+          ['Phu Khuong', '富光'],
+          ['Tay Ninh', '西宁']
         ])
       ],
       [
         'Khanh Hoa',
         new Map([
-          ['translation', ''],
-          ['Cam Ranh', ''],
-          ['Nha Trang', '']
+          ['translation', '庆和省'],
+          ['Cam Ranh', '金兰'],
+          ['Nha Trang', '芽庄']
         ])
       ],
       [
         'Thai Nguyen',
         new Map([
-          ['translation', ''],
-          ['Thai Nguyen', '']
+          ['translation', '太原省'],
+          ['Thai Nguyen', '太原']
         ])
       ],
       [
         'Bac Giang',
         new Map([
-          ['translation', ''],
-          ['Bac Giang', ''],
-          ['Chu', ''],
-          ['Thang', '']
+          ['translation', '北江省'],
+          ['Bac Giang', '北江'],
+          ['Chu', '株'],
+          ['Thang', '升']
         ])
       ],
       [
         'Lam Dong',
         new Map([
-          ['translation', ''],
-          ['Da Lat', ''],
-          ['Di Linh', ''],
-          ['Son', '']
+          ['translation', '林同省'],
+          ['Da Lat', '大叻'],
+          ['Di Linh', '夷灵'],
+          ['Son', '山']
         ])
       ],
       [
         'Hai Duong',
         new Map([
-          ['translation', ''],
-          ['Hai Duong', '']
+          ['translation', '海阳省'],
+          ['Hai Duong', '海阳']
         ])
       ],
       [
         'Lao Cai',
         new Map([
-          ['translation', ''],
-          ['Lao Cai', ''],
-          ['Sa Pa', ''],
-          ['Tang', '']
+          ['translation', '老街省'],
+          ['Lao Cai', '老街'],
+          ['Sa Pa', '沙巴'],
+          ['Tang', '升']
         ])
       ],
       [
         'An Giang',
         new Map([
-          ['translation', ''],
-          ['Chau Doc', ''],
-          ['Khanh Hoa', ''],
-          ['Long Xuyen', '']
+          ['translation', '安江省'],
+          ['Chau Doc', '朱笃'],
+          ['Khanh Hoa', '庆和'],
+          ['Long Xuyen', '龙川']
         ])
       ],
       [
         'Dak Lak',
         new Map([
-          ['translation', ''],
-          ['Buon Ma Thuot', '']
+          ['translation', '得乐省'],
+          ['Buon Ma Thuot', '邦美蜀']
         ])
       ],
       [
         'Soc Trang',
         new Map([
-          ['translation', ''],
-          ['Con Son', ''],
-          ['Soc Trang', '']
+          ['translation', '朔庄省'],
+          ['Con Son', '昆仑'],
+          ['Soc Trang', '朔庄']
         ])
       ],
       [
         'Kon Tum',
         new Map([
-          ['translation', ''],
-          ['Bong Bang', ''],
-          ['Ca Nhay', ''],
-          ['Chuong Nghia', ''],
-          ['Dak Klong', ''],
-          ['Dak Kop', ''],
-          ['Dak Roleang', ''],
-          ['Dak Rve', ''],
-          ['Dak Tevian', ''],
-          ['Dak To', ''],
-          ['Dak Tong', ''],
-          ['Dang Kon Tong Dak', ''],
-          ['Doi Ba', ''],
-          ['Dong Nay', ''],
-          ['Ha Nang', ''],
-          ['Kon Gop', ''],
-          ['Kon Gull', ''],
-          ['Kon Hongo Kotu', ''],
-          ['Kon Horing', ''],
-          ['Kon Monay Kotu', ''],
-          ['Kon Sepang', ''],
-          ['Kon Tao', ''],
-          ['Kon Trang Kla', ''],
-          ['Kon Tum', ''],
-          ['Kon Tum Ko Nam', ''],
-          ['Kon Tum Ko Pang', ''],
-          ['Kon Von Kla', ''],
-          ['Kon Xom Luh', ''],
-          ['Lac Trom Dong', ''],
-          ['Lang Cho', ''],
-          ['Lang Kon Hodram', ''],
-          ['Lang Kon Hojao', ''],
-          ['Mui Ne', ''],
-          ['Nghia An', ''],
-          ['Nhon Khanh', ''],
-          ['Plei Po', ''],
-          ['Plei Yai', ''],
-          ['Polei Phia Luong', ''],
-          ['Polei Phia Pheap', ''],
-          ['Polei Rolung', ''],
-          ['Tan Canh', ''],
-          ['Tan Phu', ''],
-          ['Tap Doan Mot', ''],
-          ['Tap Doan Tam', ''],
-          ['Thon Muoi', ''],
-          ['Tien Niang', ''],
-          ['Tomb of Khai Dinh', ''],
-          ['Tri Dao', ''],
-          ['Vi Koa', ''],
-          ['Xa Do Lai', ''],
-          ['Zao Po', ''],
-          ['kon Hono', '']
+          ['translation', '昆嵩省'],
+          ['Bong Bang', '蓬榜'],
+          ['Ca Nhay', '嘉耐'],
+          ['Chuong Nghia', '章义'],
+          ['Dak Klong', '得空'],
+          ['Dak Kop', '得阁'],
+          ['Dak Roleang', '得若良'],
+          ['Dak Rve', '得威'],
+          ['Dak Tevian', '得得良'],
+          ['Dak To', '得苏'],
+          ['Dak Tong', '得东'],
+          ['Dang Kon Tong Dak', '党昆通得'],
+          ['Doi Ba', '队巴'],
+          ['Dong Nay', '东乃'],
+          ['Ha Nang', '河能'],
+          ['Kon Gop', '昆阁'],
+          ['Kon Gull', '昆古'],
+          ['Kon Hongo Kotu', '昆洪哥古图'],
+          ['Kon Horing', '昆霍灵'],
+          ['Kon Monay Kotu', '昆莫乃古图'],
+          ['Kon Sepang', '昆色榜'],
+          ['Kon Tao', '昆桃'],
+          ['Kon Trang Kla', '昆庄克拉'],
+          ['Kon Tum', '昆嵩'],
+          ['Kon Tum Ko Nam', '昆嵩哥南'],
+          ['Kon Tum Ko Pang', '昆嵩哥榜'],
+          ['Kon Von Kla', '昆翁克拉'],
+          ['Kon Xom Luh', '昆村路'],
+          ['Lac Trom Dong', '乐翠东'],
+          ['Lang Cho', '郎洲'],
+          ['Lang Kon Hodram', '郎昆和姆'],
+          ['Lang Kon Hojao', '郎昆和交'],
+          ['Mui Ne', '美奈'],
+          ['Nghia An', '义安'],
+          ['Nhon Khanh', '仁庆'],
+          ['Plei Po', '波莱波'],
+          ['Plei Yai', '波莱亚'],
+          ['Polei Phia Luong', '波莱斐良'],
+          ['Polei Phia Pheap', '波莱斐普'],
+          ['Polei Rolung', '波莱罗隆'],
+          ['Tan Canh', '新景'],
+          ['Tan Phu', '新富'],
+          ['Tap Doan Mot', '集团一'],
+          ['Tap Doan Tam', '集团三'],
+          ['Thon Muoi', '村十'],
+          ['Tien Niang', '仙娘'],
+          ['Tomb of Khai Dinh', '启定陵'],
+          ['Tri Dao', '智道'],
+          ['Vi Koa', '威科'],
+          ['Xa Do Lai', '社多来'],
+          ['Zao Po', '早波'],
+          ['kon Hono', '昆霍诺']
         ])
       ],
       [
         'Thua Thien-Hue',
         new Map([
-          ['translation', ''],
-          ['Hue', '']
+          ['translation', '承天顺化省'],
+          ['Hue', '顺化']
         ])
       ],
       [
         'Hung Yen',
         new Map([
-          ['translation', ''],
-          ['Hung Yen', '']
+          ['translation', '兴安省'],
+          ['Hung Yen', '兴安']
         ])
       ],
       [
         'Quang Ninh',
         new Map([
-          ['translation', ''],
-          ['Cam Pha', ''],
-          ['Cam Pha Mines', ''],
-          ['Ha Long', ''],
-          ['Uong Bi', '']
+          ['translation', '广宁省'],
+          ['Cam Pha', '锦普'],
+          ['Cam Pha Mines', '锦普矿区'],
+          ['Ha Long', '下龙'],
+          ['Uong Bi', '汪秘']
         ])
       ],
       [
         'Gia Lai',
         new Map([
-          ['translation', ''],
-          ['Chu Se', ''],
-          ['Le Thanh', ''],
-          ['Pleiku', '']
+          ['translation', '嘉莱省'],
+          ['Chu Se', '朱色'],
+          ['Le Thanh', '黎城'],
+          ['Pleiku', '波来古']
         ])
       ],
       [
         'Quang Nam',
         new Map([
-          ['translation', ''],
-          ['Hoi An', ''],
-          ['Tam Ky', '']
+          ['translation', '广南省'],
+          ['Hoi An', '会安'],
+          ['Tam Ky', '三岐']
         ])
       ],
       [
         'Ben Tre',
         new Map([
-          ['translation', ''],
-          ['Ben Tre', '']
+          ['translation', '槟知省'],
+          ['Ben Tre', '槟知']
         ])
       ],
       [
         'Ninh Binh',
         new Map([
-          ['translation', ''],
-          ['Ninh Binh', ''],
-          ['Phu Oc', '']
+          ['translation', '宁平省'],
+          ['Ninh Binh', '宁平'],
+          ['Phu Oc', '富沃']
         ])
       ],
       [
         'Nam Dinh',
         new Map([
-          ['translation', ''],
-          ['Nam Dinh', '']
+          ['translation', '南定省'],
+          ['Nam Dinh', '南定']
         ])
       ],
       [
         'Quang Ngai',
         new Map([
-          ['translation', ''],
-          ['Quang Ngai', '']
+          ['translation', '广义省'],
+          ['Quang Ngai', '广义']
         ])
       ],
       [
         'Kien Giang',
         new Map([
-          ['translation', ''],
-          ['Duong GJong', ''],
-          ['Duong To', ''],
-          ['Ha Tien', ''],
-          ['Kien Luong', ''],
-          ['Phu Quoc', ''],
-          ['Rach Gia', '']
+          ['translation', '坚江省'],
+          ['Duong GJong', '阳东'],
+          ['Duong To', '阳东'],
+          ['Ha Tien', '河仙'],
+          ['Kien Luong', '坚良'],
+          ['Phu Quoc', '富国'],
+          ['Rach Gia', '迪石']
         ])
       ],
       [
         'Thanh Hoa',
         new Map([
-          ['translation', ''],
-          ['Bim Son', ''],
-          ['Nghi Son', ''],
-          ['Thanh Hoa', ''],
-          ['Van Thu', '']
+          ['translation', '清化省'],
+          ['Bim Son', '森山'],
+          ['Nghi Son', '宜山'],
+          ['Thanh Hoa', '清化'],
+          ['Van Thu', '万寿']
         ])
       ],
       [
         'Thai Binh',
         new Map([
-          ['translation', ''],
-          ['Thai Binh', '']
+          ['translation', '太平省'],
+          ['Thai Binh', '太平']
         ])
       ],
       [
         'Quang Tri',
         new Map([
-          ['translation', ''],
-          ['Dong Ha', ''],
-          ['Ho Xa', ''],
-          ['Lao Bao', ''],
-          ['Quang Tri', ''],
-          ['Tan Tai', '']
+          ['translation', '广治省'],
+          ['Dong Ha', '东河'],
+          ['Ho Xa', '湖社'],
+          ['Lao Bao', '老保'],
+          ['Quang Tri', '广治'],
+          ['Tan Tai', '新才']
         ])
       ],
       [
         'Yen Bai',
         new Map([
-          ['translation', ''],
-          ['Yen Bai', '']
+          ['translation', '安沛省'],
+          ['Yen Bai', '安沛']
         ])
       ],
       [
         'Hoa Binh',
         new Map([
-          ['translation', ''],
-          ['Hoa Binh', ''],
-          ['Quang Trung', '']
+          ['translation', '和平省'],
+          ['Hoa Binh', '和平'],
+          ['Quang Trung', '光中']
         ])
       ],
       [
         'Phu Tho',
         new Map([
-          ['translation', ''],
-          ['Viet Tri', '']
+          ['translation', '富寿省'],
+          ['Viet Tri', '越池']
         ])
       ],
       [
         'Bac Lieu',
         new Map([
-          ['translation', ''],
-          ['Bac Lieu', '']
+          ['translation', '薄辽省'],
+          ['Bac Lieu', '薄辽']
         ])
       ],
       [
         'Ha Tinh',
         new Map([
-          ['translation', ''],
-          ['Binh Duong', ''],
-          ['Dong Nai', ''],
-          ['Ha Tinh', ''],
-          ['Hoa Lac', '']
+          ['translation', '河静省'],
+          ['Binh Duong', '平阳'],
+          ['Dong Nai', '同奈'],
+          ['Ha Tinh', '河静'],
+          ['Hoa Lac', '和乐']
         ])
       ],
       [
         'Dien Bien',
         new Map([
-          ['translation', ''],
-          ['Dien Bien Phu', ''],
-          ['Muong Nhe', '']
+          ['translation', '奠边省'],
+          ['Dien Bien Phu', '奠边府'],
+          ['Muong Nhe', '芒涅']
         ])
       ],
       [
         'Ninh Thuan',
         new Map([
-          ['translation', ''],
-          ['Phan Rang-Thap Cham', '']
+          ['translation', '宁顺省'],
+          ['Phan Rang-Thap Cham', '潘郎塔占']
         ])
       ],
       [
         'Lang Son',
         new Map([
-          ['translation', ''],
-          ['Lang Son', ''],
-          ['Van Linh', '']
+          ['translation', '谅山省'],
+          ['Lang Son', '谅山'],
+          ['Van Linh', '文灵']
         ])
       ],
       [
         'Vinh Long',
         new Map([
-          ['translation', ''],
-          ['Vinh Long', '']
+          ['translation', '永隆省'],
+          ['Vinh Long', '永隆']
         ])
       ],
       [
         'Tien Giang',
         new Map([
-          ['translation', ''],
-          ['My Tho', '']
+          ['translation', '前江省'],
+          ['My Tho', '美湫']
         ])
       ],
       [
         'Nghe An',
         new Map([
-          ['translation', ''],
-          ['Anh Son', ''],
-          ['Con Cuong', ''],
-          ['Dong Thap', ''],
-          ['Vinh', '']
+          ['translation', '乂安省'],
+          ['Anh Son', '英山'],
+          ['Con Cuong', '昆宫'],
+          ['Dong Thap', '同塔'],
+          ['Vinh', '荣市']
         ])
       ],
       [
@@ -26354,141 +26354,141 @@ const translations = new Map([
       [
         'Vinh Phuc',
         new Map([
-          ['translation', ''],
-          ['Vinh Yen', '']
+          ['translation', '永福省'],
+          ['Vinh Yen', '永安']
         ])
       ],
       [
         'Ca Mau',
         new Map([
-          ['translation', ''],
-          ['Ca Mau', '']
+          ['translation', '金瓯省'],
+          ['Ca Mau', '金瓯']
         ])
       ],
       [
         'Dong Thap',
         new Map([
-          ['translation', ''],
-          ['Cao Lanh', ''],
-          ['Sa Dec', '']
+          ['translation', '同塔省'],
+          ['Cao Lanh', '高岭'],
+          ['Sa Dec', '沙沥']
         ])
       ],
       [
         'Binh Thuan',
         new Map([
-          ['translation', ''],
-          ['Kon Tum', ''],
-          ['Phan Thiet', '']
+          ['translation', '平顺省'],
+          ['Kon Tum', '昆嵩'],
+          ['Phan Thiet', '藩切']
         ])
       ],
       [
         'Hau Giang',
         new Map([
-          ['translation', ''],
-          ['Thanh Xuan', ''],
-          ['Vi Thanh', '']
+          ['translation', '后江省'],
+          ['Thanh Xuan', '青春'],
+          ['Vi Thanh', '渭清']
         ])
       ],
       [
         'Dak Nong',
         new Map([
-          ['translation', ''],
-          ["Ap Bon B'sop", ''],
-          ['Ap Tam Hung', ''],
-          ["B'rong", ''],
-          ["B'sre", ''],
-          ["B'tong", ''],
-          ["Ban N'doh", ''],
-          ["Bon B'kol Da Myong", ''],
-          ['Bon Bu Dop', ''],
-          ['Bon Bu Gar', ''],
-          ["Bon Dak N'drot", ''],
-          ['Bon Dring Deung', ''],
-          ['Bon Dro', ''],
-          ["Bon Drou Dak M'hang", ''],
-          ['Bon Phi Mour', ''],
-          ['Bon Tre Ma', ''],
-          ['Bu Bong', ''],
-          ['Bu Dap', ''],
-          ['Bu Jeng Giat', ''],
-          ['Bu Jrah', ''],
-          ["Bu M'blum", ''],
-          ['Bu Mo', ''],
-          ["Bu T'chueng", ''],
-          ["Buon Bu N'doh", ''],
-          ['Buon Bu Pah', ''],
-          ['Buon Bubo Dak Nong', ''],
-          ['Buon Dier', ''],
-          ['Buon Dru Dak Mam', ''],
-          ['Buon Pe Gour', ''],
-          ['Buon Pinao', ''],
-          ['Buon Trum', ''],
-          ['Dak KRai', ''],
-          ['Dak Mam', ''],
-          ['Dak Mil', ''],
-          ['Dak Song', ''],
-          ['Dak Thanh', ''],
-          ['Dinh Dien Thuan Hanh', ''],
-          ['Don Dak Nam La', ''],
-          ['Duc An', ''],
-          ['Duc Minh', ''],
-          ["Ea T'ling", ''],
-          ['Gia Nghia', ''],
-          ['Giang Du', ''],
-          ['Kim Son', ''],
-          ['Km Ba Muoi Tam', ''],
-          ['Krola Dong', ''],
-          ['Nam Thanh', ''],
-          ['Nam Trung', ''],
-          ['Quang Duc', ''],
-          ['Rung Lanh', ''],
-          ['Thon Ba', ''],
-          ['Thon Bon', ''],
-          ['Thon Chin', ''],
-          ['Thon Nam', ''],
-          ['Thon Sau', ''],
-          ['Thuan Hanh', ''],
-          ['Tram de Dak Mil', ''],
-          ['Tu Minh', ''],
-          ['Tu Xoay', ''],
-          ['Xom Phia', ''],
-          ['Xom Tao', '']
+          ['translation', '得农省'],
+          ["Ap Bon B'sop", '邑本比索'],
+          ['Ap Tam Hung', '邑三雄'],
+          ["B'rong", '布隆'],
+          ["B'sre", '布斯雷'],
+          ["B'tong", '布通'],
+          ["Ban N'doh", '班恩多'],
+          ["Bon B'kol Da Myong", '本比科达明'],
+          ['Bon Bu Dop', '本布朵'],
+          ['Bon Bu Gar', '本布加'],
+          ["Bon Dak N'drot", '本得恩若'],
+          ['Bon Dring Deung', '本灵东'],
+          ['Bon Dro', '本罗'],
+          ["Bon Drou Dak M'hang", '本罗得芒'],
+          ['Bon Phi Mour', '本菲穆'],
+          ['Bon Tre Ma', '本茶麻'],
+          ['Bu Bong', '布蓬'],
+          ['Bu Dap', '布答'],
+          ['Bu Jeng Giat', '布仍甲'],
+          ['Bu Jrah', '布扎'],
+          ["Bu M'blum", '布姆布'],
+          ['Bu Mo', '布模'],
+          ["Bu T'chueng", '布切'],
+          ["Buon Bu N'doh", '邦布恩多'],
+          ['Buon Bu Pah', '邦布帕'],
+          ['Buon Bubo Dak Nong', '邦布波得农'],
+          ['Buon Dier', '邦蝶'],
+          ['Buon Dru Dak Mam', '邦蛭得芒'],
+          ['Buon Pe Gour', '邦佩古'],
+          ['Buon Pinao', '邦皮瑙'],
+          ['Buon Trum', '邦仲'],
+          ['Dak KRai', '得克莱'],
+          ['Dak Mam', '得芒'],
+          ['Dak Mil', '得密'],
+          ['Dak Song', '得桑'],
+          ['Dak Thanh', '得城'],
+          ['Dinh Dien Thuan Hanh', '亭田顺行'],
+          ['Don Dak Nam La', '敦得南拉'],
+          ['Duc An', '德安'],
+          ['Duc Minh', '德明'],
+          ["Ea T'ling", '埃灵'],
+          ['Gia Nghia', '嘉义'],
+          ['Giang Du', '江游'],
+          ['Kim Son', '金山'],
+          ['Km Ba Muoi Tam', '三十八公里'],
+          ['Krola Dong', '克若拉东'],
+          ['Nam Thanh', '南城'],
+          ['Nam Trung', '南忠'],
+          ['Quang Duc', '广德'],
+          ['Rung Lanh', '冷林'],
+          ['Thon Ba', '村三'],
+          ['Thon Bon', '村本'],
+          ['Thon Chin', '村九'],
+          ['Thon Nam', '村南'],
+          ['Thon Sau', '村六'],
+          ['Thuan Hanh', '顺行'],
+          ['Tram de Dak Mil', '得密站'],
+          ['Tu Minh', '图明'],
+          ['Tu Xoay', '图旋'],
+          ['Xom Phia', '费亚村'],
+          ['Xom Tao', '桃村']
         ])
       ],
       [
         'Cao Bang',
         new Map([
-          ['translation', ''],
-          ['Cao Bang', ''],
-          ['Dong Da', '']
+          ['translation', '高平省'],
+          ['Cao Bang', '高平'],
+          ['Dong Da', '栋多']
         ])
       ],
       [
         'Bac Kan',
         new Map([
-          ['translation', ''],
-          ['Bac Kan', '']
+          ['translation', '北件省'],
+          ['Bac Kan', '北件']
         ])
       ],
       [
         'Ha Giang',
         new Map([
-          ['translation', ''],
-          ['Ha Giang', '']
+          ['translation', '河江省'],
+          ['Ha Giang', '河江']
         ])
       ],
       [
         'Son La',
         new Map([
-          ['translation', ''],
-          ['Son La', '']
+          ['translation', '山罗省'],
+          ['Son La', '山罗']
         ])
       ],
       [
         'Lai Chau',
         new Map([
-          ['translation', ''],
-          ['Phong Tho', '']
+          ['translation', '莱州省'],
+          ['Phong Tho', '封土']
         ])
       ]
     ])
