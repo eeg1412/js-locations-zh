@@ -2890,7 +2890,7 @@ const translations = new Map([
       [
         'Tokyo',
         new Map([
-          ['translation', '东京'],
+          ['translation', '东京都'],
           ['Chofu', '调布'],
           ['Fuchu', '府中'],
           ['Hachioji', '八王子'],
@@ -2923,7 +2923,7 @@ const translations = new Map([
       [
         'Hiroshima',
         new Map([
-          ['translation', '广岛'],
+          ['translation', '广岛县'],
           ['Fuchu', '府中'],
           ['Fukuyama', '福山'],
           ['Hashirijima', '走岛'],
@@ -2948,7 +2948,7 @@ const translations = new Map([
       [
         'Miyagi',
         new Map([
-          ['translation', '宫城'],
+          ['translation', '宫城县'],
           ['Asahicho', '旭町'],
           ['Gamo', '蒲生'],
           ['Ishinomaki', '石卷'],
@@ -2974,7 +2974,7 @@ const translations = new Map([
       [
         'Shimane',
         new Map([
-          ['translation', '岛根'],
+          ['translation', '岛根县'],
           ['Ai', '安来'],
           ['Gotsucho', '江津町'],
           ['Hamada', '滨田'],
@@ -2995,7 +2995,7 @@ const translations = new Map([
       [
         'Yamaguchi',
         new Map([
-          ['translation', '山口'],
+          ['translation', '山口县'],
           ['Agawa', '阿川'],
           ['Esaki', '江崎'],
           ['Go', '五'],
@@ -3022,7 +3022,7 @@ const translations = new Map([
       [
         'Tottori',
         new Map([
-          ['translation', '鸟取'],
+          ['translation', '鸟取县'],
           ['Akasaki', '赤崎'],
           ['Aoya', '阿弥陀'],
           ['Chizu', '智头'],
@@ -3034,7 +3034,7 @@ const translations = new Map([
       [
         'Gifu',
         new Map([
-          ['translation', '岐阜'],
+          ['translation', '岐阜县'],
           ['Ena', '惠那'],
           ['Gero', '下吕'],
           ['Gifu', '岐阜'],
@@ -3060,7 +3060,7 @@ const translations = new Map([
       [
         'Kochi',
         new Map([
-          ['translation', '高知'],
+          ['translation', '高知县'],
           ['Aki', '安艺'],
           ['Ichinose', '市野瀬'],
           ['Kami', '上'],
@@ -3083,7 +3083,7 @@ const translations = new Map([
       [
         'Kyoto',
         new Map([
-          ['translation', '京都'],
+          ['translation', '京都府'],
           ['Ayabe', '绫部'],
           ['Fukuchiyama', '福知山'],
           ['Ido', '井户'],
@@ -3106,7 +3106,7 @@ const translations = new Map([
       [
         'Chiba',
         new Map([
-          ['translation', '千叶'],
+          ['translation', '千叶县'],
           ['Abiko', '我孙子'],
           ['Asahi', '旭'],
           ['Banda', '万田'],
@@ -3147,7 +3147,7 @@ const translations = new Map([
       [
         'Osaka',
         new Map([
-          ['translation', '大阪'],
+          ['translation', '大阪府'],
           ['Daito', '大东'],
           ['Habikino', '羽曳野'],
           ['Hannan', '阪南'],
@@ -3169,7 +3169,7 @@ const translations = new Map([
       [
         'Saitama',
         new Map([
-          ['translation', '埼玉'],
+          ['translation', '埼玉县'],
           ['Chichibu', '秩父'],
           ['Fujimi', '富士见'],
           ['Fukaya', '深谷'],
@@ -3198,7 +3198,7 @@ const translations = new Map([
       [
         'Fukuoka',
         new Map([
-          ['translation', '福冈'],
+          ['translation', '福冈县'],
           ['Chikugo', '筑后'],
           ['Chikushi', '筑紫'],
           ['Fukuoka', '福冈'],
@@ -3220,7 +3220,7 @@ const translations = new Map([
       [
         'Kanagawa',
         new Map([
-          ['translation', '神奈川'],
+          ['translation', '神奈川县'],
           ['Atsugi', '厚木'],
           ['Chigasaki', '茅崎'],
           ['Ebina', '海老名'],
@@ -3382,7 +3382,7 @@ const translations = new Map([
       [
         'Aichi',
         new Map([
-          ['translation', '爱知'],
+          ['translation', '爱知县'],
           ['Ama', '阿马'],
           ['Anjo', '安城'],
           ['Chita', '知多'],
@@ -3415,7 +3415,7 @@ const translations = new Map([
       [
         'Hyogo',
         new Map([
-          ['translation', '兵库'],
+          ['translation', '兵库县'],
           ['Akashi', '明石'],
           ['Amagasaki', '尼崎'],
           ['Asago', '朝来'],
@@ -3452,7 +3452,7 @@ const translations = new Map([
       [
         'Nagano',
         new Map([
-          ['translation', '长野'],
+          ['translation', '长野县'],
           ['Agematsu', '上松'],
           ['Akamatsu', '赤松'],
           ['Azumino', '安曇野'],
@@ -3483,7 +3483,7 @@ const translations = new Map([
       [
         'Aomori',
         new Map([
-          ['translation', '青森'],
+          ['translation', '青森县'],
           ['Akane', '赤根'],
           ['Aomori', '青森'],
           ['Fukaura', '深浦'],
@@ -3514,7 +3514,7 @@ const translations = new Map([
       [
         'Shizuoka',
         new Map([
-          ['translation', '静冈'],
+          ['translation', '静冈县'],
           ['Fuji', '富士'],
           ['Fujinomiya', '富士宫'],
           ['Hamamatsu', '滨松'],
@@ -3541,7 +3541,7 @@ const translations = new Map([
       [
         'Yamanashi',
         new Map([
-          ['translation', '山梨'],
+          ['translation', '山梨县'],
           ['Chuo', '中央'],
           ['Fujiyoshida', '富士吉田'],
           ['Hayakawa', '早川'],
@@ -3562,7 +3562,7 @@ const translations = new Map([
       [
         'Niigata',
         new Map([
-          ['translation', '新潟'],
+          ['translation', '新潟县'],
           ['Hamochi-hongo', '滨地本乡'],
           ['Itoigawa', '糸鱼川'],
           ['Iwamuro-onsen', '岩室温泉'],
@@ -3601,7 +3601,7 @@ const translations = new Map([
       [
         'Tochigi',
         new Map([
-          ['translation', '栃木'],
+          ['translation', '栃木县'],
           ['Ashikaga', '足利'],
           ['Kanuma', '鹿沼'],
           ['Motegi', '茂木'],
@@ -3621,7 +3621,7 @@ const translations = new Map([
       [
         'Akita',
         new Map([
-          ['translation', '秋田'],
+          ['translation', '秋田县'],
           ['Akita', '秋田'],
           ['Daisen', '大仙'],
           ['Hachirougata', '八郎潟'],
@@ -3650,7 +3650,7 @@ const translations = new Map([
       [
         'Fukushima',
         new Map([
-          ['translation', '福岛'],
+          ['translation', '福岛县'],
           ['Aizuwakamatsu', '会津若松'],
           ['Atamimachi-atami', '热海町热海'],
           ['Fujita', '藤田'],
@@ -3679,7 +3679,7 @@ const translations = new Map([
       [
         'Ibaraki',
         new Map([
-          ['translation', '茨城'],
+          ['translation', '茨城县'],
           ['Hitachi', '日立'],
           ['Hitachiomiya', '常陆大宫'],
           ['Hitachiota', '常陆太田'],
@@ -3703,7 +3703,7 @@ const translations = new Map([
       [
         'Yamagata',
         new Map([
-          ['translation', '山形'],
+          ['translation', '山形县'],
           ['Kaneyama', '金山'],
           ['Masugata', '增形'],
           ['Nagai', '长井'],
@@ -3725,7 +3725,7 @@ const translations = new Map([
       [
         'Gunma',
         new Map([
-          ['translation', '群马'],
+          ['translation', '群马县'],
           ['Doai', '土合'],
           ['Kiryu', '桐生'],
           ['Maebashi', '前桥'],
@@ -3739,7 +3739,7 @@ const translations = new Map([
       [
         'Nagasaki',
         new Map([
-          ['translation', '长崎'],
+          ['translation', '长崎县'],
           ['Goto', '五岛'],
           ['Hirado', '平户'],
           ['Iki', '壹岐'],
@@ -3764,7 +3764,7 @@ const translations = new Map([
       [
         'Wakayama',
         new Map([
-          ['translation', '和歌山'],
+          ['translation', '和歌山县'],
           ['Arida', '有田'],
           ['Gobo', '御坊'],
           ['Hashimoto', '桥本'],
@@ -3791,7 +3791,7 @@ const translations = new Map([
       [
         'Fukui',
         new Map([
-          ['translation', '福井'],
+          ['translation', '福井县'],
           ['Fukui', '福井'],
           ['Jogu', '城崎'],
           ['Katsuyama', '胜山'],
@@ -3805,7 +3805,7 @@ const translations = new Map([
       [
         'Saga',
         new Map([
-          ['translation', '佐贺'],
+          ['translation', '佐贺县'],
           ['Imari', '伊万里'],
           ['Imaricho-ko', '伊万里町古'],
           ['Ishidacho-indojiura', '石田町犬饲浦'],
@@ -3824,7 +3824,7 @@ const translations = new Map([
       [
         'Nara',
         new Map([
-          ['translation', '奈良'],
+          ['translation', '奈良县'],
           ['Ikoma', '生驹'],
           ['Kibi', '吉备'],
           ['Nara', '奈良'],
@@ -3836,7 +3836,7 @@ const translations = new Map([
       [
         'Mie',
         new Map([
-          ['translation', '三重'],
+          ['translation', '三重县'],
           ['Funakoshi', '船越'],
           ['Iga', '伊贺'],
           ['Inabe', '稻生'],
@@ -3861,7 +3861,7 @@ const translations = new Map([
       [
         'Toyama',
         new Map([
-          ['translation', '富山'],
+          ['translation', '富山县'],
           ['Ashizaki', '芦崎'],
           ['Imizu', '射水'],
           ['Iori', '井波'],
@@ -3875,7 +3875,7 @@ const translations = new Map([
       [
         'Shiga',
         new Map([
-          ['translation', '滋贺'],
+          ['translation', '滋贺县'],
           ['Higashiomi', '东近江'],
           ['Hikone', '彦根'],
           ['Koka', '甲贺'],
@@ -3888,7 +3888,7 @@ const translations = new Map([
       [
         'Iwate',
         new Map([
-          ['translation', '岩手'],
+          ['translation', '岩手县'],
           ['Etsunagi', '越中'],
           ['Fudai', '札'],
           ['Fukada', '深田'],
@@ -3921,7 +3921,7 @@ const translations = new Map([
       [
         'Kagawa',
         new Map([
-          ['translation', '香川'],
+          ['translation', '香川县'],
           ["Kan'onji", '观音寺'],
           ["Kan'onjicho", '观音寺町'],
           ['Mitoyo', '三丰'],
@@ -3935,7 +3935,7 @@ const translations = new Map([
       [
         'Okinawa',
         new Map([
-          ['translation', '冲绳'],
+          ['translation', '冲绳县'],
           ['Funauke', '船越'],
           ['Ginowan', '宜野湾'],
           ['Hanji', '汉治'],
@@ -3968,7 +3968,7 @@ const translations = new Map([
       [
         'Kumamoto',
         new Map([
-          ['translation', '熊本'],
+          ['translation', '熊本县'],
           ['Amakusa', '天草'],
           ['Aso', '阿苏'],
           ['Hitoyoshi', '人吉'],
@@ -3984,7 +3984,7 @@ const translations = new Map([
       [
         'Oita',
         new Map([
-          ['translation', '大分'],
+          ['translation', '大分县'],
           ['Beppu', '别府'],
           ['Bungotakada', '丰后高田'],
           ['Hiji', '日出'],
@@ -4003,7 +4003,7 @@ const translations = new Map([
       [
         'Miyazaki',
         new Map([
-          ['translation', '宫崎'],
+          ['translation', '宫崎县'],
           ['Aya', '阿雅'],
           ['Hatozu', '波津'],
           ['Hinokage', '日之影'],
@@ -4027,7 +4027,7 @@ const translations = new Map([
       [
         'Kagoshima',
         new Map([
-          ['translation', '鹿儿岛'],
+          ['translation', '鹿儿岛县'],
           ['Aira', '姶良'],
           ['Akune', '阿久根'],
           ['Amami', '奄美'],
@@ -4067,7 +4067,7 @@ const translations = new Map([
       [
         'Okayama',
         new Map([
-          ['translation', '冈山'],
+          ['translation', '冈山县'],
           ['Bizen', '备前'],
           ['Hayashima', '早岛'],
           ['Ibara', '井原'],
@@ -4091,7 +4091,7 @@ const translations = new Map([
       [
         'Ehime',
         new Map([
-          ['translation', '爱媛'],
+          ['translation', '爱媛县'],
           ['Aoshima', '青岛'],
           ['Donaru', '土纳鲁'],
           ['Imabari', '今治'],
@@ -4113,7 +4113,7 @@ const translations = new Map([
       [
         'Tokushima',
         new Map([
-          ['translation', '德岛'],
+          ['translation', '德岛县'],
           ['Anabuki', '穴吹'],
           ['Anan', '阿南'],
           ['Awa', '阿波'],
@@ -4132,7 +4132,7 @@ const translations = new Map([
       [
         'Ishikawa',
         new Map([
-          ['translation', '石川'],
+          ['translation', '石川县'],
           ['Ataka-shimmachi', 'ataka新町'],
           ['Chijimachi', '千岛町'],
           ['Futamatamachi', '二俣町'],
